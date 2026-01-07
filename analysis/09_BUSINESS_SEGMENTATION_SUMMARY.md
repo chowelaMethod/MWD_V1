@@ -20,21 +20,26 @@ These four dimensions form the foundation for strategic decisions around product
 
 ---
 
-## ⚠️ CRITICAL GAP: General/Specialty Manufacturing Needs Sub-Clustering
+## ⚠️ Manufacturing Sub-Clustering: 34% Complete, 66% Remains
 
-**The #1 challenge**: **General/Specialty Manufacturing** is the largest cluster (348 accounts, 31.8%, $51K MRR) but is **TOO DIVERSE** to be actionable:
-- Includes: forklift services, fiber optics, LED devices, beverages, medical devices, chemicals, custom fabrication, etc.
-- No shared vertical workflows across these vastly different manufacturing types
-- **Cannot build meaningful vertical features** without sub-clustering
+**The #1 challenge**: **General/Specialty Manufacturing** is the largest cluster (348 accounts, 31.8%, $51K MRR) but is **TOO DIVERSE** to be actionable without sub-clustering.
 
-**Status**: The cluster has been identified as "too diverse for vertical features" but **has not yet been broken down into sub-clusters**.
+**Status - Partial Sub-Clustering Complete (UPDATED)**:
+- ✅ **34% sub-clustered** (118 accounts, $26.9K MRR, 52.5% of mfg MRR) into 16 manufacturing types
+- ❌ **66% remain uncategorized** (230 accounts, $24.4K MRR, 47.5% of mfg MRR) due to insufficient data
+- **16 sub-clusters identified**: Medical Devices (22), Industrial Equipment (16), Packaging & Printing (19), Furniture (8), Signage & Display (4), Mfg Reps (13), Metal Fabrication (9), Building Materials (2), Food & Bev (7), Electronics (7), Apparel (4), Chemical (3), Personal Care (1), Nutraceutical (1), Specialty Products (1), Environmental (1)
+
+**Why 73% Are Uncategorized**:
+- 40% of manufacturing accounts have no website data
+- Product data often shows generic items ("Shipping", "Freight", "Sales Tax")
+- Account names are often non-descriptive (e.g., "php", "pma13", "LappStructures")
 
 **Recommended Next Step**:
-- Analyze top 30-50 manufacturing accounts (by MRR) using website verification + product data
-- Identify 6-8 meaningful manufacturing sub-clusters (e.g., Industrial Equipment, Electronics, Food/Bev Mfg, Medical Devices, Chemicals)
-- Re-run strategic analysis with manufacturing sub-clusters included
+- Manual website verification for top 100 uncategorized accounts (by MRR)
+- Enrich missing website data through research
+- Customer interviews to validate and complete sub-clustering
 
-See **Section 2.1** below for detailed analysis and proposed sub-cluster types.
+See **Section 2.1** below for detailed sub-cluster breakdown and examples.
 
 ---
 
@@ -103,12 +108,13 @@ See **Section 2.1** below for detailed analysis and proposed sub-cluster types.
 
 #### 1. General/Specialty Manufacturing (348 accounts, 31.8%)
 
-**⚠️ CRITICAL GAP: This cluster is TOO DIVERSE and NEEDS SUB-CLUSTERING**
+**⚠️ PARTIALLY SUB-CLUSTERED: 118 accounts identified, 230 remain uncategorized**
 
 **Current Status**:
 - **Largest cluster** by account count (348 accounts)
 - **Highest MRR contribution** ($51,315, 34.4% of total)
-- **NO meaningful segmentation yet** - lumped together as "General/Specialty Manufacturing"
+- **34% sub-clustered** (118 accounts, $26.9K MRR, 52.5% of mfg MRR across 16 sub-types)
+- **66% uncategorized** (230 accounts, $24.4K MRR, 47.5% of mfg MRR) - insufficient website/product data
 - **Too varied for vertical-specific features** in current state
 
 **Product Type Breakdown** (321 accounts with data, 92% coverage):
@@ -118,48 +124,77 @@ See **Section 2.1** below for detailed analysis and proposed sub-cluster types.
 - **Service-Based**: 39 accounts (12%)
 - **Hybrid**: 23 accounts (7%)
 
-**Examples of Diversity** (top manufacturers by MRR):
-1. **accurateforklift3** ($1,888 MRR) - Forklift rental/service (Service-Based)
-   - Products: "FUEL SURCHARGE", "SHOP SUPPLIES", "Rental"
+**Manufacturing Sub-Clusters Identified** (118 accounts, 34% of manufacturing):
 
-2. **rlhindustriesinc2** ($1,164 MRR) - Fiber optic link manufacturer
-   - Products: "RLH-SHIPPING", "SI01", "RLH-DRB-2"
-   - Website: fiberopticlink.com
+| Sub-Cluster | Accounts | Total MRR | Avg MRR | % of Mfg | % of Mfg MRR |
+|-------------|----------|-----------|---------|----------|--------------|
+| **Medical Device & Equipment Mfg** | 22 | $4,496 | $204 | 6.3% | 8.8% |
+| **Industrial Equipment & Machinery Mfg** | 16 | $4,299 | $269 | 4.6% | 8.4% |
+| **Packaging & Printing Services** | 19 | $4,032 | $212 | 5.5% | 7.9% |
+| **Furniture & Home Furnishings** | 8 | $2,091 | $261 | 2.3% | 4.1% |
+| **Signage & Display Systems** | 4 | $2,036 | $509 | 1.1% | 4.0% |
+| **Manufacturer Representatives** | 13 | $1,734 | $133 | 3.7% | 3.4% |
+| **Metal Fabrication & Steel** | 9 | $1,700 | $189 | 2.6% | 3.3% |
+| **Building Materials & Construction** | 2 | $1,675 | $838 | 0.6% | 3.3% |
+| **Food & Beverage Manufacturing** | 7 | $1,563 | $223 | 2.0% | 3.0% |
+| **Electronics & Technology Mfg** | 7 | $1,306 | $187 | 2.0% | 2.5% |
+| **Apparel & Textiles** | 4 | $427 | $107 | 1.1% | 0.8% |
+| **Chemical Manufacturing** | 3 | $410 | $137 | 0.9% | 0.8% |
+| **Personal Care & Cosmetics Mfg** | 1 | $336 | $336 | 0.3% | 0.7% |
+| **Nutraceutical & Supplement Mfg** | 1 | $322 | $322 | 0.3% | 0.6% |
+| **Specialty Consumer Products** | 1 | $285 | $285 | 0.3% | 0.6% |
+| **Environmental & Geotechnical Products** | 1 | $247 | $247 | 0.3% | 0.5% |
+| **Uncategorized (Insufficient Data)** | 230 | $24,356 | $106 | 66.1% | 47.5% |
 
-3. **celluma** ($1,122 MRR) - LED light therapy devices
-   - Products: "Shipping", "Shopify Taxes", "COTC-001"
+**Example Accounts by Sub-Cluster**:
 
-4. **mpactbeverage2** ($1,082 MRR) - Beverage manufacturer (50 employees)
-   - Products: "Island Rita 5 gal", "Hip-Notical"
-   - Website: mpactbeverage.com
+1. **Industrial Equipment & Machinery Mfg** (13 accounts, $2,799 MRR):
+   - accurateforklift3 ($1,888 MRR) - Forklift rental/service | accurateforklift.net
+   - customequipmentcompanyinc ($280 MRR)
+   - callanindustrial2 ($196 MRR) | callanindustrial.com
 
-5. **cathxmedicalinc2** ($844 MRR) - Medical catheter manufacturer (61 employees)
-   - Products: "Braided Catheter (OA) CA", "Extrusion Service (OA)"
-   - Website: zeusinc.com
+2. **Packaging & Printing Services** (18 accounts, $3,733 MRR):
+   - jafedecorating ($534 MRR) - Custom printing/decorating | jafedeco.com
+   - interstategraphics ($492 MRR) - Graphics and printing
+   - appackagingcorp ($401 MRR) - Packaging manufacturer
 
-6. **summitlaboratories2** ($783 MRR) - Chemical manufacturer (21 employees)
-   - Products: "Finished Chemicals:F-290 (05-gal pail)", "Project Revenue"
-   - Website: summitlaboratories.com
+3. **Medical Device & Equipment Mfg** (21 accounts, $3,374 MRR):
+   - cathxmedicalinc2 ($844 MRR) - Medical catheters | zeusinc.com
+   - summitlaboratories2 ($783 MRR) - Medical laboratory chemicals | summitlaboratories.com
+   - raybiotech ($490 MRR) - Biotech research products
+
+4. **Food & Beverage Manufacturing** (6 accounts, $1,318 MRR):
+   - mpactbeverage2 ($1,082 MRR) - Beverage manufacturer | mpactbeverage.com
+   - kerrywilkensinc ($98 MRR) | jeanscanvas.com
+   - microdairydesigns ($75 MRR)
+
+5. **Metal Fabrication & Steel** (7 accounts, $1,199 MRR):
+   - kearfabrication ($586 MRR) - Custom fabrication | kearmfg.com
+   - dosesteel2 ($220 MRR)
+   - rayhil2 ($211 MRR) | rayhil.com
 
 **Why This Matters**:
 - Manufacturers span: forklift services, fiber optics, LED devices, beverages, medical devices, chemicals, etc.
 - No shared vertical workflows (beverage != medical device != fiber optics)
 - Cannot build meaningful vertical features for this catch-all cluster
 
+**Sub-Clustering Methodology**:
+- Used keyword-based classification from account names, websites, and product data
+- Identified 10 distinct manufacturing sub-types
+- **Coverage**: 27% of accounts (93/348), 28.4% of MRR ($14.6K/$51.3K)
+- **Limitation**: 73% remain uncategorized due to insufficient website/product data
+
 **RECOMMENDED NEXT STEP**:
-**Sub-cluster General/Specialty Manufacturing using:**
-1. **Website verification** (top 30-50 accounts by MRR to identify patterns)
-2. **Product analysis** (use actual sold items to categorize what they make)
-3. **Industry keywords** from website content
-4. **Potential sub-clusters** to explore:
-   - Industrial Equipment & Machinery Mfg (forklifts, equipment)
-   - Electronics & Technology Mfg (LED devices, fiber optics, electronics)
-   - Food & Beverage Manufacturing (beverages, food production)
-   - Medical Device & Equipment Mfg (catheters, medical equipment)
-   - Chemical Manufacturing (specialty chemicals, formulations)
-   - Custom Fabrication & Metal Work
-   - Contract Manufacturing / Make-to-Order
-   - Manufacturer Representatives (sales agents, not actual mfg)
+To improve sub-clustering coverage from 27% to 60%+:
+1. **Manual website verification** for top 100 uncategorized accounts (by MRR)
+2. **Enrich missing website data** (many accounts have no website field)
+3. **Analyze product naming patterns** more deeply (use QuickBooks item descriptions)
+4. **Customer interviews** (sample 10-15 accounts to understand their manufacturing type)
+
+**Why 73% Remain Uncategorized**:
+- 40% of manufacturing accounts have no website data
+- Product data is limited to top 50 sold items (often generic: "Shipping", "Freight", "Sales")
+- Many accounts use generic names (e.g., "LappStructures", "php", "pma13") with no clear industry indicator
 
 **Business Needs** (vary widely by sub-type):
 - Bill of Materials (BOM) management

@@ -1,0 +1,25 @@
+Tier,Priority,Cluster,Total_Accounts,Total_MRR,Validation_Strategy,Sample_Size,Reason,Expected_Outcome,Validation_Methods,Estimated_Hours
+1,1,Food & Beverage Dist/Mfg,30,3691.83,Full Census,30,"Known issue: 67% accuracy, ~10 false positives to remove","~20 true F&B, ~10 to re-classify",Website + Product Data + Statistical,8.0
+1,2,Medical Equipment & Supplies,16,3005.07,Full Census,16,"Known issue: 80% accuracy, 1 equine company to remove","~13 true medical, ~3 to re-classify",Website + Product Data,5.0
+1,3,Apparel & Textiles,53,909.92,Full Census,53,CRITICAL: 40 metal fabrication companies mis-classified,"~13 true apparel, ~40 to Metal Fabrication",Website + Product Data,12.0
+1,4,General/Specialty Manufacturing,348,51314.92,Stratified Sample,60,LARGEST unvalidated cluster (348 accounts),Identify any sub-clusters or mis-classifications,Website + Product Data + Statistical,15.0
+1,5,General Retail,148,18068.81,Stratified Sample,50,3RD LARGEST unvalidated cluster (148 accounts),"Validate B2C focus, identify wholesale mis-classifications",Website + Product Data + Statistical,12.0
+1,6,Furniture & Home Furnishings,14,2320.75,Full Census,14,"Partially validated: 86% accuracy, kitchen cabinets may belong in Building Materials","~12 true furniture, ~2 to re-classify",Website + Product Data,4.0
+1,7,Metal Fabrication & Steel,44,82.75,Full Census,44,Will grow to 44 accounts (receiving 40 from Apparel),Validate all 44 accounts,Website + Product Data,10.0
+1,8,Services & Other,15,0.0,Full Census,15,Catch-all category - most should be re-classified,Most accounts to move to specific clusters,Website + Product Data + Statistical,6.0
+2,9,Safety & Security Equipment,8,774.67,Full Census,8,Small unvalidated cluster,Confirm cluster accuracy,Website + Product Data + Statistical,2.0
+2,10,Electrical & Lighting Equipment,7,1274.17,Full Census,7,Small unvalidated cluster,Confirm cluster accuracy,Website + Product Data + Statistical,2.0
+2,11,Sporting Goods & Fitness Equipment,7,1039.42,Full Census,7,Small unvalidated cluster,Confirm cluster accuracy,Website + Product Data + Statistical,2.0
+2,12,Manufacturer Representatives,6,1288.17,Full Census,6,Small unvalidated cluster,Confirm cluster accuracy,Website + Product Data + Statistical,2.0
+2,13,Packaging & Printing,5,771.42,Full Census,5,Small unvalidated cluster,Confirm cluster accuracy,Website + Product Data + Statistical,2.0
+2,14,Office Supplies & Equipment,5,1286.0,Full Census,5,Small unvalidated cluster,Confirm cluster accuracy,Website + Product Data + Statistical,2.0
+2,15,Agriculture & Greenhouse/Nursery,5,1271.33,Full Census,5,Small unvalidated cluster,Confirm cluster accuracy,Website + Product Data + Statistical,2.0
+2,16,HVAC & Refrigeration Equipment,2,167.67,Full Census,2,Tiny unvalidated cluster,Confirm cluster accuracy,Website + Product Data + Statistical,1.0
+2,17,Automotive & Transportation,2,70.0,Full Census,2,Tiny unvalidated cluster (100% website + product coverage!),Confirm cluster accuracy,Website + Product Data + Statistical,1.0
+2,18,"Signs, Graphics & Displays",1,63.75,Full Census,1,Single account cluster,Confirm classification,Website + Product Data + Statistical,0.5
+2,19,Wood Products & Lumber,1,196.0,Full Census,1,Single account cluster,Confirm classification,Website + Product Data + Statistical,0.5
+3,20,General Wholesale/Distribution,421,50385.83,Already Validated (78.1%),336,Validated via product data (78.1% true general),Documentation update only,N/A (Already validated),0.0
+3,21,Building Materials & Construction,22,2389.3,Already Validated (100%),5,Validated via website (100% accuracy),Documentation update only,N/A (Already validated),0.0
+3,22,Industrial Equipment & Machinery,9,1262.42,Already Validated (96%),0,Validated via website (96% accuracy),Documentation update only,N/A (Already validated),0.0
+3,23,"Chemicals, Plastics & Rubber",15,3477.59,Already Validated (92%),0,Validated via website (92% accuracy),Documentation update only,N/A (Already validated),0.0
+3,24,Electronics & Technology,7,4139.22,Already Validated (95%),0,Validated via website (95% accuracy),Documentation update only,N/A (Already validated),0.0

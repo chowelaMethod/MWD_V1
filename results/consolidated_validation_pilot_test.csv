@@ -1,0 +1,1097 @@
+Account_Name,Current_Cluster,Composite_Confidence,Confidence_Level,Sources_Used,Recommended_Action,Product_Confidence,Statistical_Confidence,Product_Classification,Top_3_Clusters,Is_Overall_Outlier,MRR_Calculated,Users,Primary_Business_Type
+royalpalnfloors,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,54.75,1.0,Hybrid (Mixed)
+eworkflows,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,63.75,1.0,Service-Based
+laaztecafoods,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.25,1.0,Inventory-Based (Physical Products)
+minagroafricaresources,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,127.5,2.0,
+btlrtl2,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.25,1.0,
+latortillavelozinc,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,81.0,2.0,Service-Based
+sunshinedaydreamfarm,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,88.5,2.0,
+bcfluidpowerofflorence3,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,63.75,1.0,Inventory-Based (Physical Products)
+goldanddiamonds,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,63.75,1.0,NonInventory-Based (Digital/Services)
+zendeskinc2,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,63.75,1.0,Service-Based
+synergyelectricsales,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,118.5,2.0,Service-Based
+emblembuilt,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,109.5,2.0,NonInventory-Based (Digital/Services)
+koatji3,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,54.75,1.0,Inventory-Based (Physical Products)
+judeclothingservice,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,63.75,1.0,
+hengemiami,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,63.75,1.0,
+arkconcrete,Building Materials & Construction,80.0,High (Product + Statistical agree),P+S,Re-classify to Safety & Security Equipment,64.0,High,Safety & Security Equipment,"Safety & Security Equipment: 64.0%, Building Materials & Construction: 14.0%, Automotive & Transportation: 2.0%",False,91.5,2.0,NonInventory-Based (Digital/Services)
+mccartyofficemachinesinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,185.25,5.0,NonInventory-Based (Digital/Services)
+hydroeci,Apparel & Textiles,30.0,"Low (Statistical only, weak)",None,Review,,,,,,63.75,1.0,
+plainhonest,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.25,1.0,
+castlebar3,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,63.75,1.0,Service-Based
+bellevilleindustries,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.25,1.0,
+devtrial,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.25,1.0,
+intelligentvistamedinc,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,63.75,1.0,
+pipeandmetalcenteroftexas,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,54.75,1.0,
+woodfieldpress,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,53.25,1.0,Inventory-Based (Physical Products)
+mobilitycityoflubbocktx,Medical Equipment & Supplies,30.0,"Low (Statistical only, weak)",None,Review,,,,,,78.4,0.0,
+cajunkleenproductsllc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,53.25,1.0,NonInventory-Based (Digital/Services)
+saeed3,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,63.75,1.0,Inventory-Based (Physical Products)
+doorsmith,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,106.5,2.0,Inventory-Based (Physical Products)
+dvt,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,54.75,1.0,
+harmonyalexapressllc,Packaging & Printing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.25,1.0,Service-Based
+comfortworkspace,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,164.25,3.0,Hybrid (Mixed)
+trinivamanagementgroup,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,63.75,1.0,
+capitalsuppliesinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,54.75,1.0,NonInventory-Based (Digital/Services)
+aqbconsultancy,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,54.75,1.0,Service-Based
+evitabletransportationagencyllc2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,191.25,3.0,Service-Based
+jrunited3,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.25,1.0,
+miltonwbosleyandco,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,257.25,5.0,NonInventory-Based (Digital/Services)
+unitedglobaltradingcorp9,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,63.75,1.0,NonInventory-Based (Digital/Services)
+csw2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.25,1.0,Inventory-Based (Physical Products)
+ampedsoftwareusa,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,260.25,5.0,NonInventory-Based (Digital/Services)
+handicapsign,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,53.25,1.0,
+bisonoutdoorproducts2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,63.75,1.0,NonInventory-Based (Digital/Services)
+environmentalequipment2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,53.25,1.0,
+chipmunkhillwoodworking,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.25,1.0,Hybrid (Mixed)
+williselectricalsalesoftexas,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.25,1.0,
+protronixcontrols3,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,5.833333333333333,2.0,Inventory-Based (Physical Products)
+cardinalcomms3,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.25,1.0,Inventory-Based (Physical Products)
+cmshuster,Manufacturer Representatives,30.0,"Low (Statistical only, weak)",None,Review,,,,,,54.75,1.0,
+anylabtestnow3,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,191.25,3.0,NonInventory-Based (Digital/Services)
+earthworksnaturalorganics,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,147.0,4.0,Service-Based
+bostonwhaler,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.25,1.0,
+masterchefpr2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,221.25,5.0,Inventory-Based (Physical Products)
+oakridgefoamandcoatingsystemsinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,63.75,1.0,Inventory-Based (Physical Products)
+calpacificsupply,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,53.25,1.0,
+abcorlandolumberandhardware2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,63.75,1.0,
+waccessoriesnyc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.25,1.0,Inventory-Based (Physical Products)
+gonzalezcarpetsuppliesllc,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.25,1.0,Inventory-Based (Physical Products)
+chicagofirefurniture2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,78.0,2.0,Service-Based
+xinyujiangxicn,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.25,1.0,
+pittmanoilcompany,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,63.75,1.0,Service-Based
+brivester,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,177.0,6.0,Inventory-Based (Physical Products)
+magicbreezekombucha,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,97.5,2.0,Hybrid (Mixed)
+tropicalroots,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,63.75,1.0,
+indigenousimaginationworkshop,"Signs, Graphics & Displays",30.0,"Low (Statistical only, weak)",None,Review,,,,,,63.75,1.0,Hybrid (Mixed)
+terraboundsolutions,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,132.75,3.0,NonInventory-Based (Digital/Services)
+deltalogisticsinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,72.75,1.0,Service-Based
+ibidmachinery,Industrial Equipment & Machinery,30.0,"Low (Statistical only, weak)",None,Review,,,,,,63.75,1.0,Service-Based
+luxuryharrods,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,53.25,1.0,
+ptharargeneraltrading,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,63.75,1.0,Service-Based
+hifresh,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,87.0,2.0,Service-Based
+mngfoods,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,106.5,2.0,Service-Based
+expresscrossdockingllc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,54.75,1.0,Service-Based
+acapp,Apparel & Textiles,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.25,1.0,NonInventory-Based (Digital/Services)
+toronaturallabsltd,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,54.75,1.0,
+tweezerdistributors,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.25,1.0,Inventory-Based (Physical Products)
+zephyrbhs,Industrial Equipment & Machinery,30.0,"Low (Statistical only, weak)",None,Review,,,,,,72.75,1.0,Service-Based
+stockman,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,0.0,
+corbymechanicalservices,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.25,1.0,Product-Based (Mixed Inventory)
+synova,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,99.0,2.0,Inventory-Based (Physical Products)
+frispycrispy,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,63.75,1.0,NonInventory-Based (Digital/Services)
+maritimegoodfood,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,109.5,2.0,Inventory-Based (Physical Products)
+manexusa5,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,228.0,4.0,Hybrid (Mixed)
+supremeconceptsproprietarylimited,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.25,1.0,
+preferpack,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,54.75,1.0,NonInventory-Based (Digital/Services)
+jollygl,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,14.166666666666666,2.0,
+jandgculvertsinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.25,1.0,Inventory-Based (Physical Products)
+rivergatedoorsupply,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,164.25,4.0,
+fabbian,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,53.25,1.0,
+bmdistributorsllc,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,127.5,2.0,Inventory-Based (Physical Products)
+marlinzpharma2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,106.5,2.0,Product-Based (Mixed Inventory)
+theappliancebarnfl,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.25,1.0,Hybrid (Mixed)
+dragonpowerpromo,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,63.75,1.0,Service-Based
+agoradistributioninc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,105.75,3.0,NonInventory-Based (Digital/Services)
+bluewatercas2,"Chemicals, Plastics & Rubber",30.0,"Low (Statistical only, weak)",None,Review,,,,,,164.25,3.0,Inventory-Based (Physical Products)
+cotektheamericas,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,156.0,4.0,Inventory-Based (Physical Products)
+garcyusa,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,54.75,1.0,
+test212,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.25,1.0,Inventory-Based (Physical Products)
+cravenscoffee,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,109.5,2.0,NonInventory-Based (Digital/Services)
+octopusgdn,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,70.5,1.0,Inventory-Based (Physical Products)
+joeythecoffeeguy,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,63.75,1.0,NonInventory-Based (Digital/Services)
+aeromarinebiotechllc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,63.75,1.0,NonInventory-Based (Digital/Services)
+ssisanitary,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,127.5,2.0,NonInventory-Based (Digital/Services)
+trikketechinc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,62.25,1.0,Inventory-Based (Physical Products)
+dukesmetal,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,33.75,1.0,Inventory-Based (Physical Products)
+simplywardrobes,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.25,1.0,
+novalighting,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,13.083333333333334,1.0,Inventory-Based (Physical Products)
+allmakeappliances,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,259.5,6.0,NonInventory-Based (Digital/Services)
+honestwaterfilter,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,351.0,1.0,Inventory-Based (Physical Products)
+advancedmarinefabricationllc2,Apparel & Textiles,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.25,1.0,Service-Based
+wcsoilworks,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,191.25,3.0,Hybrid (Mixed)
+hyfloequipmentcompany3,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,177.0,4.0,Product-Based (Mixed Inventory)
+lubelska,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,156.75,3.0,Inventory-Based (Physical Products)
+metspeedlabel,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,7.083333333333333,1.0,Service-Based
+fetterenterprisesincdbadebrovys,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,63.75,1.0,NonInventory-Based (Digital/Services)
+stickersandmore4,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,37.25,8.0,
+cmtenvironmetnalcontrols,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.25,1.0,
+aragososouthllc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,36.75,1.0,Product-Based (Mixed Inventory)
+battlerattle,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,350.25,8.0,NonInventory-Based (Digital/Services)
+risecannabis,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,53.25,1.0,NonInventory-Based (Digital/Services)
+revivalhome,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,14.75,3.0,Service-Based
+terrastonellc2,Building Materials & Construction,80.0,High (Product + Statistical agree),P+S,Accept,33.3,High,Building Materials & Construction,Building Materials & Construction: 33.3%,False,54.75,1.0,NonInventory-Based (Digital/Services)
+sigscompany,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,88.5,2.0,Inventory-Based (Physical Products)
+ipibybison,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,36.75,1.0,NonInventory-Based (Digital/Services)
+americansafetyandfirehouse,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,127.5,2.0,Hybrid (Mixed)
+missionlaundryequipment3,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,12.25,3.0,Hybrid (Mixed)
+cassinala2,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,183.0,3.0,NonInventory-Based (Digital/Services)
+jdcsupply,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,NonInventory-Based (Digital/Services)
+evenmix,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,Product-Based (Mixed Inventory)
+faxexpress4,Office Supplies & Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,214.0,5.0,
+echolifellc,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,73.0,1.0,
+brazukacorp,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,2.0,Product-Based (Mixed Inventory)
+peakperformancecampers,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,37.0,1.0,Inventory-Based (Physical Products)
+airtecusa,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,Product-Based (Mixed Inventory)
+bcfluidpowerofflorence2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,8.166666666666666,2.0,Inventory-Based (Physical Products)
+donamireyainc,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,98.0,2.0,Inventory-Based (Physical Products)
+araocigars,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,10.0,3.0,Inventory-Based (Physical Products)
+bestquiltsewknitproductsltd,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,11.25,3.0,NonInventory-Based (Digital/Services)
+industrimax2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,154.0,4.0,NonInventory-Based (Digital/Services)
+formersinternational5,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,30.5,6.0,NonInventory-Based (Digital/Services)
+deansbeansorganiccoffee4,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,184.0,4.0,NonInventory-Based (Digital/Services)
+concealite,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,129.0,3.0,NonInventory-Based (Digital/Services)
+palmchemical,"Chemicals, Plastics & Rubber",30.0,"Low (Statistical only, weak)",None,Review,,,,,,122.0,2.0,
+gsinks,Packaging & Printing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,195.0,3.0,
+trueworldfoodsseattlellc,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,7.416666666666667,2.0,Inventory-Based (Physical Products)
+coffeeman,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,98.0,2.0,NonInventory-Based (Digital/Services)
+armacorpinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,13.333333333333334,4.0,Inventory-Based (Physical Products)
+floorsandtilesinc2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,7.0,3.0,Inventory-Based (Physical Products)
+gsi2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,73.0,1.0,
+norwooddeviceanddiagnostics,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,342.0,6.0,Inventory-Based (Physical Products)
+twentyoneagain,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,6.083333333333333,1.0,Product-Based (Mixed Inventory)
+independenteyewearcollective,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,6.083333333333333,1.0,
+turnkeylogisticsdbamegamaterials,Building Materials & Construction,65.0,"Medium (Statistical only, high)",S,Accept with Monitoring,,High,,,False,40.0,0.0,
+g3packaging2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,14.583333333333334,3.0,Product-Based (Mixed Inventory)
+dbuoy,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,22.416666666666668,5.0,NonInventory-Based (Digital/Services)
+powerplastics3,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,18.333333333333332,4.0,NonInventory-Based (Digital/Services)
+jaecoortho,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,Product-Based (Mixed Inventory)
+burnewiin2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,16.333333333333332,4.0,Product-Based (Mixed Inventory)
+lonestarlinerless,Packaging & Printing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,12.166666666666666,2.0,NonInventory-Based (Digital/Services)
+collinbox4,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,150.0,3.0,Inventory-Based (Physical Products)
+stonesystemsllc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,98.0,2.0,Inventory-Based (Physical Products)
+gorillahammers4,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,26.5,6.0,Product-Based (Mixed Inventory)
+lumerasolarinc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,86.0,1.0,Product-Based (Mixed Inventory)
+thunderbirdjewelryinc3,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,Product-Based (Mixed Inventory)
+thermalbridgingsolutions,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,9.166666666666666,2.0,NonInventory-Based (Digital/Services)
+moderncompressorsales,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,17.666666666666668,5.0,Product-Based (Mixed Inventory)
+absoluteworkwear,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,28.0,2.0,Service-Based
+acentel,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,1078.0,22.0,Inventory-Based (Physical Products)
+shopsosafe,Safety & Security Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,6.083333333333333,1.0,Service-Based
+thageel,Sporting Goods & Fitness Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,197.0,5.0,Service-Based
+cvhinternational,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,Inventory-Based (Physical Products)
+blissgourmet,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,Service-Based
+nxtchlng,Furniture & Home Furnishings,30.0,"Low (Statistical only, weak)",None,Review,,,,,,11.166666666666666,2.0,NonInventory-Based (Digital/Services)
+radsuramerica,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,30.083333333333332,7.0,Inventory-Based (Physical Products)
+dylanblakecustoms,Apparel & Textiles,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,Service-Based
+gothamlgt,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,77.25,15.0,Service-Based
+hendersonenterprises,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,10.166666666666666,2.0,Hybrid (Mixed)
+appenninofoodusa,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,367.0,7.0,Inventory-Based (Physical Products)
+sierracontainergroup,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.833333333333336,10.0,Product-Based (Mixed Inventory)
+cuveecoffee,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,NonInventory-Based (Digital/Services)
+fibercablesdirect,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,18.083333333333332,4.0,Inventory-Based (Physical Products)
+koolwaysports,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,5.083333333333333,1.0,Inventory-Based (Physical Products)
+agribestfeeds2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,27.416666666666668,8.0,Product-Based (Mixed Inventory)
+icustomlabel,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,110.0,2.0,NonInventory-Based (Digital/Services)
+audioconcepts,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,148.0,4.0,Inventory-Based (Physical Products)
+dylanwilliamscpa,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,349.0,7.0,NonInventory-Based (Digital/Services)
+blackstonesportsinc2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,24.416666666666668,5.0,Product-Based (Mixed Inventory)
+pssmanufacturing,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,154.0,4.0,Product-Based (Mixed Inventory)
+ruedawineco,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,257.0,5.0,Hybrid (Mixed)
+industrialodorcontrol2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,10.166666666666666,2.0,Product-Based (Mixed Inventory)
+wmuniformgroup,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,Inventory-Based (Physical Products)
+commonwealthindustrialinc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,15.25,5.0,NonInventory-Based (Digital/Services)
+hefestustech2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,16.333333333333332,3.0,Product-Based (Mixed Inventory)
+woodlabuae,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,6.666666666666667,2.0,NonInventory-Based (Digital/Services)
+tearoffproducts2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,146.0,2.0,NonInventory-Based (Digital/Services)
+hrroofingsupply,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,Inventory-Based (Physical Products)
+geotoolsusa,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,11.166666666666666,2.0,Product-Based (Mixed Inventory)
+socalfencesupply2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,196.0,4.0,Inventory-Based (Physical Products)
+diamondbladedistributorsllc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,36.75,9.0,Inventory-Based (Physical Products)
+op76cattle,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,360.0,7.0,NonInventory-Based (Digital/Services)
+planesights,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,Product-Based (Mixed Inventory)
+questonedistributors,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,111.0,3.0,NonInventory-Based (Digital/Services)
+namesakebrewing,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,8.416666666666666,2.0,Inventory-Based (Physical Products)
+stevenenterprises2,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,762.0,15.0,Hybrid (Mixed)
+smakdab,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,77.0,2.0,Product-Based (Mixed Inventory)
+bedsbydesign3,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,122.0,2.0,
+georgiapowdercoating3,"Chemicals, Plastics & Rubber",30.0,"Low (Statistical only, weak)",None,Review,,,,,,640.0,16.0,NonInventory-Based (Digital/Services)
+accesscasters3,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,185.0,5.0,Product-Based (Mixed Inventory)
+davishoseinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,209.0,5.0,NonInventory-Based (Digital/Services)
+proautodealersupplyinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,2.3333333333333335,1.0,Hybrid (Mixed)
+rjdrews3,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,73.0,1.0,NonInventory-Based (Digital/Services)
+capitalabrasivesllc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,12.25,3.0,Inventory-Based (Physical Products)
+harbertcastingrepair,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,8.166666666666666,2.0,Service-Based
+gulfharvest2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,6.666666666666667,2.0,NonInventory-Based (Digital/Services)
+categorycreations,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,378.0,8.0,NonInventory-Based (Digital/Services)
+boninfantefriction2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,Inventory-Based (Physical Products)
+ezbrandsllc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,273.0,5.0,Inventory-Based (Physical Products)
+armal,"Chemicals, Plastics & Rubber",30.0,"Low (Statistical only, weak)",None,Review,,,,,,36.583333333333336,7.0,NonInventory-Based (Digital/Services)
+heavisideindustriesinc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,12.0,Inventory-Based (Physical Products)
+steelecomponents,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,4.083333333333333,1.0,Inventory-Based (Physical Products)
+sitepieces2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,16.583333333333332,4.0,NonInventory-Based (Digital/Services)
+worksafetyllc,Building Materials & Construction,80.0,High (Product + Statistical agree),P+S,Re-classify to Safety & Security Equipment,40.0,High,Safety & Security Equipment,Safety & Security Equipment: 40.0%,False,10.166666666666666,2.0,Hybrid (Mixed)
+thebuyingnetwork2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,2.3333333333333335,1.0,Product-Based (Mixed Inventory)
+worryfreefood,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,Hybrid (Mixed)
+emlinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,166.0,4.0,Inventory-Based (Physical Products)
+harborcitysupply,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,NonInventory-Based (Digital/Services)
+tekkometals,Building Materials & Construction,80.0,High (Product + Statistical agree),P+S,Re-classify to Metal Fabrication & Steel,57.7,High,Metal Fabrication & Steel,"Metal Fabrication & Steel: 57.7%, Electrical & Lighting Equipment: 19.2%, Office Supplies & Equipment: 3.8%",False,10.166666666666666,2.0,NonInventory-Based (Digital/Services)
+alltrussinc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,4.083333333333333,1.0,Service-Based
+cefiro4,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,Inventory-Based (Physical Products)
+aquaticnutritioninc,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,245.0,5.0,Product-Based (Mixed Inventory)
+jellchemicals,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,Product-Based (Mixed Inventory)
+catsfilters,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,354.0,6.0,Inventory-Based (Physical Products)
+stamfordtimeandco,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,Service-Based
+pneusquebecnet,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,86.0,2.0,NonInventory-Based (Digital/Services)
+ssifiresolutions,Safety & Security Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,86.0,1.0,Hybrid (Mixed)
+artcofabricsnorthamericainc2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,NonInventory-Based (Digital/Services)
+mycologicalnaturalproducts,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,73.0,1.0,Product-Based (Mixed Inventory)
+lumasam,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,183.0,3.0,Product-Based (Mixed Inventory)
+silverlinejudaica,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,4.333333333333333,1.0,Inventory-Based (Physical Products)
+bandtcommunicationsinc3,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,183.0,3.0,Hybrid (Mixed)
+digpig,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,353.0,5.0,
+larryssausage,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,26.416666666666668,5.0,Product-Based (Mixed Inventory)
+triteksystemsinc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,80.0,2.0,Hybrid (Mixed)
+strigliaenterprisesdemos,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,0.0,1.0,Inventory-Based (Physical Products)
+americansupplycompanyinc,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,120.0,3.0,NonInventory-Based (Digital/Services)
+prosourcegroup,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,18.25,3.0,Product-Based (Mixed Inventory)
+gowesttshirtcompany,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,Product-Based (Mixed Inventory)
+eneconcorporation,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,833.0,17.0,Product-Based (Mixed Inventory)
+big,Furniture & Home Furnishings,30.0,"Low (Statistical only, weak)",None,Review,,,,,,219.0,3.0,
+helenarosejewelry,Building Materials & Construction,80.0,High (Product + Statistical agree),P+S,Re-classify to Packaging & Printing,26.0,High,Packaging & Printing,"Packaging & Printing: 26.0%, Furniture & Home Furnishings: 8.0%, Office Supplies & Equipment: 8.0%",False,8.416666666666666,2.0,Inventory-Based (Physical Products)
+readyvista,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,89.0,2.0,Inventory-Based (Physical Products)
+plasmaprocessgroup4,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,18.25,3.0,Product-Based (Mixed Inventory)
+trifunoretailsolutionsinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,98.0,2.0,NonInventory-Based (Digital/Services)
+uselitegear,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,NonInventory-Based (Digital/Services)
+statestreetproductsllc,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,4.083333333333333,1.0,
+legacysipsllc,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,68.0,2.0,Inventory-Based (Physical Products)
+dtsdirect,Building Materials & Construction,80.0,High (Product + Statistical agree),P+S,Re-classify to Safety & Security Equipment,26.0,High,Safety & Security Equipment,"Safety & Security Equipment: 26.0%, Medical Equipment & Supplies: 2.0%, Automotive & Transportation: 2.0%",False,38.916666666666664,8.0,Inventory-Based (Physical Products)
+candhaggregatesllc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,21.416666666666668,5.0,Product-Based (Mixed Inventory)
+africanchoicemarketltd,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,80.0,2.0,Service-Based
+ultimax,Packaging & Printing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,113.0,2.0,NonInventory-Based (Digital/Services)
+emeryallen2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,12.25,3.0,Inventory-Based (Physical Products)
+rakit3,Building Materials & Construction,80.0,High (Product + Statistical agree),P+S,Re-classify to Safety & Security Equipment,34.0,High,Safety & Security Equipment,"Safety & Security Equipment: 34.0%, HVAC & Refrigeration Equipment: 18.0%, Electrical & Lighting Equipment: 8.0%",False,37.0,1.0,Inventory-Based (Physical Products)
+brandxmetalsinc2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,73.0,1.0,Inventory-Based (Physical Products)
+suitepieces,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,122.0,2.0,Service-Based
+c4effects,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,11.166666666666666,2.0,NonInventory-Based (Digital/Services)
+flplumbing,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,73.0,1.0,Inventory-Based (Physical Products)
+sacredstudiosinc,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.416666666666664,11.0,Product-Based (Mixed Inventory)
+tangiblecreative2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,159.0,2.0,Service-Based
+bioskinaestheticsinc,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,85.83333333333333,25.0,Product-Based (Mixed Inventory)
+crimsonimaging,Office Supplies & Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,221.0,5.0,NonInventory-Based (Digital/Services)
+sheffieldsupplyandequipmentoftexasllc,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,12.25,3.0,Inventory-Based (Physical Products)
+sheffieldsupplyandequipment,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,8.166666666666666,2.0,Inventory-Based (Physical Products)
+dpalex,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,17.333333333333332,4.0,Hybrid (Mixed)
+solshinehair,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,196.0,4.0,NonInventory-Based (Digital/Services)
+thecelticgroup,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,256.0,4.0,Inventory-Based (Physical Products)
+icandyenergydrink,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,298.0,7.0,Inventory-Based (Physical Products)
+customindustrial2,Industrial Equipment & Machinery,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,Service-Based
+upstateanodizellc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,24.333333333333332,4.0,Service-Based
+inversionesroda,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,129.0,3.0,Inventory-Based (Physical Products)
+fosterus,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,196.0,7.0,NonInventory-Based (Digital/Services)
+jjsprotap,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,Service-Based
+prompterpeople2,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,108.0,3.0,NonInventory-Based (Digital/Services)
+rscinc2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,3.3333333333333335,1.0,Product-Based (Mixed Inventory)
+cdalighting,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,NonInventory-Based (Digital/Services)
+drinkade,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,202.0,4.0,Service-Based
+webcoteindustries2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,162.0,3.0,Inventory-Based (Physical Products)
+internationalstairproductsinc,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,79.0,2.0,Inventory-Based (Physical Products)
+topoffice,Safety & Security Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,386.0,8.0,NonInventory-Based (Digital/Services)
+perryco,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,73.0,1.0,Product-Based (Mixed Inventory)
+uniquewoodfloor,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,306.0,6.0,Hybrid (Mixed)
+grazianobrothers,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,16.25,3.0,NonInventory-Based (Digital/Services)
+thomashayesstudio3,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,15.666666666666666,5.0,NonInventory-Based (Digital/Services)
+amtonllcbabyclubchic,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,10.0,3.0,Inventory-Based (Physical Products)
+precisiondoors3,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,14.75,4.0,NonInventory-Based (Digital/Services)
+integratedmedical,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,101.0,2.0,Inventory-Based (Physical Products)
+kodiakbreakersandsuppliesinc,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,3.3333333333333335,1.0,NonInventory-Based (Digital/Services)
+todaytomorrowapparel,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,Inventory-Based (Physical Products)
+bl2systemsllc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,122.0,2.0,NonInventory-Based (Digital/Services)
+midwestbuildingsupply,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,147.0,3.0,Service-Based
+artbrandsholdings,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,329.0,3.0,Inventory-Based (Physical Products)
+abhasafinancialservices2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,Inventory-Based (Physical Products)
+strongwellness,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,4.083333333333333,1.0,NonInventory-Based (Digital/Services)
+ocutech,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,156.0,3.0,Inventory-Based (Physical Products)
+metaltechinc2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,6.083333333333333,1.0,Service-Based
+howardcountymd,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,78.4,2.0,
+donecdistributors,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,16.333333333333332,4.0,Inventory-Based (Physical Products)
+miminternationalinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,160.0,4.0,Inventory-Based (Physical Products)
+ghentindustrialsupplyinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,171.0,3.0,Inventory-Based (Physical Products)
+byisbeveragellc2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,89.0,2.0,Service-Based
+pspglobalwines2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,466.0,10.0,Inventory-Based (Physical Products)
+medallionfence,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,248.0,5.0,Inventory-Based (Physical Products)
+nearymartin,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,30.5,6.0,NonInventory-Based (Digital/Services)
+rawlovesunscreen,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,8.416666666666666,2.0,Product-Based (Mixed Inventory)
+reaganwirelesscorp,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,245.0,5.0,Inventory-Based (Physical Products)
+kabsolution2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,Service-Based
+rockymountainstickerco,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,52.0,1.0,Hybrid (Mixed)
+memiairellc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,11.166666666666666,2.0,Service-Based
+durawattle,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,18.25,3.0,Hybrid (Mixed)
+awcomm2,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,290.0,5.0,Inventory-Based (Physical Products)
+amarenusa,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,120.0,3.0,Inventory-Based (Physical Products)
+superiorcleaningequipmentinc,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,28.0,1.0,Product-Based (Mixed Inventory)
+assembledproductspecialists,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,14.25,3.0,Inventory-Based (Physical Products)
+artisanclassicorganinc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,11.083333333333334,4.0,
+classicexhaustsystemsllc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,8.166666666666666,2.0,NonInventory-Based (Digital/Services)
+mokanfastenerandsupply,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,195.0,3.0,Inventory-Based (Physical Products)
+picturethisframinginc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,147.0,3.0,Inventory-Based (Physical Products)
+freemansreachgreenhouses,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,28.0,1.0,NonInventory-Based (Digital/Services)
+badgerham,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,150.0,3.0,Inventory-Based (Physical Products)
+militarypilotsupplyoftexasllc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,50.0,12.0,Product-Based (Mixed Inventory)
+australiannaturalsoap,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,52.0,1.0,Inventory-Based (Physical Products)
+easternwireproducts,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,184.0,4.0,Inventory-Based (Physical Products)
+coloradoheartrescue,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,10.416666666666666,2.0,NonInventory-Based (Digital/Services)
+lightingxcorp,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,
+revivehealthcaregroup,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,305.0,6.0,NonInventory-Based (Digital/Services)
+horticulturalalliancellc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,20.416666666666668,5.0,Product-Based (Mixed Inventory)
+miabsgpteltd,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,122.0,2.0,Inventory-Based (Physical Products)
+thecarekioskptyltd,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,Hybrid (Mixed)
+dosesteel2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,220.0,4.0,Product-Based (Mixed Inventory)
+labedahockeygear,Sporting Goods & Fitness Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,6.083333333333333,1.0,NonInventory-Based (Digital/Services)
+lot49llcdbabox7imports,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,159.0,3.0,Service-Based
+clandestinelabz,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,574.0,10.0,Product-Based (Mixed Inventory)
+nationcor,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,183.0,3.0,Service-Based
+cyclallc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,38.083333333333336,7.0,Hybrid (Mixed)
+pcparlor,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,14.333333333333334,4.0,Product-Based (Mixed Inventory)
+lloydwatersandassociates,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,10.166666666666666,2.0,Service-Based
+maaribu,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,NonInventory-Based (Digital/Services)
+boninfantefrictioninc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,20.416666666666668,5.0,NonInventory-Based (Digital/Services)
+electricalgeneratorsandpumpservicesltd,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,5.083333333333333,1.0,Inventory-Based (Physical Products)
+fullcitysupply3,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,144.0,3.0,Inventory-Based (Physical Products)
+outriggerpads,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,89.0,2.0,NonInventory-Based (Digital/Services)
+greenandchapmanjv,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,12.25,3.0,Inventory-Based (Physical Products)
+sigtinc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,37.0,1.0,Product-Based (Mixed Inventory)
+premiumpb2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,14.25,2.0,Service-Based
+surecaninc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,98.0,2.0,Product-Based (Mixed Inventory)
+insightsurgical,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,12.166666666666666,2.0,NonInventory-Based (Digital/Services)
+boschfamilybrewingcompanyllc,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,19.916666666666668,5.0,Inventory-Based (Physical Products)
+mhqnewmexico,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,110.25,27.0,
+sabradental,Medical Equipment & Supplies,30.0,"Low (Statistical only, weak)",None,Review,,,,,,122.0,2.0,Product-Based (Mixed Inventory)
+sportexsales,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,12.25,3.0,NonInventory-Based (Digital/Services)
+coffeebeancorral2,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,32.75,6.0,Inventory-Based (Physical Products)
+woodforminteriorsltd,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,232.0,4.0,Service-Based
+nupointsystems2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,13.5,3.0,Hybrid (Mixed)
+interstategraphics,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,492.0,9.0,Service-Based
+holeintheroof2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,211.0,4.0,NonInventory-Based (Digital/Services)
+chairstuff3,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,25.75,6.0,Inventory-Based (Physical Products)
+acsdistributionllc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,98.0,2.0,NonInventory-Based (Digital/Services)
+rainbowconcreteindustrieslimited,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,405.0,10.0,NonInventory-Based (Digital/Services)
+automatedatticstair,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,10.166666666666666,1.0,NonInventory-Based (Digital/Services)
+red88eyewearinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,4.083333333333333,1.0,Inventory-Based (Physical Products)
+doubleldistributors,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,Inventory-Based (Physical Products)
+hddsupply,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,171.0,3.0,Product-Based (Mixed Inventory)
+poochiepets2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,80.0,2.0,NonInventory-Based (Digital/Services)
+magicgreensinc,Agriculture & Greenhouse/Nursery,30.0,"Low (Statistical only, weak)",None,Review,,,,,,3.3333333333333335,1.0,NonInventory-Based (Digital/Services)
+epccigar,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,28.583333333333332,7.0,Inventory-Based (Physical Products)
+greenmoab,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,28.583333333333332,7.0,Service-Based
+osupplies,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,16.333333333333332,4.0,Product-Based (Mixed Inventory)
+jmbeverage,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,0.0,
+southernaggregates2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,172.0,4.0,NonInventory-Based (Digital/Services)
+sobremesamanagement2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,597.0,12.0,Inventory-Based (Physical Products)
+norenthermal,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,29.75,9.0,NonInventory-Based (Digital/Services)
+codipsausa,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,147.0,3.0,Inventory-Based (Physical Products)
+rillfoods5,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,4.083333333333333,1.0,Service-Based
+allenproducts,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,3.3333333333333335,1.0,NonInventory-Based (Digital/Services)
+gtsimulators,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,732.0,12.0,Hybrid (Mixed)
+gsova,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,7.416666666666667,2.0,Product-Based (Mixed Inventory)
+decoblades,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,3.3333333333333335,1.0,NonInventory-Based (Digital/Services)
+elevatedmetalscorp2,Metal Fabrication & Steel,30.0,"Low (Statistical only, weak)",None,Review,,,,,,8.166666666666666,2.0,Service-Based
+dubgifcollc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,4.333333333333333,1.0,Inventory-Based (Physical Products)
+toolrange2,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,20.416666666666668,5.0,Inventory-Based (Physical Products)
+elixirwinegroup2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,80.0,2.0,Product-Based (Mixed Inventory)
+smcclainstonecoinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,169.0,4.0,NonInventory-Based (Digital/Services)
+cooksmart2,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,626.0,14.0,Inventory-Based (Physical Products)
+breittechnologiesllc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,12.25,3.0,Inventory-Based (Physical Products)
+supremeice,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,26.416666666666668,5.0,Inventory-Based (Physical Products)
+waterlandscapesupply,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,Inventory-Based (Physical Products)
+rayhil2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,211.0,4.0,Inventory-Based (Physical Products)
+progressivewestman3,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,732.0,12.0,Service-Based
+flipoffice4,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,468.0,9.0,Inventory-Based (Physical Products)
+chempenn,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,202.0,4.0,Product-Based (Mixed Inventory)
+wallbedsnmore,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,147.0,3.0,NonInventory-Based (Digital/Services)
+mitralsolution,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,2.3333333333333335,1.0,Inventory-Based (Physical Products)
+flagguard,Sporting Goods & Fitness Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,2.3333333333333335,1.0,Service-Based
+kennebeccabinetry,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,31.833333333333332,7.0,NonInventory-Based (Digital/Services)
+vacairindustries,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,12.166666666666666,2.0,Product-Based (Mixed Inventory)
+adaptersplusinc2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,NonInventory-Based (Digital/Services)
+experthosiery,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,8.416666666666666,2.0,Inventory-Based (Physical Products)
+golfinvite2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,84.0,3.0,NonInventory-Based (Digital/Services)
+vintedgewinery,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,16.666666666666668,5.0,Service-Based
+southgateprocessequipmentinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,22.416666666666668,5.0,NonInventory-Based (Digital/Services)
+rainwatermanagmentsolutions,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,48.083333333333336,13.0,Product-Based (Mixed Inventory)
+pneumaticplus,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,281.0,5.0,Inventory-Based (Physical Products)
+fullcirclesolutionsllc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,122.0,2.0,NonInventory-Based (Digital/Services)
+chefschoicelv,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,5.333333333333333,1.0,Inventory-Based (Physical Products)
+carolinalightinggroup,Electrical & Lighting Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,104.0,2.0,Inventory-Based (Physical Products)
+deccanfoods4,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,183.0,3.0,Inventory-Based (Physical Products)
+herzogveneers2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,219.0,3.0,
+mobilitycityoflasvegas2,Medical Equipment & Supplies,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,
+fivehundredandfiftyfivedistribution,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,101.0,2.0,Inventory-Based (Physical Products)
+theatticdepot2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,13.5,3.0,Inventory-Based (Physical Products)
+betterbuychairsinc,Furniture & Home Furnishings,30.0,"Low (Statistical only, weak)",None,Review,,,,,,150.0,3.0,NonInventory-Based (Digital/Services)
+montanamixers,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,33.75,8.0,Product-Based (Mixed Inventory)
+vogona,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,281.0,5.0,Inventory-Based (Physical Products)
+treatmenttechnology,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.75,9.0,Hybrid (Mixed)
+duecksmechanicalinc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,12.25,3.0,NonInventory-Based (Digital/Services)
+randolphpaper2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,308.0,5.0,Inventory-Based (Physical Products)
+carlsondockandbarge,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,47.666666666666664,14.0,Service-Based
+fishfoodies,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,8.416666666666666,2.0,Product-Based (Mixed Inventory)
+davantllc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,122.0,2.0,NonInventory-Based (Digital/Services)
+hexcoreofamerica,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,10.166666666666666,2.0,Product-Based (Mixed Inventory)
+highaltitudemanufacturingglobalinc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,NonInventory-Based (Digital/Services)
+egeproducts,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,115.5,29.0,Product-Based (Mixed Inventory)
+dddirect,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,208.0,4.0,Inventory-Based (Physical Products)
+sherbistone,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,186.0,6.0,Product-Based (Mixed Inventory)
+puzzlesthatrock,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,Inventory-Based (Physical Products)
+jentschcompany,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,80.0,2.0,Service-Based
+kerrywilkensinc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,98.0,2.0,NonInventory-Based (Digital/Services)
+publicmetal,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,5.083333333333333,1.0,Hybrid (Mixed)
+sonomachampagnesabres,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,4.333333333333333,1.0,Product-Based (Mixed Inventory)
+summitlaboratories2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,783.0,15.0,Product-Based (Mixed Inventory)
+summitflooring,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.083333333333336,9.0,NonInventory-Based (Digital/Services)
+raicescubanascigarsusainc2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,89.0,2.0,Inventory-Based (Physical Products)
+ozenairtechnology2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,30.583333333333332,7.0,Product-Based (Mixed Inventory)
+aromaticfragrancetechnologies,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,16.333333333333332,4.0,NonInventory-Based (Digital/Services)
+fortyeightbarriers,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,NonInventory-Based (Digital/Services)
+luxurydistributiongroup,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,322.0,7.0,Service-Based
+rexdistributioninc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,211.0,6.0,Service-Based
+hisigns,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,90.16666666666669,20.0,NonInventory-Based (Digital/Services)
+edreedcompany,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,Product-Based (Mixed Inventory)
+mjjdassociatesllc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,236.0,5.0,Hybrid (Mixed)
+davinciandtesla,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,15.25,3.0,NonInventory-Based (Digital/Services)
+genesismachineandfabricationinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,257.0,5.0,Service-Based
+bieldentalcabinetsrebielcompanyinc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,9.166666666666666,2.0,NonInventory-Based (Digital/Services)
+bituox,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,233.0,5.0,NonInventory-Based (Digital/Services)
+chalmersford,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,81.66666666666667,20.0,Inventory-Based (Physical Products)
+kandedistributing2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,36.75,8.0,Product-Based (Mixed Inventory)
+terrapin2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,Service-Based
+petitvin2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,147.0,3.0,Inventory-Based (Physical Products)
+cpvusanew,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,385.0,7.0,Service-Based
+callanindustrial2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,196.0,4.0,
+underhillinternational,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,28.0,6.0,Inventory-Based (Physical Products)
+hawkvalve,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,9.5,3.0,Inventory-Based (Physical Products)
+canadalab,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,Inventory-Based (Physical Products)
+americantankcoinc2,Metal Fabrication & Steel,30.0,"Low (Statistical only, weak)",None,Review,,,,,,4.083333333333333,1.0,Inventory-Based (Physical Products)
+coastalwipers,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,26.416666666666668,5.0,Inventory-Based (Physical Products)
+bairespackusa2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,159.0,3.0,Product-Based (Mixed Inventory)
+vm5lightingsolutions,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,196.0,4.0,Inventory-Based (Physical Products)
+twobirds,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,8.166666666666666,2.0,Service-Based
+briarford2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,112.0,4.0,Product-Based (Mixed Inventory)
+noorwholesale,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,113.0,2.0,Inventory-Based (Physical Products)
+protechequipment,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,15.583333333333334,4.0,Inventory-Based (Physical Products)
+papajifoods3,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,274.0,5.0,Inventory-Based (Physical Products)
+cooksdoorsandmouldingsinc,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,231.0,3.0,NonInventory-Based (Digital/Services)
+callanindustrial,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,633.0,12.0,Product-Based (Mixed Inventory)
+circlethreedesigns3,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,6.666666666666667,2.0,NonInventory-Based (Digital/Services)
+sixhundredandtwentyninegroup,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,26.0,1.0,NonInventory-Based (Digital/Services)
+hucksterinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,52.0,2.0,Inventory-Based (Physical Products)
+mnjenterprisellc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,392.0,18.0,Inventory-Based (Physical Products)
+totalfeedsinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,448.0,7.0,Product-Based (Mixed Inventory)
+opcdistributionllc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,270.0,6.0,Inventory-Based (Physical Products)
+thepoolenclosureguys,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,98.0,2.0,Service-Based
+arboragri,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,37.0,1.0,Inventory-Based (Physical Products)
+pesaventollc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,52.0,1.0,Hybrid (Mixed)
+automatedroomcontrolsinc2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,402.0,6.0,Inventory-Based (Physical Products)
+redstonetechnical,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,175.0,4.0,Inventory-Based (Physical Products)
+hallknifeandforge,Agriculture & Greenhouse/Nursery,30.0,"Low (Statistical only, weak)",None,Review,,,,,,52.0,1.0,Service-Based
+vectorr,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,0.0,
+lesgerstionsdmanagementlin,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,4.083333333333333,1.0,Service-Based
+mobilitycityofworcestermassachusetts,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,205.6,5.0,
+nedia,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,247.0,4.0,Product-Based (Mixed Inventory)
+highpowerproducts,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,16.666666666666668,5.0,Product-Based (Mixed Inventory)
+southweststeelfabrication,Building Materials & Construction,80.0,High (Product + Statistical agree),P+S,Re-classify to Apparel & Textiles,50.0,High,Apparel & Textiles,Apparel & Textiles: 50.0%,False,49.0,1.0,Product-Based (Mixed Inventory)
+staplesenterprises4,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,1137.0,27.0,NonInventory-Based (Digital/Services)
+norcada3,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,38.333333333333336,10.0,Inventory-Based (Physical Products)
+vikingcommunicationsinc2,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,22.25,6.0,Inventory-Based (Physical Products)
+seatinghub2,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,4.333333333333333,1.0,Inventory-Based (Physical Products)
+mobilitycityofgreatercincinnati,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,78.4,2.0,
+ajco,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,3.3333333333333335,1.0,NonInventory-Based (Digital/Services)
+smindustries3,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,217.0,4.0,NonInventory-Based (Digital/Services)
+reidwitlinltd,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,10.833333333333334,4.0,Hybrid (Mixed)
+protectconstruction,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,16.333333333333332,4.0,NonInventory-Based (Digital/Services)
+marineinnovations2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,39.75,9.0,Product-Based (Mixed Inventory)
+ceramicainc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,172.0,4.0,NonInventory-Based (Digital/Services)
+hydrospraywashsystemsinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,22.666666666666668,5.0,NonInventory-Based (Digital/Services)
+evolutiontrailertechnologies,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,10.0,3.0,Product-Based (Mixed Inventory)
+flightsalesgroup,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,Inventory-Based (Physical Products)
+apparelstuffrus2,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,187.0,4.0,Service-Based
+ensureaseal2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,52.0,1.0,Service-Based
+mobilitycityofcoloradosprings,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,235.2,6.0,
+modisystems,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,Product-Based (Mixed Inventory)
+lmhdistribution,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,4.083333333333333,1.0,NonInventory-Based (Digital/Services)
+sylcadesigns2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,3.3333333333333335,1.0,Inventory-Based (Physical Products)
+bloomco3,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,NonInventory-Based (Digital/Services)
+pridgenbrothers,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,Inventory-Based (Physical Products)
+dsagllc2,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,8.416666666666666,2.0,Inventory-Based (Physical Products)
+boswellwindows3,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,196.0,4.0,Service-Based
+trimports,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,18.5,3.0,Inventory-Based (Physical Products)
+roimetalbuildings,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,54.083333333333336,13.0,Hybrid (Mixed)
+pacificlink,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,243.0,3.0,Inventory-Based (Physical Products)
+standardvinyl,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,2.3333333333333335,1.0,NonInventory-Based (Digital/Services)
+crowncreationsinc,Medical Equipment & Supplies,30.0,"Low (Statistical only, weak)",None,Review,,,,,,120.0,3.0,Service-Based
+boxgangmanufacturing2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,208.0,4.0,NonInventory-Based (Digital/Services)
+equustockopcollc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,18.166666666666668,6.0,Product-Based (Mixed Inventory)
+opulencewoodproducts,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,Inventory-Based (Physical Products)
+anchorsupply2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,217.0,4.0,NonInventory-Based (Digital/Services)
+leadingedgesales2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,232.0,4.0,Hybrid (Mixed)
+atlasbuildingsystems,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,369.0,9.0,NonInventory-Based (Digital/Services)
+brinksmfgco,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,152.0,5.0,Product-Based (Mixed Inventory)
+hdindustriesinc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,4.083333333333333,1.0,NonInventory-Based (Digital/Services)
+mpactbeverage2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,1082.0,20.0,Product-Based (Mixed Inventory)
+abbeyhardware,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,26.5,6.0,Inventory-Based (Physical Products)
+cbsolutionslp,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,52.0,1.0,NonInventory-Based (Digital/Services)
+ranchandcointeriors,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,336.0,8.0,NonInventory-Based (Digital/Services)
+volitant2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,12.333333333333334,4.0,Inventory-Based (Physical Products)
+vortex2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,32.083333333333336,8.0,Product-Based (Mixed Inventory)
+tradepak2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,12.25,3.0,Product-Based (Mixed Inventory)
+ucoat,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,146.0,2.0,Product-Based (Mixed Inventory)
+fogartyslakeflowermarina,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,39.916666666666664,8.0,Product-Based (Mixed Inventory)
+galaxy2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,24.416666666666668,5.0,Inventory-Based (Physical Products)
+atlanticrestaurantandsupermarketequipment,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,60.0,14.0,Inventory-Based (Physical Products)
+perlite,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,NonInventory-Based (Digital/Services)
+planetarydesign2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,223.0,5.0,Inventory-Based (Physical Products)
+pfpspokane2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,475.0,7.0,Inventory-Based (Physical Products)
+sixdegreesnorthbeveragegroup,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,66.25,15.0,Product-Based (Mixed Inventory)
+brewersicecompanyllc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,NonInventory-Based (Digital/Services)
+yudoinc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.833333333333336,10.0,Product-Based (Mixed Inventory)
+quipementsvegtech,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,125.0,2.0,Service-Based
+paragonshuttersinternationalptyltd,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,NonInventory-Based (Digital/Services)
+periodmouldings2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,NonInventory-Based (Digital/Services)
+fuelinjectorclinic2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,249.0,6.0,Product-Based (Mixed Inventory)
+aandmdiscountfurniture4,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,467.0,11.0,Inventory-Based (Physical Products)
+mautekinc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,28.0,1.0,Inventory-Based (Physical Products)
+mustangnorth,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,0.0,
+pma13,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,1067.0,23.0,Inventory-Based (Physical Products)
+energycurve,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,275.0,5.0,Product-Based (Mixed Inventory)
+ebamethod,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,301.0,7.0,Inventory-Based (Physical Products)
+dinosaw2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,NonInventory-Based (Digital/Services)
+flooringrva,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,465.0,9.0,Service-Based
+biophotasincsandbox,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,80.0,2.0,Product-Based (Mixed Inventory)
+halosilinternationalnxtllc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,110.0,2.0,Inventory-Based (Physical Products)
+dyetusainc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,12.5,3.0,Inventory-Based (Physical Products)
+area51sportsltd,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,11.166666666666666,2.0,NonInventory-Based (Digital/Services)
+championproducts2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,6.666666666666667,2.0,NonInventory-Based (Digital/Services)
+atlanticindustrialcorp,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,5.083333333333333,1.0,NonInventory-Based (Digital/Services)
+sunriseindustrialcleanersinc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,56.0,2.0,Product-Based (Mixed Inventory)
+nationalfiltersupply,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,196.0,4.0,Inventory-Based (Physical Products)
+jemmcollc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,13.5,3.0,NonInventory-Based (Digital/Services)
+goldnerdockconstruction,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,24.5,6.0,Service-Based
+limbbusterllc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,89.0,2.0,NonInventory-Based (Digital/Services)
+trendysurfaces,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,56.0,2.0,Inventory-Based (Physical Products)
+pghorticulturelimited,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,23.0,6.0,Inventory-Based (Physical Products)
+wearingwilliamsltd2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,34.583333333333336,7.0,Inventory-Based (Physical Products)
+tandssalesinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,6.666666666666667,2.0,Product-Based (Mixed Inventory)
+commfitness3,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.083333333333336,10.0,Product-Based (Mixed Inventory)
+fishtnkinc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,3.3333333333333335,1.0,NonInventory-Based (Digital/Services)
+mytcoatcommercialoutdoorfurniture,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,613.0,10.0,NonInventory-Based (Digital/Services)
+transmetroninc3,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,188.0,7.0,Hybrid (Mixed)
+multiresidentialsupplyltd,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,9.166666666666666,2.0,Service-Based
+ecocafs,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,98.0,2.0,NonInventory-Based (Digital/Services)
+ippowerhouse,Electronics & Technology,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,NonInventory-Based (Digital/Services)
+boutiqueampsdistribution,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,507.0,9.0,Product-Based (Mixed Inventory)
+whiteherrinmetals,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,134.0,2.0,Product-Based (Mixed Inventory)
+hongkongmarket,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,Inventory-Based (Physical Products)
+luxuryair,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,28.0,1.0,Product-Based (Mixed Inventory)
+dalmatianfireequipment,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,120.0,3.0,Product-Based (Mixed Inventory)
+marcatodirectlimited2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,3.3333333333333335,1.0,Inventory-Based (Physical Products)
+jdshouseoftrophies,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,196.0,4.0,NonInventory-Based (Digital/Services)
+autorescuetools,Automotive & Transportation,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,NonInventory-Based (Digital/Services)
+jafedecorating,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,534.0,12.0,NonInventory-Based (Digital/Services)
+hblindia,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,0.0,
+acheerfulgiver,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,13.333333333333334,4.0,NonInventory-Based (Digital/Services)
+informedag3,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,12.25,3.0,Hybrid (Mixed)
+integriturf2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,183.0,3.0,Inventory-Based (Physical Products)
+americanlithiumenergy2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,129.0,3.0,Product-Based (Mixed Inventory)
+baconmail,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,285.0,6.0,Product-Based (Mixed Inventory)
+onwamarine2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,6.666666666666667,2.0,NonInventory-Based (Digital/Services)
+prionesource,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,122.0,2.0,Product-Based (Mixed Inventory)
+enzusainc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,846.0,15.0,Inventory-Based (Physical Products)
+buddyventuresinternationalltd2,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,6.083333333333333,1.0,Hybrid (Mixed)
+americanbackcountry,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,25.75,6.0,NonInventory-Based (Digital/Services)
+fencetrac2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,244.0,4.0,Product-Based (Mixed Inventory)
+accurateforklift3,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,1888.0,37.0,Service-Based
+ftlenterprises,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,6.666666666666667,2.0,Inventory-Based (Physical Products)
+cappadociarugsllc,Furniture & Home Furnishings,30.0,"Low (Statistical only, weak)",None,Review,,,,,,280.0,7.0,Inventory-Based (Physical Products)
+muleresophonicguitars,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,Hybrid (Mixed)
+greatnorthernfishcompanyincorporationdbano,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,14.5,3.0,Inventory-Based (Physical Products)
+wtidistributioninc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,3.3333333333333335,1.0,Service-Based
+fbfnorthamerica,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,3.3333333333333335,1.0,Product-Based (Mixed Inventory)
+wktrincdbafloridadocks,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,8.166666666666666,2.0,Hybrid (Mixed)
+halderinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,34.833333333333336,7.0,Product-Based (Mixed Inventory)
+flowmeasurementservices,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,125.0,2.0,NonInventory-Based (Digital/Services)
+ambessenterprisesinc3,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,245.0,5.0,Inventory-Based (Physical Products)
+cbsi,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,0.0,2.0,Service-Based
+amariesbathflowershop3,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,NonInventory-Based (Digital/Services)
+rcswiftllc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,52.0,1.0,Inventory-Based (Physical Products)
+spatialgenomics3,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,4.666666666666667,2.0,NonInventory-Based (Digital/Services)
+qualityflooring,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,294.0,5.0,Service-Based
+southwestenvirotxpartnersllc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,25.416666666666668,5.0,NonInventory-Based (Digital/Services)
+hattrickdistributioninc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,453.0,9.0,NonInventory-Based (Digital/Services)
+kinetictoolsinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,28.583333333333332,7.0,Service-Based
+farmtosummit,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,4.666666666666667,2.0,NonInventory-Based (Digital/Services)
+terrazaspecialties,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,98.0,2.0,NonInventory-Based (Digital/Services)
+specialtechnicalservicesinc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,6.083333333333333,1.0,Product-Based (Mixed Inventory)
+steerintrailersales,Automotive & Transportation,30.0,"Low (Statistical only, weak)",None,Review,,,,,,9.0,3.0,Product-Based (Mixed Inventory)
+uniquedesignsolutionsllc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,18.25,6.0,Hybrid (Mixed)
+vipsupplyco,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,18.0,6.0,Service-Based
+cggschmidt2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,17.333333333333332,4.0,NonInventory-Based (Digital/Services)
+topsecretcustoms,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,2.3333333333333335,1.0,Inventory-Based (Physical Products)
+getbold,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,147.0,3.0,NonInventory-Based (Digital/Services)
+thierrylasry2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,8.166666666666666,2.0,Inventory-Based (Physical Products)
+smokinggoose2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,245.0,4.0,Product-Based (Mixed Inventory)
+saveonlaser,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,16.666666666666668,5.0,Inventory-Based (Physical Products)
+aplpg3,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,77.0,2.0,Inventory-Based (Physical Products)
+b2bepartners,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,0.0,1.0,
+cumsausa,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,4.666666666666667,2.0,Inventory-Based (Physical Products)
+vintagemakesllc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,31.5,6.0,Inventory-Based (Physical Products)
+kearfabrication,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,586.0,10.0,Product-Based (Mixed Inventory)
+tripdrip,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,224.0,5.0,Inventory-Based (Physical Products)
+thermolex,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,20.333333333333332,4.0,Inventory-Based (Physical Products)
+kaossoftwearllc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,89.0,2.0,NonInventory-Based (Digital/Services)
+elysianlabsllc3,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,398.0,8.0,NonInventory-Based (Digital/Services)
+vcssalesanddistribution,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,148.0,4.0,NonInventory-Based (Digital/Services)
+rojascigarsllc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,80.0,2.0,Inventory-Based (Physical Products)
+siquesttechnologysdnbhd,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,285.0,6.0,NonInventory-Based (Digital/Services)
+foodsalive,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,5.666666666666667,2.0,Product-Based (Mixed Inventory)
+adkfragrancefarm,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,3.3333333333333335,1.0,Product-Based (Mixed Inventory)
+iceworksbathco,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,116.0,3.0,Service-Based
+welshhottubs2,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,89.0,2.0,Hybrid (Mixed)
+blueridgescreenproducts,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,239.0,5.0,Inventory-Based (Physical Products)
+delmarvadesigncenter,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,1016.0,16.0,NonInventory-Based (Digital/Services)
+lumienlighting,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,32.0,9.0,Inventory-Based (Physical Products)
+millibar,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,98.0,2.0,Product-Based (Mixed Inventory)
+lafittesseafood,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,9.083333333333334,3.0,Inventory-Based (Physical Products)
+smuckerpelleting,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,28.0,1.0,Hybrid (Mixed)
+sterlinghardwareltd,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,458.0,6.0,Inventory-Based (Physical Products)
+retrocraft,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,0.0,2.0,NonInventory-Based (Digital/Services)
+sawsolutionsinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,17.25,3.0,Product-Based (Mixed Inventory)
+actionlighting,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,18.666666666666668,5.0,Inventory-Based (Physical Products)
+endlessfunllc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,39.666666666666664,11.0,NonInventory-Based (Digital/Services)
+fibonaccillc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,117.0,3.0,Product-Based (Mixed Inventory)
+victorcastilloincdbatortilleriatemecula,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,15.333333333333334,4.0,NonInventory-Based (Digital/Services)
+eshhardwareandfarmsupplyllc2,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,16.333333333333332,4.0,Product-Based (Mixed Inventory)
+surfaceteccorp3,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,219.0,3.0,Service-Based
+rhinoskintoughusainc,Manufacturer Representatives,30.0,"Low (Statistical only, weak)",None,Review,,,,,,120.0,4.0,Product-Based (Mixed Inventory)
+halamotors,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,28.0,1.0,Inventory-Based (Physical Products)
+sunshinellc2023,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,932.0,20.0,Product-Based (Mixed Inventory)
+traxandmore,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,3.3333333333333335,1.0,Inventory-Based (Physical Products)
+glfast4,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,Product-Based (Mixed Inventory)
+silvertecmfginc2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,28.0,1.0,Hybrid (Mixed)
+fitnessandexercisesolutions3,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,24.333333333333332,7.0,Inventory-Based (Physical Products)
+preferredbathinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,Inventory-Based (Physical Products)
+holdit,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,488.0,17.0,NonInventory-Based (Digital/Services)
+permarkbadges2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,245.0,5.0,NonInventory-Based (Digital/Services)
+northamericamattresscorp,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,383.0,8.0,Product-Based (Mixed Inventory)
+maplevalley,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,129.0,3.0,Product-Based (Mixed Inventory)
+coastaltransfers,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,68.0,2.0,Inventory-Based (Physical Products)
+multiseal2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,23.0,6.0,Product-Based (Mixed Inventory)
+netzerousa2,Building Materials & Construction,70.0,Medium (Product + Statistical),P+S,Re-classify to General Wholesale/Distribution,2.0,High,General Wholesale/Distribution,"Industrial Equipment & Machinery: 2.0%, Electrical & Lighting Equipment: 2.0%",False,423.0,9.0,Product-Based (Mixed Inventory)
+unicellsupply2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,242.0,5.0,Inventory-Based (Physical Products)
+dolphinheatexchangerusa,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,19.5,7.0,NonInventory-Based (Digital/Services)
+procurementequipment,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,424.0,10.0,Inventory-Based (Physical Products)
+nationalkitchensbathsandmore1,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,246.0,6.0,NonInventory-Based (Digital/Services)
+bodegatile,Building Materials & Construction,80.0,High (Product + Statistical agree),P+S,Re-classify to Metal Fabrication & Steel,28.0,High,Metal Fabrication & Steel,"Metal Fabrication & Steel: 28.0%, Furniture & Home Furnishings: 6.0%, Medical Equipment & Supplies: 2.0%",False,54.083333333333336,10.0,Inventory-Based (Physical Products)
+lionoutdoor,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,0.0,
+repssinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,360.0,9.0,Inventory-Based (Physical Products)
+mobilitycityofomaha,Medical Equipment & Supplies,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,
+thewristbandcompany,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,169.0,4.0,NonInventory-Based (Digital/Services)
+megaelevatorparts2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,110.0,3.0,Inventory-Based (Physical Products)
+jouffreinc2,Furniture & Home Furnishings,30.0,"Low (Statistical only, weak)",None,Review,,,,,,423.0,9.0,Service-Based
+botanaway,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,1003.0,22.0,Inventory-Based (Physical Products)
+sierraloghomes,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,184.0,4.0,NonInventory-Based (Digital/Services)
+paladinpower2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,53.666666666666664,11.0,NonInventory-Based (Digital/Services)
+hccigarsdaytonallc2,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,186.0,3.0,Inventory-Based (Physical Products)
+johnmarksre2,Packaging & Printing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,407.0,8.0,Service-Based
+kingoillubricantsllc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,147.0,3.0,Product-Based (Mixed Inventory)
+walicom,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,0.0,1.0,Inventory-Based (Physical Products)
+theattachmentcompanyllc,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,Inventory-Based (Physical Products)
+privatelabelsupport,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,16.666666666666668,5.0,NonInventory-Based (Digital/Services)
+bignotemusic,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,35.916666666666664,8.0,Service-Based
+kandbfloorcoveringllc,Building Materials & Construction,70.0,Medium (Product + Statistical),P+S,Re-classify to General Wholesale/Distribution,12.0,High,General Wholesale/Distribution,"Automotive & Transportation: 12.0%, Chemicals, Plastics & Rubber: 10.0%, Wood Products & Lumber: 8.0%",False,110.0,2.0,NonInventory-Based (Digital/Services)
+whclenterprises2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,98.0,2.0,NonInventory-Based (Digital/Services)
+imperialprivacysystemsllc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,31.75,9.0,NonInventory-Based (Digital/Services)
+roadrunner2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,264.0,6.0,Inventory-Based (Physical Products)
+cathxmedicalinc2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,844.0,19.0,Hybrid (Mixed)
+StricklandsMyrtleBeach,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,
+arczonecominc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,13.833333333333334,4.0,Product-Based (Mixed Inventory)
+smsprecisiontech2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,Product-Based (Mixed Inventory)
+georgiastage,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,252.0,6.0,NonInventory-Based (Digital/Services)
+calcert,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,NonInventory-Based (Digital/Services)
+doozlandllc,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,104.0,2.0,Inventory-Based (Physical Products)
+westerndovetailinc2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,170.0,2.0,Product-Based (Mixed Inventory)
+maxinesniderinc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,86.0,2.0,Service-Based
+aedeschristiholdingsincdbadubalbros,Apparel & Textiles,30.0,"Low (Statistical only, weak)",None,Review,,,,,,2.3333333333333335,1.0,Inventory-Based (Physical Products)
+camachocoffee,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,552.0,9.0,Inventory-Based (Physical Products)
+eqlocktest,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,Product-Based (Mixed Inventory)
+cwfame,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,52.0,1.0,Service-Based
+impulseradarusainc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,20.416666666666668,5.0,NonInventory-Based (Digital/Services)
+HamptonRoadsVirginia,Medical Equipment & Supplies,30.0,"Low (Statistical only, weak)",None,Review,,,,,,0.0,0.0,
+profwhytekratom,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,369.0,10.0,NonInventory-Based (Digital/Services)
+hsabearings,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,122.0,2.0,Inventory-Based (Physical Products)
+richcompower,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,Inventory-Based (Physical Products)
+durabikelocker,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,20.416666666666668,5.0,NonInventory-Based (Digital/Services)
+heritagesheds,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,254.0,5.0,NonInventory-Based (Digital/Services)
+derwasofwelshpoolltd2,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,3.3333333333333335,1.0,Product-Based (Mixed Inventory)
+hydeparkpartners,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,Inventory-Based (Physical Products)
+nomipackaging2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,61.0,1.0,Inventory-Based (Physical Products)
+tuffeventsllc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,245.0,5.0,Inventory-Based (Physical Products)
+animalhospitalsupplyinc2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,432.0,9.0,Inventory-Based (Physical Products)
+colorantic,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,84.0,3.0,Hybrid (Mixed)
+access2mobilityinc,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,48.583333333333336,11.0,Hybrid (Mixed)
+ibixsurfacetechnologies,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,120.0,3.0,Inventory-Based (Physical Products)
+goodchemistry,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,31.75,9.0,Hybrid (Mixed)
+perine2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,120.0,3.0,Inventory-Based (Physical Products)
+ppcindustries1,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,4.083333333333333,1.0,Hybrid (Mixed)
+inspiredsciencesllc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,673.0,10.0,Product-Based (Mixed Inventory)
+cashionfishingrods2,Sporting Goods & Fitness Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,80.0,2.0,Service-Based
+lillipadmarine2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,8.0,3.0,Service-Based
+lampnutra2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,322.0,7.0,Inventory-Based (Physical Products)
+rlhindustriesinc2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,1164.0,24.0,Product-Based (Mixed Inventory)
+prestigeislandexports,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,235.0,4.0,Service-Based
+swissmadebrandsusa2,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,6.666666666666667,2.0,Product-Based (Mixed Inventory)
+lancoacquisitionllc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,20.333333333333332,4.0,Inventory-Based (Physical Products)
+wholelogreclaimed3,Building Materials & Construction,80.0,High (Product + Statistical agree),P+S,Re-classify to Wood Products & Lumber,34.0,High,Wood Products & Lumber,"Wood Products & Lumber: 34.0%, Packaging & Printing: 22.0%, Building Materials & Construction: 12.0%",False,98.0,2.0,NonInventory-Based (Digital/Services)
+ameritechfacilitysupplyllc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,14.25,3.0,NonInventory-Based (Digital/Services)
+cpffloorsllc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,51.166666666666664,26.0,Inventory-Based (Physical Products)
+safaribeltingsystemsinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,915.0,15.0,Product-Based (Mixed Inventory)
+jpmdistributors,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,6.666666666666667,2.0,NonInventory-Based (Digital/Services)
+vtechnicaltextiles,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,111.0,3.0,Hybrid (Mixed)
+trioniccorp2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,98.0,2.0,NonInventory-Based (Digital/Services)
+furnitureprocorp,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,NonInventory-Based (Digital/Services)
+pinnacleindustrialsupply,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,22.75,6.0,Inventory-Based (Physical Products)
+centricityvisioninc3,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,13.25,3.0,Hybrid (Mixed)
+universalpowerconversion,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,11.166666666666666,2.0,Inventory-Based (Physical Products)
+dtcshycat1,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,12.25,3.0,Product-Based (Mixed Inventory)
+capitalcityawning3,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,23.75,6.0,Service-Based
+firstmedicalinternationalcorp2,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,295.0,7.0,Inventory-Based (Physical Products)
+ThePianoPlaceMichigan,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,93.0,3.0,
+easternwearparts,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,68.0,2.0,Inventory-Based (Physical Products)
+Wilco,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,89.0,2.0,
+metkonusainc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,372.0,6.0,Inventory-Based (Physical Products)
+healthcarestoragesolutionscorporation,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,211.0,4.0,Inventory-Based (Physical Products)
+alliedmachinerysalesllc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,8.166666666666666,2.0,Inventory-Based (Physical Products)
+appliedwatertechnologies,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,126.0,3.0,Hybrid (Mixed)
+lancevalves2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,120.0,3.0,Product-Based (Mixed Inventory)
+lowrymanufacturingcompany2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,11.0,3.0,NonInventory-Based (Digital/Services)
+huntercattlecompany2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,98.0,2.0,NonInventory-Based (Digital/Services)
+snoozies,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,16.083333333333332,4.0,Inventory-Based (Physical Products)
+medicalz2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,20.75,6.0,Product-Based (Mixed Inventory)
+schemmbowlinginc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,4.083333333333333,1.0,Inventory-Based (Physical Products)
+pattechnology2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,27.583333333333332,7.0,Product-Based (Mixed Inventory)
+liquitube,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,11.0,3.0,NonInventory-Based (Digital/Services)
+officefirstsolutions,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,269.0,5.0,NonInventory-Based (Digital/Services)
+americanwholesaledistributors2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,228.0,6.0,Inventory-Based (Physical Products)
+iconusa,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,60.833333333333336,16.0,Inventory-Based (Physical Products)
+southwestpianos,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,86.0,2.0,Hybrid (Mixed)
+dcooperworksllc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,62.5,13.0,Hybrid (Mixed)
+daiwahealthdevelopment,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,15.583333333333334,4.0,Product-Based (Mixed Inventory)
+aswnorth,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,289.0,7.0,Inventory-Based (Physical Products)
+penusa,Industrial Equipment & Machinery,30.0,"Low (Statistical only, weak)",None,Review,,,,,,86.0,2.0,NonInventory-Based (Digital/Services)
+ReuningMcKim,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,25.5,7.0,Inventory-Based (Physical Products)
+WonkyConfections,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,334.0,7.0,Service-Based
+stellalightingincCo1,Electrical & Lighting Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,209.0,5.0,NonInventory-Based (Digital/Services)
+kuumbamadeCo2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,336.0,8.0,Product-Based (Mixed Inventory)
+aosolutions,Furniture & Home Furnishings,30.0,"Low (Statistical only, weak)",None,Review,,,,,,147.0,3.0,Service-Based
+intellbioCo3,Medical Equipment & Supplies,30.0,"Low (Statistical only, weak)",None,Review,,,,,,98.0,2.0,Inventory-Based (Physical Products)
+namusa,Metal Fabrication & Steel,30.0,"Low (Statistical only, weak)",None,Review,,,,,,39.666666666666664,8.0,NonInventory-Based (Digital/Services)
+bardianivalves,Apparel & Textiles,30.0,"Low (Statistical only, weak)",None,Review,,,,,,16.333333333333332,4.0,Product-Based (Mixed Inventory)
+liquimedlock,"Chemicals, Plastics & Rubber",30.0,"Low (Statistical only, weak)",None,Review,,,,,,264.76,6.0,Inventory-Based (Physical Products)
+caribbeandiagnosticsltdCo1,Medical Equipment & Supplies,30.0,"Low (Statistical only, weak)",None,Review,,,,,,26.25,6.0,NonInventory-Based (Digital/Services)
+enerfusioninc,Electrical & Lighting Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,Service-Based
+ozopenergysystemsinc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,208.0,4.0,Inventory-Based (Physical Products)
+mfmh,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,923.0,20.0,Hybrid (Mixed)
+promotionalproductsfulfillmentdistributionltdCo1,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,14.083333333333334,4.0,Service-Based
+Legitshipcbd06,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,120.0,3.0,Product-Based (Mixed Inventory)
+hettaglogg,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,28.0,1.0,Service-Based
+jobena,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,20.416666666666668,5.0,Inventory-Based (Physical Products)
+burly,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,4.083333333333333,1.0,Product-Based (Mixed Inventory)
+imagehomedecorlp,Building Materials & Construction,70.0,Medium (Product + Statistical),P+S,Re-classify to General Wholesale/Distribution,16.0,High,General Wholesale/Distribution,"Building Materials & Construction: 16.0%, Automotive & Transportation: 14.0%, Metal Fabrication & Steel: 6.0%",False,98.0,2.0,Hybrid (Mixed)
+MPDmedical,Medical Equipment & Supplies,30.0,"Low (Statistical only, weak)",None,Review,,,,,,15.25,3.0,Inventory-Based (Physical Products)
+wavedistro1,Electronics & Technology,30.0,"Low (Statistical only, weak)",None,Review,,,,,,17.416666666666668,5.0,Product-Based (Mixed Inventory)
+nantucketsinksusa,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,3.3333333333333335,1.0,Hybrid (Mixed)
+MYOSCORP,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,387.0,9.0,Inventory-Based (Physical Products)
+perlistenaudiollc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,4.083333333333333,1.0,Inventory-Based (Physical Products)
+winecountryconnection,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,98.0,2.0,Inventory-Based (Physical Products)
+LPIShownetwork,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,583.0,13.0,Inventory-Based (Physical Products)
+mdcarts1,Manufacturer Representatives,30.0,"Low (Statistical only, weak)",None,Review,,,,,,766.0,16.0,Product-Based (Mixed Inventory)
+equipmentlockCo,Safety & Security Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,39.583333333333336,7.0,Product-Based (Mixed Inventory)
+firestationfurniture,Furniture & Home Furnishings,30.0,"Low (Statistical only, weak)",None,Review,,,,,,365.0,5.0,NonInventory-Based (Digital/Services)
+DMM21,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,120.0,3.0,
+logoknits1,Apparel & Textiles,30.0,"Low (Statistical only, weak)",None,Review,,,,,,4.083333333333333,1.0,NonInventory-Based (Digital/Services)
+FLH,HVAC & Refrigeration Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,115.66666666666669,26.0,Product-Based (Mixed Inventory)
+happydayflower,Manufacturer Representatives,30.0,"Low (Statistical only, weak)",None,Review,,,,,,200.0,5.0,Inventory-Based (Physical Products)
+DMM2021,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,0.0,1.0,
+DMS2021,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,0.0,1.0,
+premierCo1,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,98.0,2.0,Service-Based
+knexMethod,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,18.916666666666668,5.0,Inventory-Based (Physical Products)
+amesresearchinc,"Chemicals, Plastics & Rubber",30.0,"Low (Statistical only, weak)",None,Review,,,,,,148.0,4.0,Inventory-Based (Physical Products)
+antares,Medical Equipment & Supplies,30.0,"Low (Statistical only, weak)",None,Review,,,,,,33.166666666666664,8.0,Product-Based (Mixed Inventory)
+coolbluedistribution,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,80.0,4.0,Inventory-Based (Physical Products)
+ngalatrading,Furniture & Home Furnishings,30.0,"Low (Statistical only, weak)",None,Review,,,,,,129.0,3.0,Inventory-Based (Physical Products)
+biggameusaCo2,Apparel & Textiles,30.0,"Low (Statistical only, weak)",None,Review,,,,,,64.08333333333333,19.0,Product-Based (Mixed Inventory)
+labelsplusCo1,Office Supplies & Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,120.0,3.0,Inventory-Based (Physical Products)
+anytimebarsuppliesllcCo1,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,8.0,3.0,Inventory-Based (Physical Products)
+haygor,Metal Fabrication & Steel,30.0,"Low (Statistical only, weak)",None,Review,,,,,,30.833333333333332,7.0,NonInventory-Based (Digital/Services)
+Eastwestemb2,Apparel & Textiles,30.0,"Low (Statistical only, weak)",None,Review,,,,,,208.0,5.0,Inventory-Based (Physical Products)
+spiritedbluffsllc,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,245.0,5.0,Inventory-Based (Physical Products)
+CryturUSA,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,19.333333333333332,4.0,Inventory-Based (Physical Products)
+stwsincCo1,Apparel & Textiles,30.0,"Low (Statistical only, weak)",None,Review,,,,,,15.583333333333334,4.0,NonInventory-Based (Digital/Services)
+trunniontable,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,122.0,2.0,NonInventory-Based (Digital/Services)
+diamondTechnologies,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,20.416666666666668,5.0,Product-Based (Mixed Inventory)
+LappStructures,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,1421.0,29.0,
+sonoranprocess,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,17.416666666666668,5.0,Inventory-Based (Physical Products)
+paradigmlabs,"Chemicals, Plastics & Rubber",30.0,"Low (Statistical only, weak)",None,Review,,,,,,252.0,6.0,NonInventory-Based (Digital/Services)
+TexStar,"Chemicals, Plastics & Rubber",30.0,"Low (Statistical only, weak)",None,Review,,,,,,120.0,3.0,Inventory-Based (Physical Products)
+RefreshAustralia,Building Materials & Construction,65.0,"Medium (Statistical only, high)",S,Accept with Monitoring,,High,,,False,57.0,1.0,
+safetnose,Apparel & Textiles,30.0,"Low (Statistical only, weak)",None,Review,,,,,,80.0,2.0,Service-Based
+griffcovalve,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,20.5,6.0,Product-Based (Mixed Inventory)
+lihua,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,122.0,2.0,
+Keystone,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,68.0,2.0,Inventory-Based (Physical Products)
+FlowTurn,Industrial Equipment & Machinery,30.0,"Low (Statistical only, weak)",None,Review,,,,,,73.5,21.0,Product-Based (Mixed Inventory)
+wrico,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,168.0,6.0,Product-Based (Mixed Inventory)
+nukitchens132,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,472.0,10.0,NonInventory-Based (Digital/Services)
+americanwholesaledistributors,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,122.0,2.0,Inventory-Based (Physical Products)
+bertelsonprecast,Building Materials & Construction,70.0,Medium (Product + Statistical),P+S,Re-classify to General Wholesale/Distribution,8.0,High,General Wholesale/Distribution,"Safety & Security Equipment: 8.0%, Medical Equipment & Supplies: 4.0%",False,98.0,2.0,NonInventory-Based (Digital/Services)
+j2medicalsupplyinc,Medical Equipment & Supplies,30.0,"Low (Statistical only, weak)",None,Review,,,,,,360.0,9.0,Product-Based (Mixed Inventory)
+saasdirectCo1,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,0.0,1.0,Inventory-Based (Physical Products)
+techtradeglobal,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,184.0,4.0,Product-Based (Mixed Inventory)
+spkassociates,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,418.0,7.0,NonInventory-Based (Digital/Services)
+Vagabondpetsupply,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,NonInventory-Based (Digital/Services)
+yoderbilt,Agriculture & Greenhouse/Nursery,30.0,"Low (Statistical only, weak)",None,Review,,,,,,1077.0,24.0,NonInventory-Based (Digital/Services)
+bindersincCo1,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,299.0,6.0,NonInventory-Based (Digital/Services)
+artemisbiosolutions,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,31.833333333333332,7.0,Product-Based (Mixed Inventory)
+loretech,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,489.0,9.0,Inventory-Based (Physical Products)
+gexcorpCo1,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,132.0,3.0,Product-Based (Mixed Inventory)
+gitchsportswearCo1,Sporting Goods & Fitness Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,300.0,6.0,NonInventory-Based (Digital/Services)
+europenaingredientsCo2,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,27.833333333333332,7.0,Inventory-Based (Physical Products)
+bassbrushes,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,120.0,3.0,Inventory-Based (Physical Products)
+highcottonCo2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,Inventory-Based (Physical Products)
+HundeggerNA,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,50.0,15.0,
+ipme,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,257.0,5.0,NonInventory-Based (Digital/Services)
+sommselection,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,240.0,6.0,Inventory-Based (Physical Products)
+morepreparedCo2,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,Product-Based (Mixed Inventory)
+ancientartsfibrecrafts,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,Inventory-Based (Physical Products)
+rfdistributor,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,132.0,3.0,Inventory-Based (Physical Products)
+wplastics,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,84.0,3.0,Product-Based (Mixed Inventory)
+Surfaceco,"Chemicals, Plastics & Rubber",30.0,"Low (Statistical only, weak)",None,Review,,,,,,348.0,9.0,Inventory-Based (Physical Products)
+BioAgEnergy,"Chemicals, Plastics & Rubber",30.0,"Low (Statistical only, weak)",None,Review,,,,,,35.0,9.0,Inventory-Based (Physical Products)
+sylvacorp,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,346.0,7.0,Hybrid (Mixed)
+ptegolfCo1,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,34.166666666666664,6.0,Product-Based (Mixed Inventory)
+BarrelBuildersInc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,12.25,3.0,Inventory-Based (Physical Products)
+NadalieUSA,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,46.5,11.0,NonInventory-Based (Digital/Services)
+tritterfeeferCo1,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,279.0,6.0,Service-Based
+agproinc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,20.416666666666668,5.0,Inventory-Based (Physical Products)
+tfriedl,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,Inventory-Based (Physical Products)
+vantagemeasure,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,89.0,2.0,NonInventory-Based (Digital/Services)
+urbanfrontltd,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,196.0,4.0,Service-Based
+maassociates,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,9.75,3.0,Inventory-Based (Physical Products)
+FoamRubberFabricators,"Chemicals, Plastics & Rubber",30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,NonInventory-Based (Digital/Services)
+raybiotech,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,490.0,10.0,Inventory-Based (Physical Products)
+dars,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,28.0,1.0,Inventory-Based (Physical Products)
+leichtseattle1,Furniture & Home Furnishings,30.0,"Low (Statistical only, weak)",None,Review,,,,,,17.333333333333332,4.0,NonInventory-Based (Digital/Services)
+exergamefitness,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,14.25,3.0,Inventory-Based (Physical Products)
+boeckeler,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,12.333333333333334,4.0,
+rgvegas,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,9.166666666666666,2.0,Service-Based
+timberwolfforest,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,104.0,2.0,Product-Based (Mixed Inventory)
+lifetimeteallc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,Inventory-Based (Physical Products)
+redeagleinternational,"Chemicals, Plastics & Rubber",30.0,"Low (Statistical only, weak)",None,Review,,,,,,445.0,10.0,Inventory-Based (Physical Products)
+rapidindustriesqbd,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,7.666666666666667,2.0,Inventory-Based (Physical Products)
+BonOpusSales,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,17.333333333333332,4.0,Service-Based
+cfsusa1,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,534.0,12.0,Service-Based
+goldengroveglobal,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,3.3333333333333335,1.0,NonInventory-Based (Digital/Services)
+stanwoodredimix,Building Materials & Construction,80.0,High (Product + Statistical agree),P+S,Accept,23.1,High,Building Materials & Construction,Building Materials & Construction: 23.1%,False,146.0,2.0,Service-Based
+sumakenorthamericaMT,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,366.0,6.0,
+precisionsurgicalinc,Medical Equipment & Supplies,30.0,"Low (Statistical only, weak)",None,Review,,,,,,467.0,8.0,NonInventory-Based (Digital/Services)
+theblastbagCo1,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,112.0,4.0,Product-Based (Mixed Inventory)
+solsticeag,"Chemicals, Plastics & Rubber",30.0,"Low (Statistical only, weak)",None,Review,,,,,,734.0,14.0,Product-Based (Mixed Inventory)
+Solavantilighting1,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,12.25,3.0,Inventory-Based (Physical Products)
+akzanwholesale,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,112.0,4.0,Inventory-Based (Physical Products)
+pacificergonomics,Office Supplies & Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,263.0,5.0,Inventory-Based (Physical Products)
+bccrmed,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,89.0,2.0,Inventory-Based (Physical Products)
+hollingbery,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,29.0,10.0,Product-Based (Mixed Inventory)
+aquashieldenclosures,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,120.0,3.0,Inventory-Based (Physical Products)
+back2internationalltd,Furniture & Home Furnishings,30.0,"Low (Statistical only, weak)",None,Review,,,,,,312.0,6.0,Inventory-Based (Physical Products)
+SunshineUSALLC1,Electrical & Lighting Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,108.0,3.0,Product-Based (Mixed Inventory)
+deltakits1,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,23.333333333333332,7.0,NonInventory-Based (Digital/Services)
+headnhome,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,245.0,8.0,Product-Based (Mixed Inventory)
+USTestingEquipment,Safety & Security Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,122.0,2.0,NonInventory-Based (Digital/Services)
+chapmanco,Building Materials & Construction,50.0,Low (Product + Statistical conflict),P,Review (Possible Mis-classification),28.0,Low,Automotive & Transportation,"Automotive & Transportation: 28.0%, HVAC & Refrigeration Equipment: 8.0%, Signs, Graphics & Displays: 4.0%",True,107.0,42.0,Hybrid (Mixed)
+voltairesystems,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,22.833333333333332,7.0,Product-Based (Mixed Inventory)
+podiatrycc,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,89.0,2.0,Service-Based
+dhsoftwarealliance1,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,0.0,1.0,Inventory-Based (Physical Products)
+pickonus,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,37.0,1.0,Inventory-Based (Physical Products)
+afghanicts,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,0.0,2.0,Hybrid (Mixed)
+expressassembly1,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,44.75,10.0,Inventory-Based (Physical Products)
+MYGUTTERLOCK,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,181.0,4.0,Product-Based (Mixed Inventory)
+CunninghamPianoCo,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,72.5,17.0,Service-Based
+rawfood,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,0.0,2.0,Product-Based (Mixed Inventory)
+excelpkgsystems,Industrial Equipment & Machinery,30.0,"Low (Statistical only, weak)",None,Review,,,,,,188.0,5.0,Inventory-Based (Physical Products)
+atWork,Furniture & Home Furnishings,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.833333333333336,13.0,Inventory-Based (Physical Products)
+affinityr,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,73.0,1.0,Product-Based (Mixed Inventory)
+blkcorp,Manufacturer Representatives,30.0,"Low (Statistical only, weak)",None,Review,,,,,,43.416666666666664,11.0,Inventory-Based (Physical Products)
+keastenterprises,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,104.0,2.0,Product-Based (Mixed Inventory)
+apexstone,Building Materials & Construction,70.0,Medium (Product + Statistical),P+S,Re-classify to General Wholesale/Distribution,6.0,High,General Wholesale/Distribution,"Building Materials & Construction: 6.0%, Medical Equipment & Supplies: 4.0%, Office Supplies & Equipment: 4.0%",False,776.0,14.0,Inventory-Based (Physical Products)
+ezloinnovation,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,Hybrid (Mixed)
+shedyard,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,123.0,4.0,NonInventory-Based (Digital/Services)
+triangleatlantic,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,3.3333333333333335,1.0,Inventory-Based (Physical Products)
+abeep,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,478.0,10.0,Product-Based (Mixed Inventory)
+trask2000,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,125.0,2.0,Product-Based (Mixed Inventory)
+brownsafe,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,74.16666666666667,20.0,NonInventory-Based (Digital/Services)
+equipmentguys,Sporting Goods & Fitness Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,374.0,8.0,NonInventory-Based (Digital/Services)
+houhyd,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,263.0,5.0,NonInventory-Based (Digital/Services)
+usafleetsolutions,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,1003.0,16.0,Service-Based
+novamen,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,70.5,18.0,Product-Based (Mixed Inventory)
+fifoil,Industrial Equipment & Machinery,30.0,"Low (Statistical only, weak)",None,Review,,,,,,53.416666666666664,15.0,Product-Based (Mixed Inventory)
+dimagesinc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,0.0,2.0,Service-Based
+fxpartnersusa1,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,68.0,2.0,Inventory-Based (Physical Products)
+wagnerranchservices,Agriculture & Greenhouse/Nursery,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,Service-Based
+niagaramachine1,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,116.0,2.0,Product-Based (Mixed Inventory)
+AVAILForensicsCo1,Electronics & Technology,30.0,"Low (Statistical only, weak)",None,Review,,,,,,48.8,1.0,Service-Based
+albertlpunktinc1,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,Inventory-Based (Physical Products)
+officefurniturecentreglasgow,Furniture & Home Furnishings,30.0,"Low (Statistical only, weak)",None,Review,,,,,,200.0,5.0,NonInventory-Based (Digital/Services)
+PlanetPOS,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,14.0,1.0,Hybrid (Mixed)
+fujimats,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,91.91666666666669,20.0,NonInventory-Based (Digital/Services)
+classicrockfaceblock,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,147.0,3.0,Inventory-Based (Physical Products)
+ascocarbondioxideinc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,405.0,9.0,NonInventory-Based (Digital/Services)
+magnummarketing,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,21.5,6.0,Product-Based (Mixed Inventory)
+theheartpinecompany,Wood Products & Lumber,30.0,"Low (Statistical only, weak)",None,Review,,,,,,196.0,4.0,Service-Based
+stallwatch,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,49.0,1.0,Service-Based
+appackagingcorp,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,401.0,11.0,NonInventory-Based (Digital/Services)
+celluma,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,1122.0,24.0,Product-Based (Mixed Inventory)
+stagepolymers,Manufacturer Representatives,30.0,"Low (Statistical only, weak)",None,Review,,,,,,104.0,2.0,Inventory-Based (Physical Products)
+knf,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,320.0,8.0,Product-Based (Mixed Inventory)
+cadsupplies1,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,200.0,5.0,Inventory-Based (Physical Products)
+tippmannarmscompanyllc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,394.0,10.0,NonInventory-Based (Digital/Services)
+ErazorBits2017,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,
+lenworth,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,414.0,9.0,NonInventory-Based (Digital/Services)
+hylunia,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,208.0,4.0,Inventory-Based (Physical Products)
+dmitriyco1,Furniture & Home Furnishings,30.0,"Low (Statistical only, weak)",None,Review,,,,,,15.333333333333334,4.0,Service-Based
+thesplashhottubspools,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,326.0,10.0,Service-Based
+vpnz,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,26.666666666666668,8.0,Hybrid (Mixed)
+ct,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,260.0,5.0,Inventory-Based (Physical Products)
+servsixus,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,120.0,3.0,Product-Based (Mixed Inventory)
+nellieshairemporiumincnew,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,120.0,3.0,Inventory-Based (Physical Products)
+customturnings,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,4.333333333333333,1.0,Hybrid (Mixed)
+exposuresfineart,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,3.3333333333333335,1.0,NonInventory-Based (Digital/Services)
+flowerhouse,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,Inventory-Based (Physical Products)
+onsight,Safety & Security Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,3.3333333333333335,1.0,Hybrid (Mixed)
+genprollc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,38.0,9.0,NonInventory-Based (Digital/Services)
+grothouse,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,26.666666666666668,8.0,NonInventory-Based (Digital/Services)
+coolsealgaskets,HVAC & Refrigeration Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,52.0,1.0,NonInventory-Based (Digital/Services)
+hidcorind,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,80.0,2.0,Product-Based (Mixed Inventory)
+datamemorymarketing,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,
+agralarm1,Electronics & Technology,30.0,"Low (Statistical only, weak)",None,Review,,,,,,432.0,9.0,Hybrid (Mixed)
+elmusa,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,360.0,9.0,Inventory-Based (Physical Products)
+pipefusionservicesinc,Apparel & Textiles,30.0,"Low (Statistical only, weak)",None,Review,,,,,,26.25,7.0,Hybrid (Mixed)
+penwestcanada,Food & Beverage Dist/Mfg,30.0,"Low (Statistical only, weak)",None,Review,,,,,,10.0,4.0,Product-Based (Mixed Inventory)
+globalpackage,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,5.833333333333333,2.0,Product-Based (Mixed Inventory)
+seaciderfarmandciderhouse,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,10.416666666666666,3.0,Product-Based (Mixed Inventory)
+exloc9,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,250.0,6.0,Product-Based (Mixed Inventory)
+spus,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,210.0,6.0,Product-Based (Mixed Inventory)
+uatllc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,5.0,2.0,Inventory-Based (Physical Products)
+rapidfireprotectionnew,Safety & Security Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,11.666666666666666,4.0,Service-Based
+fjsproductionsllc,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,270.96,6.0,Service-Based
+vedafarming1,Agriculture & Greenhouse/Nursery,30.0,"Low (Statistical only, weak)",None,Review,,,,,,90.0,2.0,Inventory-Based (Physical Products)
+merrimuseenterprisesllc,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,25.0,1.0,Service-Based
+cityfloral,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,46.666666666666664,22.0,Hybrid (Mixed)
+primefish,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,35.0,1.0,Product-Based (Mixed Inventory)
+westernpackaging,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,480.0,12.0,Inventory-Based (Physical Products)
+datamemorysales,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,280.0,6.0,Hybrid (Mixed)
+atlanticgraphics,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,365.0,9.0,Service-Based
+aswsouth,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,220.0,6.0,Inventory-Based (Physical Products)
+elecraft7,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,555.0,19.0,NonInventory-Based (Digital/Services)
+apdminc,Medical Equipment & Supplies,30.0,"Low (Statistical only, weak)",None,Review,,,,,,235.0,7.0,NonInventory-Based (Digital/Services)
+waterscienceinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,90.0,2.0,NonInventory-Based (Digital/Services)
+vis2,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,755.0,17.0,Product-Based (Mixed Inventory)
+swsgroup1,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,Hybrid (Mixed)
+ravizzausa,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,114.0,2.0,Inventory-Based (Physical Products)
+restaurantfurniturecom,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,3.3333333333333335,1.0,
+audiovideosupply,Electronics & Technology,30.0,"Low (Statistical only, weak)",None,Review,,,,,,10.0,3.0,Inventory-Based (Physical Products)
+mcc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,35.0,1.0,NonInventory-Based (Digital/Services)
+racecardynamicsofarizonainc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,80.0,2.0,Hybrid (Mixed)
+westernsquare1,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,286.0,8.0,Service-Based
+hblzh,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,
+modcycles,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,130.0,4.0,Inventory-Based (Physical Products)
+eu,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,90.0,2.0,Service-Based
+e2efoodpackinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,Inventory-Based (Physical Products)
+dtaglobal,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,25.0,1.0,
+cdsanalytical,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,480.0,12.0,Product-Based (Mixed Inventory)
+nanoandmoreusa1,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,120.0,3.0,Inventory-Based (Physical Products)
+photovaclasercorp,Industrial Equipment & Machinery,30.0,"Low (Statistical only, weak)",None,Review,,,,,,280.0,7.0,Service-Based
+omniausa,"Chemicals, Plastics & Rubber",30.0,"Low (Statistical only, weak)",None,Review,,,,,,25.0,1.0,Inventory-Based (Physical Products)
+fromtheretohereimports,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,4.166666666666667,2.0,Inventory-Based (Physical Products)
+idescosafetycorp,Safety & Security Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,120.0,3.0,
+tastypuff,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,10.0,3.0,
+blingmaster,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,25.0,1.0,
+srwdistribution,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,
+technisoilglobal,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,160.0,4.0,Product-Based (Mixed Inventory)
+leontineserver,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,637.0,12.0,NonInventory-Based (Digital/Services)
+proav,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,138.0,3.0,NonInventory-Based (Digital/Services)
+giantmicrobes,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,6.666666666666667,2.0,
+division9associates,Building Materials & Construction,70.0,Medium (Product + Statistical),P+S,Re-classify to General Wholesale/Distribution,18.0,High,General Wholesale/Distribution,"Chemicals, Plastics & Rubber: 18.0%, Furniture & Home Furnishings: 8.0%, Medical Equipment & Supplies: 4.0%",False,30.0,9.0,Service-Based
+vcinc2,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,75.0,3.0,Inventory-Based (Physical Products)
+langemedical,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,
+mtausa,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,375.0,15.0,
+jit,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,320.0,8.0,Inventory-Based (Physical Products)
+stellalightinginc,Electrical & Lighting Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,160.0,4.0,Service-Based
+brechtel,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,13.5,3.0,NonInventory-Based (Digital/Services)
+affordablemedical,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,33.333333333333336,10.0,Inventory-Based (Physical Products)
+vmgindustries,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,114.0,2.0,Inventory-Based (Physical Products)
+ctiusa,Industrial Equipment & Machinery,30.0,"Low (Statistical only, weak)",None,Review,,,,,,384.0,10.0,Inventory-Based (Physical Products)
+php,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,1080.0,26.0,Product-Based (Mixed Inventory)
+methodmobility,Medical Equipment & Supplies,30.0,"Low (Statistical only, weak)",None,Review,,,,,,200.0,5.0,Hybrid (Mixed)
+windowmakeover1,Apparel & Textiles,30.0,"Low (Statistical only, weak)",None,Review,,,,,,280.0,7.0,Service-Based
+aw,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,128.0,4.0,
+aquaview,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,75.0,3.0,Service-Based
+mbgakllc,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,160.0,4.0,
+idsheat,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,5.833333333333333,2.0,NonInventory-Based (Digital/Services)
+houseofqcrm,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,25.0,1.0,Hybrid (Mixed)
+gmfhospitalityinc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,125.0,5.0,NonInventory-Based (Digital/Services)
+mojofeet,Medical Equipment & Supplies,30.0,"Low (Statistical only, weak)",None,Review,,,,,,50.0,2.0,Service-Based
+globalgatecontrols,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,50.0,15.0,Product-Based (Mixed Inventory)
+lsut,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,96.0,3.0,
+pinline,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,120.0,3.0,Service-Based
+ntgproducts,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,320.0,8.0,Service-Based
+altech,Electrical & Lighting Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,4.166666666666667,2.0,NonInventory-Based (Digital/Services)
+artbrandsllc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,275.0,11.0,Product-Based (Mixed Inventory)
+conequippartsandequipmentllc,Electronics & Technology,30.0,"Low (Statistical only, weak)",None,Review,,,,,,240.0,6.0,Hybrid (Mixed)
+keybusinesssolutions,Office Supplies & Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,468.0,12.0,Product-Based (Mixed Inventory)
+bham,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,NonInventory-Based (Digital/Services)
+msf,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,82.0,2.0,Product-Based (Mixed Inventory)
+hmtca,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,440.0,11.0,NonInventory-Based (Digital/Services)
+ebg,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,120.0,3.0,Product-Based (Mixed Inventory)
+weightechusa,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,184.0,4.0,Product-Based (Mixed Inventory)
+hsa,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,52.0,1.0,Inventory-Based (Physical Products)
+sci92,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,102.0,3.0,Product-Based (Mixed Inventory)
+wowo,"Chemicals, Plastics & Rubber",30.0,"Low (Statistical only, weak)",None,Review,,,,,,94.0,2.0,Inventory-Based (Physical Products)
+hundegger,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,3.3333333333333335,1.0,Product-Based (Mixed Inventory)
+ebproducts,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,120.0,3.0,Service-Based
+isavela,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,6.666666666666667,2.0,Product-Based (Mixed Inventory)
+customequipmentcompanyinc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,280.0,7.0,Hybrid (Mixed)
+trinitychurchsupply,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,80.0,2.0,
+aquamatic,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,800.0,20.0,Product-Based (Mixed Inventory)
+lumax,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,440.0,11.0,Inventory-Based (Physical Products)
+parlights,Electrical & Lighting Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,640.0,17.0,NonInventory-Based (Digital/Services)
+psipressure,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,200.0,10.0,Inventory-Based (Physical Products)
+microdairydesigns,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,75.0,3.0,Product-Based (Mixed Inventory)
+americanstonecraft,Building Materials & Construction,70.0,Medium (Product + Statistical),P+S,Re-classify to General Wholesale/Distribution,8.0,High,General Wholesale/Distribution,"Safety & Security Equipment: 8.0%, Building Materials & Construction: 4.0%",False,2.9166666666666665,1.0,NonInventory-Based (Digital/Services)
+demootbt,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,0.0,1.0,Hybrid (Mixed)
+SeatingMasters,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,2.0833333333333335,1.0,
+dewesoft,Electronics & Technology,30.0,"Low (Statistical only, weak)",None,Review,,,,,,3342.0,74.0,Hybrid (Mixed)
+ciamedical,Medical Equipment & Supplies,30.0,"Low (Statistical only, weak)",None,Review,,,,,,1120.0,28.0,Inventory-Based (Physical Products)
+supplyshield,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,416.0,8.0,NonInventory-Based (Digital/Services)
+pcdoctor,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,0.0,5.0,Inventory-Based (Physical Products)
+lmoor,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,25.0,1.0,Inventory-Based (Physical Products)
+skyproduct,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,32.0,6.0,Inventory-Based (Physical Products)
+unitedcomponentsdistributionllc,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,40.0,1.0,
+mjsystems,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,150.0,6.0,
+ssps,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,160.0,4.0,Inventory-Based (Physical Products)
+refreshdeal,Building Materials & Construction,70.0,Medium (Product + Statistical),P+S,Re-classify to General Wholesale/Distribution,7.5,High,General Wholesale/Distribution,"Packaging & Printing: 7.5%, Furniture & Home Furnishings: 2.5%, Apparel & Textiles: 2.5%",False,49.37916666666666,14.0,Service-Based
+selectedfurniture,Furniture & Home Furnishings,30.0,"Low (Statistical only, weak)",None,Review,,,,,,2.0833333333333335,1.0,Inventory-Based (Physical Products)
+jsco,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,50.0,2.0,
+siegelperformancesystems,Sporting Goods & Fitness Equipment,30.0,"Low (Statistical only, weak)",None,Review,,,,,,80.0,2.0,Service-Based
+RestaurantFurnitureSupply,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,2.0833333333333335,1.0,
+AffordableSeatingLLC,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,2.0833333333333335,1.0,Inventory-Based (Physical Products)
+RestaurantFurnitureNet,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,2.0833333333333335,1.0,Inventory-Based (Physical Products)
+AffordableSeating,General Retail,30.0,"Low (Statistical only, weak)",None,Review,,,,,,2.0833333333333335,1.0,Inventory-Based (Physical Products)
+pscfloturninc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,224.0,7.0,Product-Based (Mixed Inventory)
+simplesolutionsandinnovationsinc,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,245.0,7.0,Product-Based (Mixed Inventory)
+calpacific,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,185.0,5.0,
+kiccorporation,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,65.0,1.0,
+virginialabsupplycorp,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,200.0,5.0,Inventory-Based (Physical Products)
+okfoundry,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,155.0,4.0,NonInventory-Based (Digital/Services)
+templatecas,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,0.0,2.0,Service-Based
+templatekerryriddle,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,0.0,1.0,Inventory-Based (Physical Products)
+templatepaulettedreher,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,0.0,1.0,Inventory-Based (Physical Products)
+templatedavidglantz,General Wholesale/Distribution,30.0,"Low (Statistical only, weak)",None,Review,,,,,,0.0,2.0,Inventory-Based (Physical Products)
+alcon,General/Specialty Manufacturing,30.0,"Low (Statistical only, weak)",None,Review,,,,,,95.0,2.0,NonInventory-Based (Digital/Services)
