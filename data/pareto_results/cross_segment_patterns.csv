@@ -1,0 +1,88 @@
+Quadrant,Industry,Company_Size,Customer_Count,Avg_MRR,Avg_LTV
+Core Champions,General Wholesale/Distribution,Small (6-20 employees),48,257.1302083333333,15642.382083333332
+Base Customers,General Wholesale/Distribution,Micro (1-5 employees),48,27.515625,1572.77375
+Base Customers,General Wholesale/Distribution,Small (6-20 employees),43,26.6453488372093,1330.8941860465115
+Rising Stars,General Wholesale/Distribution,Small (6-20 employees),34,160.33823529411765,1502.4632352941176
+Core Champions,General/Specialty Manufacturing,Small (6-20 employees),33,307.66161616161617,23032.972727272725
+At Risk,General Wholesale/Distribution,Small (6-20 employees),32,32.1875,12727.1503125
+Base Customers,General/Specialty Manufacturing,Small (6-20 employees),31,27.102150537634408,1029.8790322580646
+At Risk,General/Specialty Manufacturing,Small (6-20 employees),28,23.238095238095237,14497.346428571429
+Base Customers,General/Specialty Manufacturing,Micro (1-5 employees),27,25.94753086419753,1384.088888888889
+Core Champions,General Wholesale/Distribution,Micro (1-5 employees),26,254.96153846153845,10967.678461538462
+Base Customers,General Wholesale/Distribution,Unknown,23,20.07246376811594,1215.9760869565218
+Rising Stars,General Wholesale/Distribution,Unknown,22,134.0568181818182,1258.3522727272727
+Core Champions,General/Specialty Manufacturing,Medium (21-50 employees),21,437.5,22047.110476190475
+Core Champions,General/Specialty Manufacturing,Micro (1-5 employees),21,249.1031746031746,14630.290476190476
+Core Champions,General/Specialty Manufacturing,Large (51-200 employees),20,442.6583333333333,28722.096499999996
+Rising Stars,General Wholesale/Distribution,Micro (1-5 employees),20,153.3125,1602.075
+Base Customers,General/Specialty Manufacturing,Unknown,19,22.99122807017544,1028.2105263157894
+At Risk,General/Specialty Manufacturing,Micro (1-5 employees),18,20.324074074074073,13383.351111111111
+At Risk,General/Specialty Manufacturing,Medium (21-50 employees),17,26.318627450980394,9689.223529411764
+Base Customers,General Wholesale/Distribution,Medium (21-50 employees),15,29.65555555555556,1328.55
+Base Customers,General Retail,Micro (1-5 employees),14,24.238095238095237,1459.2357142857143
+Core Champions,General Wholesale/Distribution,Medium (21-50 employees),14,350.7857142857143,18616.10714285714
+Core Champions,General/Specialty Manufacturing,Unknown,13,302.53846153846155,14843.76923076923
+Rising Stars,General/Specialty Manufacturing,Small (6-20 employees),13,153.53846153846155,1508.6923076923076
+Base Customers,General Retail,Unknown,12,12.048611111111112,1713.875
+At Risk,General Retail,Small (6-20 employees),12,32.30555555555556,12771.933333333334
+At Risk,General Wholesale/Distribution,Micro (1-5 employees),12,24.555555555555557,7272.445
+Rising Stars,General Retail,Micro (1-5 employees),12,154.34166666666667,1231.6083333333333
+Base Customers,General/Specialty Manufacturing,Medium (21-50 employees),11,29.265151515151516,1590.2136363636362
+Core Champions,General Wholesale/Distribution,Unknown,11,227.1818181818182,11384.363636363636
+Rising Stars,General/Specialty Manufacturing,Micro (1-5 employees),11,115.56818181818181,2038.859090909091
+Core Champions,General Retail,Small (6-20 employees),11,398.45454545454544,15185.261818181818
+Core Champions,General Retail,Micro (1-5 employees),10,205.8793333333333,10549.186
+Rising Stars,General/Specialty Manufacturing,Medium (21-50 employees),10,145.0,1867.2
+Rising Stars,General/Specialty Manufacturing,Unknown,10,256.1,1703.0
+Base Customers,General Retail,Small (6-20 employees),10,23.991666666666667,1927.3
+Rising Stars,General Retail,Unknown,8,140.9125,1479.4
+Rising Stars,General Retail,Small (6-20 employees),8,282.775,1740.1125
+At Risk,General Retail,Micro (1-5 employees),7,27.059523809523807,12187.57142857143
+At Risk,General Wholesale/Distribution,Unknown,6,26.76388888888889,8233.458333333334
+At Risk,General Wholesale/Distribution,Medium (21-50 employees),6,23.166666666666668,8967.816666666668
+Core Champions,General Retail,Large (51-200 employees),6,327.4166666666667,25671.0
+Core Champions,General Wholesale/Distribution,Large (51-200 employees),5,475.6,24802.8
+Core Champions,"Chemicals, Plastics & Rubber",Small (6-20 employees),5,337.152,24265.172
+Rising Stars,General Wholesale/Distribution,Medium (21-50 employees),5,235.0,1845.75
+Core Champions,Furniture & Home Furnishings,Small (6-20 employees),4,279.25,19379.8925
+Rising Stars,General Retail,Medium (21-50 employees),4,190.5,1552.125
+Rising Stars,General/Specialty Manufacturing,Large (51-200 employees),4,174.25,3221.75
+Rising Stars,Food & Beverage Dist/Mfg,Unknown,4,166.5,1172.25
+Base Customers,Food & Beverage Dist/Mfg,Unknown,4,24.9375,926.75
+Base Customers,Building Materials & Construction,Micro (1-5 employees),4,19.625,2042.0
+At Risk,General/Specialty Manufacturing,Unknown,4,32.083333333333336,7426.75
+At Risk,General/Specialty Manufacturing,Large (51-200 employees),4,27.3125,5057.0875
+Core Champions,Building Materials & Construction,Small (6-20 employees),3,114.0,9624.333333333334
+Core Champions,General Retail,Medium (21-50 employees),3,104.16666666666667,26081.0
+Base Customers,General Wholesale/Distribution,Large (51-200 employees),3,12.583333333333334,625.3666666666667
+Base Customers,General Retail,Medium (21-50 employees),3,30.805555555555554,1958.9166666666667
+Base Customers,Building Materials & Construction,Unknown,3,34.97222222222222,259.5
+At Risk,General Retail,Medium (21-50 employees),3,19.083333333333332,10311.0
+At Risk,Furniture & Home Furnishings,Small (6-20 employees),3,27.5,21946.0
+Base Customers,General/Specialty Manufacturing,Large (51-200 employees),3,27.055555555555554,2136.0
+Rising Stars,Food & Beverage Dist/Mfg,Micro (1-5 employees),2,87.25,1790.125
+Core Champions,Sporting Goods & Fitness Equipment,Medium (21-50 employees),2,337.0,21043.5
+At Risk,Building Materials & Construction,Small (6-20 employees),2,42.04166666666667,35048.225
+Core Champions,Office Supplies & Equipment,Small (6-20 employees),2,191.5,15713.5
+Rising Stars,Office Supplies & Equipment,Unknown,2,217.5,1036.0
+Core Champions,Safety & Security Equipment,Micro (1-5 employees),2,121.0,17536.0
+Core Champions,Electronics & Technology,Large (51-200 employees),2,1791.0,195290.0
+Core Champions,Medical Equipment & Supplies,Small (6-20 employees),2,282.5,22449.62
+Core Champions,Building Materials & Construction,Unknown,2,260.5,9594.0
+At Risk,Medical Equipment & Supplies,Micro (1-5 employees),2,20.75,22587.25
+At Risk,Metal Fabrication & Steel,Large (51-200 employees),2,35.25,16051.15
+At Risk,Safety & Security Equipment,Large (51-200 employees),2,7.5,11860.25
+Base Customers,Apparel & Textiles,Unknown,2,31.666666666666668,769.0
+Base Customers,Food & Beverage Dist/Mfg,Micro (1-5 employees),2,18.083333333333332,1803.0
+Base Customers,General/Specialty Manufacturing,Enterprise (200+ employees),2,32.541666666666664,201.5
+Core Champions,Apparel & Textiles,Large (51-200 employees),2,244.0,52973.770000000004
+Core Champions,Electrical & Lighting Equipment,Small (6-20 employees),2,400.0,28200.0
+Core Champions,Medical Equipment & Supplies,Micro (1-5 employees),2,280.0,104365.5
+At Risk,Food & Beverage Dist/Mfg,Small (6-20 employees),2,12.0,9289.25
+Core Champions,Food & Beverage Dist/Mfg,Micro (1-5 employees),2,289.5,17722.0
+Core Champions,Food & Beverage Dist/Mfg,Unknown,2,469.5,23428.0
+Core Champions,General Retail,Unknown,2,129.0,6992.0
+Core Champions,Manufacturer Representatives,Micro (1-5 employees),2,112.0,7941.5
+Core Champions,Manufacturer Representatives,Small (6-20 employees),2,483.0,19966.5
+Core Champions,Medical Equipment & Supplies,Medium (21-50 employees),2,677.5,50932.5
+Rising Stars,Safety & Security Equipment,Unknown,2,236.0,2351.5

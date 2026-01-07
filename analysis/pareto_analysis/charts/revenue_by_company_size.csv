@@ -1,0 +1,7 @@
+Company_Size_V2,Customer_Count,Total_MRR,Avg_MRR,MRR_Pct
+Enterprise (200+ employees),10,1820.0,182.0,1.2
+Large (51-200 employees),66,20299.17,307.56,13.6
+Medium (21-50 employees),139,24443.75,175.85,16.4
+Small (6-20 employees),360,49881.54,138.56,33.4
+Micro (1-5 employees),275,28668.02,104.25,19.2
+Unknown,227,24138.5,106.34,16.2

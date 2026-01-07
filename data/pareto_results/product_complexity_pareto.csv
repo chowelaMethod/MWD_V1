@@ -1,0 +1,4 @@
+Complexity_Tier,Customer_Count,Avg_MRR,Median_MRR,Avg_LTV,Median_LTV,Avg_SKU_Count,Avg_Complexity_Score
+Standard,55,107.46,61.0,5664.7,2260.0,50.0,45.28
+Simple,322,151.46,66.04,9956.59,3917.5,47.78,28.58
+Ultra-Simple,605,141.45,63.75,10540.99,4888.0,43.59,12.14
