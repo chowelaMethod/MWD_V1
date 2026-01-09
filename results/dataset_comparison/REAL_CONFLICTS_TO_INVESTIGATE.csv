@@ -1,0 +1,110 @@
+account,research_industry,research_sub,research_source,research_confidence,enriched_industry,enriched_vertical,website,qbo_industry
+artbrandsholdings,Consumer Goods,Promotional Products,llm_classification,medium,Heat Transfer Manufacturing & Garment Decoration,Manufacturing (MWD),,
+egeproducts,Industrial,Agricultural Chemicals,manual_verification,high,Agricultural Spray Adjuvants & Micronutrients Manufacturing,Manufacturing (MWD),egebio.com,
+hisigns,Consumer Goods,Signs/Labels,llm_classification,medium,Architectural Signage & Wayfinding Manufacturing,Manufacturing (MWD),knorth.ca,
+chalmersford,Other,Unclassified,unclassified,,Emergency Vehicle Equipment & Upfitting,Manufacturing (MWD),gmail.com,Manufacturing
+callanindustrial,Services,Professional Services,llm_classification,medium,Industrial Pressure Washer Sales & Service,Wholesale and distribution services (MWD),callanindustrial.com,WholesaleDistributionandSales
+staplesenterprises4,Other,Unclassified,unclassified,,Petroleum Distribution & Retail Convenience Stores,Retail,staplesoil.com,wholesale_distribution
+pfpspokane2,Industrial,Air Filtration,manual_verification,high,Air & Liquid Filtration Solutions Manufacturing,Wholesale and distribution services (MWD),pfpspokane.com,wholesale_distribution
+pma13,Consumer Goods,Jewelry,llm_classification,medium,Interior Architectural Signage & Wayfinding Systems,Manufacturing (MWD),clarkesystems.com,Manufacturing
+jafedecorating,Food & Beverage,Spirits,llm_classification,medium,Custom Glass Decorating & Candle Fulfillment,Manufacturing (MWD),jafedeco.com,Manufacturing
+enzusainc,Industrial,Sewer Cleaning Equipment,manual_verification,high,Sewer & Pipe Cleaning Equipment - Water Jetting Technology,Manufacturing (MWD),enz.com,GeneralProductbasedBusiness
+accurateforklift3,Industrial,Material Handling Equipment,manual_verification,high,"Forklift Sales, Service & Rentals",Manufacturing (MWD),accurateforklift.net,Manufacturing
+delmarvadesigncenter,Construction & Building,Flooring,llm_classification,medium,Kitchen & Bath Design Center - Residential Remodeling,Retail,gmail.com,
+endlessfunllc,Consumer Goods,Novelty Products,manual_verification,medium,Novelty Drinking Straws Manufacturing,Retail,,ManufacturerRepresentativeorAgent
+holdit,Retail Fixtures & Display,POS Display Solutions,manual_verification,high,Point of Sale Displays & Shelf Edge Systems - South Africa,Manufacturing (MWD),holdit.co.za,8
+northamericamattresscorp,Furniture,Furniture,llm_classification,medium,Specialty Foam Mattress Manufacturing - USA Made,Manufacturing (MWD),namattress.com,(No Type)
+multiseal2,Automotive,Tire Sealants,manual_verification,high,Industrial Tire Sealant Manufacturing,Manufacturing (MWD),multiseal.us,
+bodegatile,Construction & Building,Flooring,llm_classification,medium,Tile & Building Materials Retail,Retail,bodegatile.com,ConstructionTradesPlumberElectricianHVAC
+jouffreinc2,Other,Unclassified,unclassified,,Luxury Upholstery & Interior Decoration - French Craftsmanship,Manufacturing (MWD),jouffre.com,Upholstered household furniture manufacturing
+botanaway,Healthcare & Medical,Contract Manufacturing (cGMP),manual_verification,high,Botanical Products & Dietary Supplements Manufacturing,Retail,botanaway.com,
+paladinpower2,Other,Unclassified,unclassified,,Residential & Commercial Energy Storage Systems,Manufacturing (MWD),paladinpower.com,
+imperialprivacysystemsllc,Healthcare & Medical,Privacy Systems,manual_verification,high,Healthcare Privacy Curtains & ICRA Barriers Manufacturing,Manufacturing (MWD),imperialprivacy.com,
+cathxmedicalinc2,Food & Beverage,Spirits,llm_classification,medium,Medical Device Contract Manufacturing - Catheters,Manufacturing (MWD),zeusinc.com,Manufacturing
+profwhytekratom,Food & Beverage,Kratom Products,manual_verification,high,Botanical Products - Kratom Manufacturing & Retail,Wholesale and distribution services (MWD),,
+hydeparkpartners,Other,Unclassified,unclassified,,Engineering Solutions & Products - Water & Renewable Energy,Wholesale and distribution services (MWD),hydeparkpartners.us,WholesaleDistributionandSales
+animalhospitalsupplyinc2,Healthcare & Medical,Medical Equipment,llm_classification,medium,Veterinary Surgical & Critical Care Supplies Manufacturing,Retail,animalhospitalsupply.com,WholesaleDistributionandSales
+goodchemistry,Healthcare & Medical,Medical Equipment,llm_classification,medium,Vertically Integrated Cannabis Cultivation & Dispensary,Retail,,NonProfit
+inspiredsciencesllc,Healthcare & Medical,Spa/Wellness Products,manual_verification,high,Spa & Wellness Self-Heating/Cooling Products,Wholesale and distribution services (MWD),www.thermablisswellness.com,
+lampnutra2,Electrical,Lighting,llm_classification,medium,Kratom Supplements & Nutraceuticals,Manufacturing (MWD),lampnutra.com,
+centricityvisioninc3,Other,Unclassified,unclassified,,Ophthalmic Technology & Cataract Surgery Devices,Manufacturing (MWD),centricityvision.com,
+officefirstsolutions,Other,Unclassified,unclassified,,Office Furniture Sales & Liquidation - New & Used,Retail,myofficefirst.com,RetailSummary
+dcooperworksllc,Other,Unclassified,unclassified,,Metal Fabrication & Press Brake Repair,Manufacturing (MWD),dcooperworks.com,manufacturing
+aswnorth,Other,Unclassified,unclassified,,Boutique Wine Importing & Distribution,Wholesale and distribution services (MWD),aswsouth.com,wholesale_distribution
+ReuningMcKim,Other,Unclassified,unclassified,,Steelmaking Technology & Telescopic Lances Manufacturing,Manufacturing (MWD),sbsassociates.com,Manufacturing
+WonkyConfections,Other,Unclassified,unclassified,,Delta-8 THC Edibles Manufacturing,Wholesale and distribution services (MWD),alpinehemp.com,Nonchocolate confectionery manufacturing
+stellalightingincCo1,Food & Beverage,Spirits,llm_classification,medium,LED Task Lamp Design & Manufacturing,Manufacturing (MWD),stellalighting.com,
+kuumbamadeCo2,Consumer Goods,Fragrances/Body Products,manual_verification,high,Natural Botanical Fragrances & Aromatherapy Products,Manufacturing (MWD),kuumbamade.com,
+liquimedlock,Food & Beverage,Spirits,llm_classification,medium,Secure Medication Packaging - Methadone Specialty,Manufacturing (MWD),liquimedlock.com,
+caribbeandiagnosticsltdCo1,Food & Beverage,Coffee,llm_classification,medium,Medical Laboratory Equipment & Service Provider,Wholesale and distribution services (MWD),caribbeandiagnostics.com,
+mfmh,Consumer Goods,Jewelry,llm_classification,medium,Material Handling Equipment Distribution,Wholesale and distribution services (MWD),mfmh.net,OtherNone
+promotionalproductsfulfillmentdistributionltdCo1,Food & Beverage,Spirits,llm_classification,medium,Third-Party Logistics & Fulfillment Services,Wholesale and distribution services (MWD),ppfd.com,
+Legitshipcbd06,Other,Unclassified,unclassified,,Hemp & CBD Industry B2B Connector - Wholesaling,Wholesale and distribution services (MWD),legitshipcbd.com,
+MPDmedical,Healthcare & Medical,Medical Equipment,llm_classification,medium,Medical Carts & Hospital Cabinets Manufacturing,Wholesale and distribution services (MWD),tdmetal.com,MedicalDentalorHealthService
+MYOSCORP,Other,Unclassified,unclassified,,Advanced Nutrition - Muscle Health Products,Manufacturing (MWD),accountingsynergies.com,
+equipmentlockCo,Security Equipment,Equipment Locks,manual_verification,high,Heavy Equipment Security Locks Manufacturing,Wholesale and distribution services (MWD),equipmentlock.com,Manufacturing
+FLH,Industrial,Fiberglass/Line Hardware,manual_verification,medium,HVAC & Plumbing Equipment Distribution,Manufacturing (MWD),sbsassociates.com,GeneralProductbasedBusiness
+antares,Healthcare & Medical,Supplements/Nutraceuticals,llm_classification,medium,Pharmaceutical Grade Vitamin E TPGS Manufacturing,Manufacturing (MWD),tpgs.com,
+biggameusaCo2,Sports & Recreation,Football Equipment,manual_verification,high,Sporting Goods Manufacturing - Footballs,Retail,biggameusa.com,Manufacturing
+LappStructures,Construction & Building,Sheds/Outdoor Structures,manual_verification,high,Custom Outdoor Structures Manufacturing,Manufacturing (MWD),mycbsadvisor.com,ConstructionGeneralContractor
+nukitchens132,Construction & Building,Kitchen Remodeling,manual_verification,high,Custom Kitchen & Bath Design,Wholesale and distribution services (MWD),nukitchens.com,wholesale_distribution
+americanwholesaledistributors,Food & Beverage,Craft Beer,llm_classification,medium,Apparel & Custom Logo Branding Wholesale - awdinc.net,Wholesale and distribution services (MWD),awdinc.net,WholesaleDistributionandSales
+yoderbilt,Construction & Building,Greenhouses,manual_verification,high,Outdoor Living Products Manufacturing,Manufacturing (MWD),yoderbilt.com,Manufacturing
+bindersincCo1,Consumer Goods,Promotional Products,manual_verification,high,Custom Office Supply Manufacturing - Binders & Related Products,Manufacturing (MWD),bindersinc.com,Manufacturing
+artemisbiosolutions,Other,Unclassified,unclassified,,Bio-Technology Decontamination & Remediation Solutions,Manufacturing (MWD),uniongas.net,Manufacturing
+loretech,Technology,Software/Technology,llm_classification,medium,Industrial Imaging Solutions & Vision Systems,Wholesale and distribution services (MWD),loretech.io,WholesaleDistributionandSales
+Surfaceco,Consumer Goods,Jewelry,llm_classification,medium,Rubber Flooring & Surface Solutions Manufacturing,Manufacturing (MWD),humanemfg.com,OtherNone
+BioAgEnergy,Industrial,Fuel Distribution,manual_verification,high,Bulk Petroleum & Renewable Motor Fuels Distribution,Wholesale and distribution services (MWD),staplesoil.com,WholesaleDistributionandSales
+sylvacorp,Food & Beverage,Spirits,llm_classification,medium,Forest Products Manufacturing - Mulch & Engineered Wood Fiber,Manufacturing (MWD),sylvacorp.com,Manufacturing
+ptegolfCo1,Food & Beverage,Spirits,llm_classification,medium,Golf Tournament Enhancement Products,Wholesale and distribution services (MWD),ptegolf.com,RetailSummary
+NadalieUSA,Other,Unclassified,unclassified,,Oak Barrel Cooperage - Wine & Spirits,Manufacturing (MWD),,Manufacturer's Rep/Sales Rep
+tritterfeeferCo1,Construction & Building,Outdoor Furniture/Sheds,manual_verification,medium,Custom Home Furnishings Manufacturing - Wholesale,Manufacturing (MWD),,manufacturing
+agproinc,Other,Unclassified,unclassified,,Agricultural Equipment Manufacturing - Conservation Drills,Manufacturing (MWD),,Manufacturing
+tfriedl,Consumer Goods,Jewelry,llm_classification,medium,Printed Circuit Board Manufacturing Equipment & Supplies,Wholesale and distribution services (MWD),,Wholesale/Distribution
+urbanfrontltd,Construction & Building,Doors & Windows,manual_verification,high,Designer Hardwood Door Manufacturing - Bespoke Front Doors,Manufacturing (MWD),,
+raybiotech,Technology,Software/Technology,llm_classification,medium,Life Sciences - Proteomics Research Products Manufacturing,Manufacturing (MWD),,Manufacturing
+boeckeler,Food & Beverage,Spirits,llm_classification,medium,Scientific Sample Preparation Equipment Manufacturing,Manufacturing (MWD),,Manufacturing
+redeagleinternational,Industrial,Agricultural Chemicals,manual_verification,high,Generic Agrichemicals Manufacturing & Distribution,Manufacturing (MWD),,Manufacturing
+BonOpusSales,Food & Beverage,Craft Beer,llm_classification,medium,Life Science Products & Custom Protein Production,Manufacturing (MWD),,ManufacturerRepresentativeorAgent
+cfsusa1,Other,Unclassified,unclassified,,Field Machining & Welding Services,Manufacturing (MWD),,Manufacturing
+stanwoodredimix,Construction & Building,Lumber,llm_classification,medium,Ready-Mixed Concrete Production & Delivery,Manufacturing (MWD),,
+hollingbery,Other,Unclassified,unclassified,,Hop Supply & Processing,Manufacturing (MWD),,WholesaleDistributionandSales
+deltakits1,Automotive,Auto Glass Repair,manual_verification,high,Windshield Repair & Headlight Restoration Products,Manufacturing (MWD),,Manufacturing
+headnhome,Consumer Goods,Apparel/Hats,manual_verification,high,Premium Handcrafted Hats - Head n' Home Brand,Manufacturing (MWD),,Manufacturing
+USTestingEquipment,Other,Unclassified,unclassified,,Security Screening Technology & Detection Equipment,Wholesale and distribution services (MWD),,Service Business
+chapmanco,Food & Beverage,Spirits,llm_classification,medium,Construction Equipment Sales & Rental,Wholesale and distribution services (MWD),,
+voltairesystems,Construction & Building,HVAC,llm_classification,medium,Thermal Management & Cabinet Cooling Systems,Manufacturing (MWD),,Manufacturing
+expressassembly1,Manufacturing,Contract Assembly,manual_verification,medium,Industrial Assembly Tools & Equipment Distribution,Manufacturing (MWD),,manufacturing
+CunninghamPianoCo,Retail,Musical Instruments/Pianos,manual_verification,high,Piano Sales & Service,Retail,,
+blkcorp,Food & Beverage,Spirits,llm_classification,medium,Shadow Board & Foam Inlay Manufacturing,Wholesale and distribution services (MWD),,GeneralServicebasedBusiness
+apexstone,Construction & Building,Concrete/Masonry,llm_classification,medium,Natural Stone Supply & Fabrication,Wholesale and distribution services (MWD),,other
+shedyard,Construction & Building,Sheds/Prefab Buildings,manual_verification,medium,Custom Outdoor Structures Manufacturing & Retail,Retail,,RetailSummary
+abeep,Other,Unclassified,unclassified,,Push-to-Talk Telecommunications,Wholesale and distribution services (MWD),,wholesale_distribution
+equipmentguys,Consumer Goods,Jewelry,llm_classification,medium,Strength Training Equipment Manufacturing,Wholesale and distribution services (MWD),,manufacturing
+houhyd,Other,Unclassified,unclassified,,Hydraulic Components & Systems - Fluid Power Solutions,Manufacturing (MWD),,Manufacturing
+usafleetsolutions,Food & Beverage,Spirits,llm_classification,medium,Fleet Management Technology & Telematics,Manufacturing (MWD),,
+novamen,Consumer Goods,Apparel,llm_classification,medium,Industrial Chemical Distribution & Manufacturing,Wholesale and distribution services (MWD),,RetailShoporOnlineCommerce
+classicrockfaceblock,Security Equipment,Safes/Security,llm_classification,medium,Historic Concrete Rock Face Block Manufacturing,Manufacturing (MWD),,Manufacturing
+ascocarbondioxideinc,Automotive,Auto Parts,llm_classification,medium,CO2 & Dry Ice Solutions Manufacturing,Manufacturing (MWD),,
+tippmannarmscompanyllc,Sports & Recreation,Sporting Goods/Airsoft,manual_verification,high,Firearms Manufacturing,Manufacturing (MWD),,
+ErazorBits2017,Other,Unclassified,unclassified,,Patriotic & Military Apparel E-Commerce,Wholesale and distribution services (MWD),,wholesale_distribution
+dmitriyco1,Services,Custom Services,manual_verification,low,Luxury Couture Upholstery - Custom Furniture,Retail,,Furniture and Home Furnishings Stores
+thesplashhottubspools,Services,Professional Services,llm_classification,medium,"Hot Tub, Pool & Spa Sales/Service",Retail,,All other miscellaneous store retailers (except tobacco stores)
+ct,Food & Beverage,Pet Food/Feed,manual_verification,medium,European Tile & Stone Importing - Premium Ceramics,Wholesale and distribution services (MWD),,Wholesale/Distribution
+genprollc,Food & Beverage,Spirits,llm_classification,medium,MULTIPLE COMPANIES - Requires Clarification,Wholesale and distribution services (MWD),,
+coolsealgaskets,Industrial,Gaskets/Seals,manual_verification,high,Commercial Refrigeration Repair & Gasket Services,Wholesale and distribution services (MWD),,Refrigeration equipment and supplies merchant wholesalers
+elmusa,Other,Unclassified,unclassified,,MULTIPLE COMPANIES - Requires Clarification,Wholesale and distribution services (MWD),,
+pipefusionservicesinc,Construction & Building,Plumbing,llm_classification,medium,HDPE Pipe Fusion Services & Custom Fabrication,Manufacturing (MWD),,
+exloc9,Other,Unclassified,unclassified,,Hazardous Area Equipment & Intrinsically Safe Solutions,Manufacturing (MWD),,ManufacturerRepresentativeorAgent
+cityfloral,Consumer Goods,Jewelry,llm_classification,medium,Garden Center & Greenhouse Retail,Retail,,Retail
+atlanticgraphics,Industrial,Printing Equipment,manual_verification,high,Printing Machinery Distribution - New & Pre-Owned,Manufacturing (MWD),,
+vis2,Industrial,Janitorial Supplies,manual_verification,medium,Heavy Vehicle Safety & Testing Equipment Manufacturing,Manufacturing (MWD),,Manufacturing
+leontineserver,Consumer Goods,Jewelry,llm_classification,medium,Luxury Custom Linens Manufacturing,Retail,,retail
+proav,Food & Beverage,Spirits,llm_classification,medium,Audio Visual Equipment Sales & Service - Canada,Retail,,
+methodmobility,Other,Unclassified,unclassified,,"Mobility Equipment Sales, Rental & Service - VA-Approved",Retail,,
+ntgproducts,Industrial,Netting Products,manual_verification,high,Precision Tool & Centerless Grinding Services,Manufacturing (MWD),,Manufacturing
+keybusinesssolutions,Technology,Office Equipment/Supplies,manual_verification,medium,MULTIPLE COMPANIES - Requires Clarification,Wholesale and distribution services (MWD),,OtherNone
+dewesoft,Technology,Data Acquisition/Test Equipment,manual_verification,high,Data Acquisition Systems & Test Measurement Solutions,Manufacturing (MWD),,
+supplyshield,Services,Compliance/Certification,manual_verification,medium,Electronic Components Distribution - Aerospace/Defense,Wholesale and distribution services (MWD),,WholesaleDistributionandSales
+skyproduct,Construction & Building,Roofing/Solar Mounting,manual_verification,medium,MULTIPLE COMPANIES - Requires Clarification,Wholesale and distribution services (MWD),,WholesaleDistributionandSales
+refreshdeal,Consumer Goods,Corporate Gifts/Deal Toys,manual_verification,medium,Corporate Recognition & Financial Commemoratives Manufacturing,Manufacturing (MWD),,

@@ -1,0 +1,37 @@
+Cancellation Reason,Count,Total MRR Lost,Avg MRR,Median MRR,Avg Tenure (mo),Median Tenure (mo),Median Employees
+Non-payment,7613,336828.7,55.34,49.0,2.7,1.9,1.0
+Other - please specify,2420,173884.66,79.29,61.0,4.41,0.7,1.0
+Not using their Method Account,457,47207.5,103.75,68.0,23.81,13.0,5.0
+Using another CRM Product,152,27121.0,185.76,105.0,30.75,21.35,9.0
+"Failure to adopt, train, and engage CRM users",96,13122.0,136.69,98.0,15.09,8.15,8.0
+Difficult Workflows / Workflow Challenges,94,9462.0,103.98,77.0,14.26,6.8,4.0
+Feature Gap,62,6955.0,112.18,73.0,13.46,6.3,6.0
+Duplicate Account,56,6611.5,120.21,80.0,19.28,7.5,3.0
+Sold Business / Closing Company,55,6358.0,115.6,75.0,44.33,37.1,4.0
+Difficult to Customize,45,5877.0,130.6,98.0,13.12,5.0,3.0
+Tech Issue - Applications & Sync,42,7338.0,174.71,102.0,19.75,8.15,11.0
+Difficult UI,35,4031.0,115.17,98.0,13.0,5.7,6.0
+Using QuickBooks Only (no other app),29,3245.0,115.89,98.0,13.79,7.7,3.0
+No longer using QuickBooks,29,7273.93,250.83,110.0,37.11,27.0,7.0
+Integration Gap,26,3775.0,145.19,110.0,15.48,5.6,5.0
+"Tech Issue - QuickBooks, Network, Initial Setup",22,2223.0,111.15,91.0,17.4,8.25,8.5
+Subscription price too high,15,1365.0,91.0,80.0,10.88,5.4,0.0
+Signing up for new Method account,14,970.0,161.67,145.0,4.56,1.8,4.5
+Due to economic reasons,14,2154.0,165.69,98.0,18.99,16.45,7.5
+Service / Support / Help Center,13,1881.0,144.69,98.0,12.08,9.6,6.0
+No time / strategy to implement,9,695.0,77.22,49.0,5.9,2.5,7.0
+Using an Industry Specific Product,8,809.0,101.12,69.0,16.55,11.7,7.5
+Don't use QBDT (In-Product QBDT),7,0.0,0.0,0.0,0.14,0.0,0.0
+Use QBO (In-Product QBDT),6,61.0,61.0,61.0,2.53,0.0,0.0
+Pre-sale trial account,5,126.0,63.0,63.0,1.34,1.4,0.0
+Unhappy with mobile/performance/speed,5,914.0,182.8,80.0,34.62,19.4,23.0
+Employee Attrition / Champion Churn,5,621.0,124.2,49.0,32.2,23.9,18.0
+Don't want to sync (In-Product QBDT),5,0.0,0.0,0.0,0.02,0.0,0.0
+Other - wholesale,4,0.0,0.0,0.0,6.9,6.55,5.0
+Not using QuickBooks Desktop,4,258.0,64.5,64.5,25.78,19.9,6.5
+Other (In-Product QBDT),2,0.0,,,0.0,0.0,
+Temporary Exam Account,2,215.0,107.5,107.5,10.95,10.95,2.5
+QBOA / AppDirect,2,220.0,110.0,110.0,7.6,7.6,1.0
+No longer Partner,2,0.0,0.0,0.0,29.7,29.7,4.5
+Not Using due to Seasonality / Seasonal Business,1,85.0,85.0,85.0,19.1,19.1,0.0
+Violation of Terms & Conditions,1,551.0,551.0,551.0,0.5,0.5,0.0

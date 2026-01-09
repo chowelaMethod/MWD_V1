@@ -1,0 +1,590 @@
+account,industry,sub_industry,workflow_pattern,total_events,invoices,estimates,opportunities,activities,account_lower,mrr,account_age_days,user_count,ltv
+magicbreezekombucha,Food & Beverage,Craft Beverages (Kombucha),crm_pipeline,8,0,0,8,0,magicbreezekombucha,,,,97.5
+synova,Other,Unclassified,crm_pipeline,41,0,0,41,0,synova,,,,99.0
+ssisanitary,Other,Unclassified,quote_driven,58,0,48,10,0,ssisanitary,,,,452.5
+allmakeappliances,Retail,Appliances,transactional,268,213,0,55,0,allmakeappliances,,0.0,7.0,574.0
+hyfloequipmentcompany3,Other,Unclassified,crm_pipeline,14,0,0,14,0,hyfloequipmentcompany3,,,,177.0
+stickersandmore4,Consumer Goods,Signs/Labels,quote_driven,40,0,40,0,0,stickersandmore4,,,,1320.5
+battlerattle,Food & Beverage,Spirits,transactional,55,55,0,0,0,battlerattle,,0.0,9.0,704.25
+americansafetyandfirehouse,Security Equipment,Safes/Security,crm_pipeline,19,0,0,19,0,americansafetyandfirehouse,,,,255.0
+missionlaundryequipment3,Other,Unclassified,crm_pipeline,16,0,0,16,0,missionlaundryequipment3,,,,264.0
+cassinala2,Furniture,Furniture,crm_pipeline,78,0,31,47,0,cassinala2,,,,305.0
+peakperformancecampers,Sports & Recreation,Outdoor/Camping,crm_pipeline,13,0,0,13,0,peakperformancecampers,,,,74.0
+industrimax2,Other,Unclassified,crm_pipeline,12,0,0,12,0,industrimax2,,,,308.0
+formersinternational5,Manufacturing,Food Packaging Equipment,quote_driven,41,0,33,8,0,formersinternational5,,,,1947.0
+deansbeansorganiccoffee4,Food & Beverage,Coffee Roasting,crm_pipeline,18,0,0,18,0,deansbeansorganiccoffee4,,,,528.0
+concealite,Other,Unclassified,quote_driven,46,0,46,0,0,concealite,,,,359.0
+gsinks,Other,Unclassified,crm_pipeline,22,0,0,22,0,gsinks,,,,585.0
+norwooddeviceanddiagnostics,Construction & Building,Lumber,crm_pipeline,153,0,54,99,0,norwooddeviceanddiagnostics,,,,684.0
+g3packaging2,Food & Beverage,Spirits,crm_pipeline,13,0,0,13,0,g3packaging2,,,,396.0
+burnewiin2,Other,Unclassified,crm_pipeline,10,0,0,10,0,burnewiin2,,,,484.0
+gorillahammers4,Other,Unclassified,crm_pipeline,261,0,69,192,0,gorillahammers4,,,,828.0
+lumerasolarinc,Electrical,Solar,crm_pipeline,14,0,0,14,0,lumerasolarinc,,,,227.0
+moderncompressorsales,Industrial,Compressor Equipment,quote_driven,2752,332,443,0,1977,moderncompressorsales,0.0,0.0,6.0,570.0
+acentel,Other,Unclassified,quote_driven,32,0,32,0,0,acentel,,,,4338.0
+nxtchlng,Construction & Building,Doors & Windows,crm_pipeline,10,0,0,10,0,nxtchlng,,,,344.0
+radsuramerica,Other,Unclassified,quote_driven,96,0,96,0,0,radsuramerica,,0.0,8.0,1787.25
+gothamlgt,Other,Unclassified,quote_driven,77,0,77,0,0,gothamlgt,,,,4081.0
+hendersonenterprises,Other,Unclassified,quote_driven,84,0,67,17,0,hendersonenterprises,,,,324.0
+appenninofoodusa,Food & Beverage,Spirits,transactional,509,509,0,0,0,appenninofoodusa,,,,1101.0
+sierracontainergroup,Other,Unclassified,crm_pipeline,13,0,0,13,0,sierracontainergroup,,,,1102.5
+cuveecoffee,Food & Beverage,Coffee Roasting,crm_pipeline,47,0,0,47,0,cuveecoffee,,,,366.0
+fibercablesdirect,Technology,Fiber Optics,quote_driven,230,97,133,0,0,fibercablesdirect,,,,579.0
+koolwaysports,Consumer Goods,Adaptive Fashion,crm_pipeline,8,0,0,8,0,koolwaysports,,,,206.0
+icustomlabel,Food & Beverage,Spirits,crm_pipeline,11,0,0,11,0,icustomlabel,,,,440.0
+audioconcepts,Consumer Goods,Jewelry,crm_pipeline,38,0,0,38,0,audioconcepts,,,,592.0
+blackstonesportsinc2,Construction & Building,Concrete/Masonry,crm_pipeline,68,0,0,68,0,blackstonesportsinc2,,,,879.0
+industrialodorcontrol2,Other,Unclassified,crm_pipeline,82,0,40,42,0,industrialodorcontrol2,,,,432.0
+wmuniformgroup,Other,Unclassified,crm_pipeline,22,0,0,22,0,wmuniformgroup,,,,244.0
+commonwealthindustrialinc,Food & Beverage,Spirits,crm_pipeline,9,0,0,9,0,commonwealthindustrialinc,,,,564.0
+woodlabuae,Construction & Building,Lumber,quote_driven,68,0,68,0,0,woodlabuae,,,,240.0
+geotoolsusa,Industrial,Tools/Hardware,crm_pipeline,20,0,0,20,0,geotoolsusa,,,,366.0
+socalfencesupply2,Construction & Building,Fencing/Decking,transactional,915,515,316,84,0,socalfencesupply2,,,,1098.0
+diamondbladedistributorsllc,Consumer Goods,Jewelry,transactional,62,62,0,0,0,diamondbladedistributorsllc,,,,1323.0
+planesights,Industrial,Aerospace Safety Equipment,crm_pipeline,10,0,0,10,0,planesights,,,,171.5
+questonedistributors,Construction & Building,Concrete/Masonry,crm_pipeline,18,0,0,18,0,questonedistributors,,,,407.0
+namesakebrewing,Food & Beverage,Craft Beer,crm_pipeline,9,0,0,9,0,namesakebrewing,,,,303.0
+stevenenterprises2,Other,Unclassified,quote_driven,2440,0,348,0,2092,stevenenterprises2,,0.0,15.0,3372.5
+smakdab,Food & Beverage,Wine,transactional,59,59,0,0,0,smakdab,,,,308.0
+georgiapowdercoating3,Manufacturing,Powder Coating Services,transactional,12812,5088,2340,0,5384,georgiapowdercoating3,0.0,0.0,16.0,3120.0
+accesscasters3,Industrial,Casters & Wheels,crm_pipeline,102,0,0,102,0,accesscasters3,,,,629.0
+davishoseinc,Industrial,Industrial Hose,transactional,1996,1823,173,0,0,davishoseinc,,,,1045.0
+capitalabrasivesllc,Industrial,Abrasives,crm_pipeline,105,0,0,105,0,capitalabrasivesllc,,,,551.25
+harbertcastingrepair,Manufacturing,Machining & Repair,quote_driven,373,156,217,0,0,harbertcastingrepair,,,,1992.5
+gulfharvest2,Other,Unclassified,transactional,230,230,0,0,0,gulfharvest2,,,,355.0
+categorycreations,Other,Unclassified,transactional,116,116,0,0,0,categorycreations,,,,2968.0
+ezbrandsllc,Consumer Goods,Promotional Products,transactional,176,109,67,0,0,ezbrandsllc,,0.0,6.0,861.0
+armal,Manufacturing,Portable Sanitation,crm_pipeline,1686,0,197,315,1174,armal,0.0,0.0,,1646.25
+heavisideindustriesinc,Other,Unclassified,crm_pipeline,62,0,0,62,0,heavisideindustriesinc,,,,2094.75
+steelecomponents,Industrial,Ammunition Components,crm_pipeline,12,0,0,12,0,steelecomponents,,,,220.0
+sitepieces2,Furniture,Outdoor Site Furnishings,crm_pipeline,12,0,0,12,0,sitepieces2,,,,2293.25
+tekkometals,Manufacturing,Metal Fabrication,crm_pipeline,27,0,0,27,0,tekkometals,,,,540.0
+catsfilters,Industrial,Filtration,crm_pipeline,102,0,0,102,0,catsfilters,,,,1843.0
+stamfordtimeandco,Food & Beverage,Spirits,crm_pipeline,12,0,0,12,0,stamfordtimeandco,,,,294.0
+pneusquebecnet,Automotive,Tires,crm_pipeline,1745,0,0,793,952,pneusquebecnet,,,,516.0
+ssifiresolutions,Safety Equipment,Fire Safety,quote_driven,58,0,58,0,0,ssifiresolutions,,,,1919.0
+mycologicalnaturalproducts,Other,Unclassified,crm_pipeline,27,0,0,27,0,mycologicalnaturalproducts,,,,426.0
+silverlinejudaica,Consumer Goods,Religious Products,transactional,1498,824,674,0,0,silverlinejudaica,,,,260.0
+bandtcommunicationsinc3,Other,Unclassified,quote_driven,199,0,199,0,0,bandtcommunicationsinc3,,,,1046.0
+larryssausage,Food & Beverage,Meat Processing,crm_pipeline,25,0,0,25,0,larryssausage,,,,1152.75
+americansupplycompanyinc,Other,Unclassified,mixed,949,0,0,0,949,americansupplycompanyinc,,,,640.0
+big,Furniture,Furniture,crm_pipeline,14,0,0,14,0,big,,,,1354.0
+helenarosejewelry,Consumer Goods,Jewelry,quote_driven,422,197,225,0,0,helenarosejewelry,,,,468.0
+readyvista,Food & Beverage,Restaurant Supply,transactional,174,174,0,0,0,readyvista,,,,489.0
+plasmaprocessgroup4,Services,Professional Services,crm_pipeline,57,0,0,57,0,plasmaprocessgroup4,,,,985.5
+uselitegear,Other,Unclassified,transactional,473,258,195,20,0,uselitegear,,,,366.0
+dtsdirect,Other,Unclassified,transactional,834,467,367,0,0,dtsdirect,,0.0,8.0,4296.75
+candhaggregatesllc,Other,Unclassified,quote_driven,203,0,161,42,0,candhaggregatesllc,,,,1165.5
+africanchoicemarketltd,Other,Unclassified,quote_driven,264,0,264,0,0,africanchoicemarketltd,,,,560.0
+ultimax,Other,Unclassified,transactional,211,211,0,0,0,ultimax,,,,687.0
+emeryallen2,Other,Unclassified,crm_pipeline,12,0,0,12,0,emeryallen2,,,,771.75
+rakit3,Other,Unclassified,crm_pipeline,117,0,0,117,0,rakit3,,,,538.0
+brandxmetalsinc2,Consumer Goods,Promotional Products,quote_driven,48,0,48,0,0,brandxmetalsinc2,,,,2713.0
+sacredstudiosinc,Food & Beverage,Coffee,transactional,650,538,104,8,0,sacredstudiosinc,,0.0,11.0,3917.5
+tangiblecreative2,Manufacturing,3D Printing Services,crm_pipeline,213,0,31,182,0,tangiblecreative2,,,,574.0
+bioskinaestheticsinc,Consumer Goods,Beauty/Personal Care,mixed,16477,0,0,0,16477,bioskinaestheticsinc,,0.0,26.0,5674.5
+crimsonimaging,Food & Beverage,Spirits,quote_driven,39,0,39,0,0,crimsonimaging,,,,1680.0
+sheffieldsupplyandequipmentoftexasllc,Other,Unclassified,crm_pipeline,18,0,0,18,0,sheffieldsupplyandequipmentoftexasllc,,,,918.75
+sheffieldsupplyandequipment,Other,Unclassified,crm_pipeline,20,0,0,20,0,sheffieldsupplyandequipment,,,,698.25
+solshinehair,Food & Beverage,Spirits,transactional,81,65,0,16,0,solshinehair,,,,1274.0
+icandyenergydrink,Food & Beverage,Spirits,transactional,2206,239,0,0,1967,icandyenergydrink,,,,2745.0
+customindustrial2,Other,Unclassified,transactional,177,89,88,0,0,customindustrial2,,,,669.0
+upstateanodizellc,Other,Unclassified,crm_pipeline,31,0,0,31,0,upstateanodizellc,,,,1664.0
+fosterus,Consumer Goods,Kitchen Appliances,mixed,13773,0,0,0,13773,fosterus,,,,1764.0
+drinkade,Other,Unclassified,transactional,102,102,0,0,0,drinkade,,,,1416.0
+topoffice,Consumer Goods,Jewelry,quote_driven,1573,127,145,114,1187,topoffice,322.0,,,2784.0
+perryco,Other,Unclassified,transactional,285,285,0,0,0,perryco,,,,3526.0
+uniquewoodfloor,Construction & Building,Flooring,crm_pipeline,1627,0,406,535,686,uniquewoodfloor,,,,1254.5
+thomashayesstudio3,Services,Professional Services,quote_driven,2240,92,320,84,1744,thomashayesstudio3,,,,1476.0
+amtonllcbabyclubchic,Consumer Goods,Baby Products,mixed,1842,0,0,0,1842,amtonllcbabyclubchic,,,,693.0
+precisiondoors3,Construction & Building,Doors & Windows,crm_pipeline,1235,0,0,16,1219,precisiondoors3,,,,1084.0
+todaytomorrowapparel,Consumer Goods,Apparel,transactional,192,93,79,20,0,todaytomorrowapparel,,,,488.0
+bl2systemsllc,Technology,Software/Technology,crm_pipeline,157,0,78,79,0,bl2systemsllc,,,,976.0
+midwestbuildingsupply,Other,Unclassified,crm_pipeline,8,0,0,8,0,midwestbuildingsupply,,,,1176.0
+artbrandsholdings,Consumer Goods,Promotional Products,transactional,140,140,0,0,0,artbrandsholdings,,,,632.0
+abhasafinancialservices2,Services,Financial Services,mixed,1230,0,0,0,1230,abhasafinancialservices2,,,,488.0
+strongwellness,Other,Unclassified,crm_pipeline,11,0,0,11,0,strongwellness,,,,308.0
+howardcountymd,Other,Unclassified,transactional,294,163,131,0,0,howardcountymd,,,,499.2
+donecdistributors,Technology,Electronics Wholesale,crm_pipeline,1736,0,0,42,1694,donecdistributors,,,,1176.0
+miminternationalinc,Services,Professional Services,crm_pipeline,449,0,0,449,0,miminternationalinc,,,,1219.0
+ghentindustrialsupplyinc,Other,Unclassified,crm_pipeline,17,0,0,17,0,ghentindustrialsupplyinc,,,,1349.0
+byisbeveragellc2,Other,Unclassified,quote_driven,168,0,168,0,0,byisbeveragellc2,,,,712.0
+pspglobalwines2,Food & Beverage,Wine,transactional,514,514,0,0,0,pspglobalwines2,,,,6607.0
+medallionfence,Construction & Building,Fencing/Decking,quote_driven,1615,517,918,180,0,medallionfence,208.0,,,1864.0
+nearymartin,Consumer Goods,Apparel,crm_pipeline,1190,0,149,328,713,nearymartin,366.0,,,2470.5
+reaganwirelesscorp,Electrical,Electrical Supply,quote_driven,1075,0,875,200,0,reaganwirelesscorp,245.0,,,1800.75
+kabsolution2,Other,Unclassified,crm_pipeline,28,0,0,28,0,kabsolution2,,,,521.0
+memiairellc,Construction & Building,HVAC,transactional,317,308,0,9,0,memiairellc,,,,3179.5
+awcomm2,Technology,Communications Equipment,quote_driven,3303,0,50,35,3218,awcomm2,,,,3121.0
+amarenusa,Consumer Goods,Jewelry,quote_driven,895,0,47,0,848,amarenusa,,,,920.0
+superiorcleaningequipmentinc,Services,Professional Services,crm_pipeline,7,0,0,7,0,superiorcleaningequipmentinc,,,,2947.0
+classicexhaustsystemsllc,Technology,Software/Technology,transactional,442,442,0,0,0,classicexhaustsystemsllc,,,,661.5
+mokanfastenerandsupply,Other,Unclassified,crm_pipeline,400,0,143,257,0,mokanfastenerandsupply,,,,1329.0
+picturethisframinginc,Food & Beverage,Spirits,transactional,318,318,0,0,0,picturethisframinginc,,,,1323.0
+militarypilotsupplyoftexasllc,Consumer Goods,Aviation Supplies,crm_pipeline,4006,0,755,1417,1834,militarypilotsupplyoftexasllc,,0.0,12.0,5427.5
+easternwireproducts,Electrical,Electrical Supply,crm_pipeline,555,0,0,555,0,easternwireproducts,,,,1635.0
+lightingxcorp,Electrical,Lighting,quote_driven,85,0,85,0,0,lightingxcorp,,,,520.0
+revivehealthcaregroup,Healthcare & Medical,Medical Equipment,quote_driven,472,0,260,212,0,revivehealthcaregroup,268.0,,,5673.0
+miabsgpteltd,Food & Beverage,Wine,transactional,177,177,0,0,0,miabsgpteltd,,,,1379.5
+thecarekioskptyltd,Automotive,Auto Parts,quote_driven,1311,0,40,0,1271,thecarekioskptyltd,,,,380.0
+dosesteel2,Food & Beverage,Spirits,quote_driven,606,0,606,0,0,dosesteel2,,,,4255.0
+labedahockeygear,Healthcare & Medical,Lab Equipment,transactional,57,57,0,0,0,labedahockeygear,,,,511.0
+lot49llcdbabox7imports,Manufacturing,Packaging,quote_driven,159,0,93,66,0,lot49llcdbabox7imports,,,,1383.0
+clandestinelabz,Healthcare & Medical,Lab Equipment,transactional,915,791,106,18,0,clandestinelabz,733.0,0.0,10.0,6082.0
+nationcor,Food & Beverage,Spirits,transactional,848,488,360,0,0,nationcor,183.0,,,4530.0
+cyclallc,Food & Beverage,Spirits,quote_driven,104,0,61,43,0,cyclallc,371.0,,,6467.5
+pcparlor,Other,Unclassified,quote_driven,45,0,45,0,0,pcparlor,,,,3565.0
+maaribu,Food & Beverage,Coffee,transactional,225,225,0,0,0,maaribu,,,,490.0
+outriggerpads,Consumer Goods,Jewelry,crm_pipeline,63,0,0,63,0,outriggerpads,,,,890.0
+greenandchapmanjv,Other,Unclassified,transactional,132,68,64,0,0,greenandchapmanjv,,,,3702.5
+premiumpb2,Other,Unclassified,quote_driven,172,0,164,8,0,premiumpb2,,,,972.0
+insightsurgical,Other,Unclassified,transactional,104,57,0,47,0,insightsurgical,,,,871.25
+boschfamilybrewingcompanyllc,Food & Beverage,Craft Beer,transactional,4148,2561,0,0,1587,boschfamilybrewingcompanyllc,,,,1552.5
+sabradental,Healthcare & Medical,Medical Equipment,crm_pipeline,20,0,0,20,0,sabradental,,,,2290.0
+coffeebeancorral2,Food & Beverage,Coffee,crm_pipeline,25,0,0,25,0,coffeebeancorral2,,,,2908.5
+woodforminteriorsltd,Construction & Building,Lumber,quote_driven,268,0,160,108,0,woodforminteriorsltd,,,,2736.0
+nupointsystems2,Technology,Software/Technology,quote_driven,146,0,81,65,0,nupointsystems2,,,,1161.0
+holeintheroof2,Construction & Building,Roofing,quote_driven,56,0,43,13,0,holeintheroof2,,,,4610.0
+chairstuff3,Construction & Building,HVAC,transactional,9316,5604,141,0,3571,chairstuff3,245.0,,,2476.0
+rainbowconcreteindustrieslimited,Construction & Building,Concrete/Masonry,crm_pipeline,587,0,0,587,0,rainbowconcreteindustrieslimited,372.0,,,4101.0
+automatedatticstair,Construction & Building,HVAC,quote_driven,1057,68,113,0,876,automatedatticstair,,,,1232.0
+red88eyewearinc,Consumer Goods,Apparel,crm_pipeline,10,0,0,10,0,red88eyewearinc,,,,440.0
+hddsupply,Other,Unclassified,transactional,393,361,32,0,0,hddsupply,,,,1710.0
+poochiepets2,Other,Unclassified,mixed,899,0,0,0,899,poochiepets2,,,,1216.0
+greenmoab,Other,Unclassified,quote_driven,576,111,233,232,0,greenmoab,,,,6404.75
+osupplies,Food & Beverage,Spirits,crm_pipeline,9958,0,0,26,9932,osupplies,,,,1617.0
+sobremesamanagement2,Food & Beverage,Specialty Food Distribution,transactional,3190,2276,0,37,877,sobremesamanagement2,686.0,0.0,12.0,9268.0
+norenthermal,Industrial,Thermal Management,quote_driven,19907,0,1072,0,18835,norenthermal,317.0,0.0,10.0,6168.0
+gtsimulators,Healthcare & Medical,Medical Training Simulators,quote_driven,16047,1012,1277,17,13741,gtsimulators,488.0,0.0,12.0,8882.0
+gsova,Other,Unclassified,crm_pipeline,10,0,0,10,0,gsova,,,,671.25
+elevatedmetalscorp2,Manufacturing,Metal Fabrication,transactional,1716,512,0,0,1204,elevatedmetalscorp2,,,,836.0
+dubgifcollc,Other,Unclassified,mixed,768,0,0,0,768,dubgifcollc,,,,572.0
+cooksmart2,Food & Beverage,Spirits,transactional,1636,249,119,65,1203,cooksmart2,495.0,0.0,14.0,9217.0
+rayhil2,Electrical,Lighting,quote_driven,57,0,57,0,0,rayhil2,,,,2237.0
+progressivewestman3,Services,Professional Services,transactional,10062,3793,201,30,6038,progressivewestman3,269.0,0.0,12.0,9459.0
+flipoffice4,Furniture,Furniture,quote_driven,1993,0,766,316,911,flipoffice4,,,,6649.0
+wallbedsnmore,Furniture,Furniture,quote_driven,336,0,258,78,0,wallbedsnmore,,,,2205.0
+kennebeccabinetry,Food & Beverage,Spirits,crm_pipeline,338,68,64,206,0,kennebeccabinetry,306.0,,,6911.4
+vacairindustries,Construction & Building,HVAC,transactional,1797,630,475,0,692,vacairindustries,,,,1314.0
+experthosiery,Consumer Goods,Apparel/Hosiery,crm_pipeline,1185,0,0,21,1164,experthosiery,,,,909.0
+southgateprocessequipmentinc,Industrial,Heat Transfer Equipment,quote_driven,3497,466,3031,0,0,southgateprocessequipmentinc,269.0,,,4150.5
+rainwatermanagmentsolutions,Construction & Building,Water Management,crm_pipeline,1893,0,491,556,846,rainwatermanagmentsolutions,481.0,0.0,13.0,8139.8
+pneumaticplus,Industrial,Industrial Equipment,crm_pipeline,1432,0,0,113,1319,pneumaticplus,,,,3323.0
+fullcirclesolutionsllc,Manufacturing,Pallets/Packaging,transactional,1230,1230,0,0,0,fullcirclesolutionsllc,,,,1392.0
+carolinalightinggroup,Electrical,Lighting,quote_driven,2778,1142,1636,0,0,carolinalightinggroup,,,,1248.0
+deccanfoods4,Food & Beverage,Food Distribution,quote_driven,192,0,167,25,0,deccanfoods4,159.0,,,6338.0
+mobilitycityoflasvegas2,Other,Unclassified,transactional,273,192,81,0,0,mobilitycityoflasvegas2,,,,955.2
+fivehundredandfiftyfivedistribution,Other,Unclassified,mixed,719,0,0,0,719,fivehundredandfiftyfivedistribution,,,,6084.0
+theatticdepot2,Other,Unclassified,crm_pipeline,356,0,0,356,0,theatticdepot2,,,,1633.5
+betterbuychairsinc,Construction & Building,HVAC,crm_pipeline,9,0,0,9,0,betterbuychairsinc,,,,1898.0
+montanamixers,Services,Professional Services,quote_driven,92,0,66,26,0,montanamixers,245.0,,,2880.0
+vogona,Other,Unclassified,quote_driven,449,0,256,193,0,vogona,,,,2421.0
+treatmenttechnology,Food & Beverage,Spirits,crm_pipeline,3822,0,0,328,3494,treatmenttechnology,489.0,,,8009.3
+duecksmechanicalinc,Services,Mechanical Services,quote_driven,2055,0,771,474,810,duecksmechanicalinc,,,,1455.3
+randolphpaper2,Manufacturing,Paper Distribution,transactional,13893,476,0,0,13417,randolphpaper2,308.0,,,7644.0
+carlsondockandbarge,Automotive,Auto Parts,crm_pipeline,3871,0,41,653,3177,carlsondockandbarge,656.0,0.0,14.0,11121.0
+fishfoodies,Food & Beverage,Seafood,transactional,6364,6315,0,49,0,fishfoodies,,,,5692.3
+egeproducts,Industrial,Agricultural Chemicals,transactional,2141,70,0,0,2071,egeproducts,1315.0,0.0,30.0,19220.03
+dddirect,Construction & Building,Sealants/Building Materials,quote_driven,1594,0,140,100,1354,dddirect,,,,2667.0
+sherbistone,Construction & Building,Concrete/Masonry,crm_pipeline,16273,0,0,12,16261,sherbistone,,,,3096.0
+publicmetal,Manufacturing,Metal Fabrication,quote_driven,175,0,142,33,0,publicmetal,,,,7639.25
+sonomachampagnesabres,Food & Beverage,Wine,transactional,91,91,0,0,0,sonomachampagnesabres,,,,644.0
+summitlaboratories2,Healthcare & Medical,Lab Equipment,transactional,3162,1038,500,38,1586,summitlaboratories2,311.0,0.0,15.0,8986.0
+summitflooring,Construction & Building,Flooring,crm_pipeline,52,0,0,52,0,summitflooring,,,,9086.8
+ozenairtechnology2,Construction & Building,HVAC,crm_pipeline,84,0,0,84,0,ozenairtechnology2,,,,3879.8
+aromaticfragrancetechnologies,Consumer Goods,Home Fragrance,crm_pipeline,29,0,0,29,0,aromaticfragrancetechnologies,,,,2435.0
+rexdistributioninc,Food & Beverage,Chai & Coffee Equipment,mixed,33541,0,0,0,33541,rexdistributioninc,,,,2483.0
+hisigns,Consumer Goods,Signs/Labels,quote_driven,8532,2623,3502,0,2407,hisigns,1091.0,0.0,21.0,18422.7
+edreedcompany,Other,Unclassified,quote_driven,346,0,346,0,0,edreedcompany,,,,5766.0
+mjjdassociatesllc,Consumer Goods,Jewelry,transactional,1979,393,387,73,1126,mjjdassociatesllc,,,,7575.5
+davinciandtesla,Other,Unclassified,quote_driven,358,0,212,146,0,davinciandtesla,,,,2285.06
+genesismachineandfabricationinc,Manufacturing,Metal Fabrication,quote_driven,34,0,34,0,0,genesismachineandfabricationinc,,,,3391.0
+bieldentalcabinetsrebielcompanyinc,Healthcare & Medical,Medical Equipment,quote_driven,1195,78,184,98,835,bieldentalcabinetsrebielcompanyinc,,,,1353.6
+chalmersford,Other,Unclassified,mixed,1036,0,0,0,1036,chalmersford,1554.0,0.0,21.0,20089.0
+kandedistributing2,Other,Unclassified,crm_pipeline,17,0,0,17,0,kandedistributing2,441.0,,,5356.0
+petitvin2,Food & Beverage,Wine,transactional,280,272,0,8,0,petitvin2,,,,2401.0
+cpvusanew,Food & Beverage,Cooking Oils/Shortening,crm_pipeline,4357,0,0,7,4350,cpvusanew,376.0,0.0,8.0,5149.0
+callanindustrial2,Other,Unclassified,crm_pipeline,95,0,0,95,0,callanindustrial2,,,,3185.0
+underhillinternational,Other,Unclassified,crm_pipeline,262,0,92,170,0,underhillinternational,366.0,,,9838.4
+hawkvalve,Food & Beverage,Spirits,quote_driven,386,0,386,0,0,hawkvalve,,,,1547.5
+canadalab,Food & Beverage,Spirits,quote_driven,276,0,160,116,0,canadalab,,,,1581.0
+coastalwipers,Industrial,Cleaning Supplies,quote_driven,8611,0,952,162,7497,coastalwipers,329.0,,,9332.0
+bairespackusa2,Food & Beverage,Spirits,crm_pipeline,19,0,0,19,0,bairespackusa2,,,,2431.0
+protechequipment,Food & Beverage,Spirits,quote_driven,467,0,455,12,0,protechequipment,,,,2636.1
+papajifoods3,Food & Beverage,Coffee,transactional,6852,3082,0,0,3770,papajifoods3,,,,3385.0
+cooksdoorsandmouldingsinc,Construction & Building,Doors & Windows,crm_pipeline,4177,0,0,169,4008,cooksdoorsandmouldingsinc,,,,8176.0
+callanindustrial,Services,Professional Services,crm_pipeline,332,0,134,198,0,callanindustrial,539.0,0.0,12.0,13899.0
+hucksterinc,Other,Unclassified,mixed,976,0,0,0,976,hucksterinc,,,,2100.0
+mnjenterprisellc,Food & Beverage,Kratom Products,transactional,7084,3280,357,0,3447,mnjenterprisellc,,,,6034.0
+totalfeedsinc,Other,Unclassified,crm_pipeline,16,0,0,16,0,totalfeedsinc,145.0,,,4668.0
+opcdistributionllc,Other,Unclassified,crm_pipeline,967,0,0,95,872,opcdistributionllc,,,,2116.0
+arboragri,Services,Professional Services,crm_pipeline,76,0,0,76,0,arboragri,,,,666.0
+automatedroomcontrolsinc2,Food & Beverage,Spirits,quote_driven,49,0,49,0,0,automatedroomcontrolsinc2,,,,7171.0
+redstonetechnical,Construction & Building,Concrete/Masonry,quote_driven,978,0,921,57,0,redstonetechnical,,,,7997.0
+lesgerstionsdmanagementlin,Other,Unclassified,crm_pipeline,31,0,0,31,0,lesgerstionsdmanagementlin,,,,841.0
+mobilitycityofworcestermassachusetts,Healthcare & Medical,Mobility Equipment,transactional,1936,531,112,0,1293,mobilitycityofworcestermassachusetts,,,,3008.8
+highpowerproducts,Other,Unclassified,quote_driven,174,0,174,0,0,highpowerproducts,,,,1944.0
+southweststeelfabrication,Manufacturing,Metal Fabrication,transactional,138,138,0,0,0,southweststeelfabrication,,,,1558.2
+staplesenterprises4,Other,Unclassified,transactional,980,980,0,0,0,staplesenterprises4,897.0,0.0,27.0,17576.0
+norcada3,Food & Beverage,Spirits,quote_driven,2017,0,630,606,781,norcada3,,,,7258.5
+vikingcommunicationsinc2,Other,Unclassified,quote_driven,355,0,355,0,0,vikingcommunicationsinc2,,,,5636.0
+mobilitycityofgreatercincinnati,Other,Unclassified,transactional,981,200,0,0,781,mobilitycityofgreatercincinnati,,,,1568.0
+ajco,Consumer Goods,Jewelry,mixed,4600,0,0,0,4600,ajco,,,,665.0
+smindustries3,Construction & Building,Doors & Windows,mixed,2242,0,0,0,2242,smindustries3,,,,5434.0
+reidwitlinltd,Manufacturing,Commercial Textiles,crm_pipeline,2182,0,0,2182,0,reidwitlinltd,,,,1797.5
+protectconstruction,Safety Equipment,Safety Equipment,crm_pipeline,3493,0,0,28,3465,protectconstruction,,,,2053.8
+marineinnovations2,Sports & Recreation,Marine/Boating,crm_pipeline,1088,0,0,398,690,marineinnovations2,468.0,0.0,9.0,7705.0
+ceramicainc,Construction & Building,Stone/Masonry,transactional,16781,8519,140,0,8122,ceramicainc,,,,3240.0
+hydrospraywashsystemsinc,Technology,Software/Technology,quote_driven,219,0,183,36,0,hydrospraywashsystemsinc,251.0,,,4582.8
+evolutiontrailertechnologies,Technology,Software/Technology,quote_driven,933,0,933,0,0,evolutiontrailertechnologies,,,,2072.0
+apparelstuffrus2,Consumer Goods,Apparel,crm_pipeline,282,0,0,282,0,apparelstuffrus2,,,,4451.0
+mobilitycityofcoloradosprings,Consumer Goods,Jewelry,quote_driven,2911,310,348,0,2253,mobilitycityofcoloradosprings,,,,3606.4
+lmhdistribution,Industrial,Distribution,transactional,1288,1023,265,0,0,lmhdistribution,,,,905.0
+sylcadesigns2,Consumer Goods,Jewelry,mixed,3832,0,0,0,3832,sylcadesigns2,,,,709.0
+dsagllc2,Other,Unclassified,transactional,111,111,0,0,0,dsagllc2,,,,2151.0
+boswellwindows3,Construction & Building,Doors & Windows,quote_driven,1374,256,461,0,657,boswellwindows3,,,,6154.0
+trimports,Industrial,Import/Distribution,mixed,1424,0,0,0,1424,trimports,,,,3796.2
+roimetalbuildings,Food & Beverage,Spirits,quote_driven,5070,0,389,319,4362,roimetalbuildings,,0.0,13.0,12257.7
+pacificlink,Other,Unclassified,mixed,8897,0,0,0,8897,pacificlink,,,,5906.0
+crowncreationsinc,Other,Unclassified,transactional,325,325,0,0,0,crowncreationsinc,,,,2520.0
+boxgangmanufacturing2,Consumer Goods,Jewelry,crm_pipeline,290,0,0,290,0,boxgangmanufacturing2,,,,4336.0
+equustockopcollc,Furniture,Furniture,quote_driven,3733,0,627,397,2709,equustockopcollc,,,,4467.6
+anchorsupply2,Healthcare & Medical,Medical Equipment,quote_driven,2813,256,492,0,2065,anchorsupply2,,,,5402.06
+leadingedgesales2,Food & Beverage,Craft Beer,crm_pipeline,398,0,0,398,0,leadingedgesales2,342.0,,,4960.0
+brinksmfgco,Consumer Goods,Jewelry,mixed,1205,0,0,0,1205,brinksmfgco,152.0,,,2880.0
+hdindustriesinc,Other,Unclassified,crm_pipeline,57,0,0,57,0,hdindustriesinc,,,,1364.0
+mpactbeverage2,Food & Beverage,Craft Cocktails,transactional,5698,4568,0,375,755,mpactbeverage2,818.0,0.0,21.0,23850.0
+abbeyhardware,Industrial,Tools/Hardware,quote_driven,1711,0,73,0,1638,abbeyhardware,,,,7583.25
+cbsolutionslp,Food & Beverage,Spirits,quote_driven,81,0,81,0,0,cbsolutionslp,,,,1721.0
+vortex2,Consumer Goods,Jewelry,transactional,967,721,246,0,0,vortex2,385.0,,,6866.1
+galaxy2,Other,Unclassified,crm_pipeline,782,0,0,149,633,galaxy2,,,,3087.0
+atlanticrestaurantandsupermarketequipment,Consumer Goods,Jewelry,crm_pipeline,8755,0,0,1916,6839,atlanticrestaurantandsupermarketequipment,629.0,0.0,14.0,11982.6
+perlite,Food & Beverage,Spirits,crm_pipeline,108,0,0,108,0,perlite,,,,1403.0
+planetarydesign2,Food & Beverage,Coffee,mixed,1578,0,0,0,1578,planetarydesign2,296.0,,,7476.0
+pfpspokane2,Industrial,Air Filtration,transactional,13251,7212,200,0,5839,pfpspokane2,487.0,0.0,8.0,14698.0
+sixdegreesnorthbeveragegroup,Food & Beverage,Coffee,transactional,7278,2825,1767,0,2686,sixdegreesnorthbeveragegroup,697.0,0.0,15.0,13450.5
+brewersicecompanyllc,Food & Beverage,Craft Beer,mixed,808,0,0,0,808,brewersicecompanyllc,,,,5401.0
+yudoinc,Consumer Goods,Jewelry,crm_pipeline,311,0,0,311,0,yudoinc,,,,10278.6
+quipementsvegtech,Technology,Software/Technology,quote_driven,103,0,66,37,0,quipementsvegtech,,,,2554.0
+periodmouldings2,Construction & Building,Mouldings/Millwork,mixed,1501,0,0,0,1501,periodmouldings2,,,,2150.0
+fuelinjectorclinic2,Consumer Goods,Jewelry,crm_pipeline,2299,0,0,131,2168,fuelinjectorclinic2,249.0,,,5407.0
+aandmdiscountfurniture4,Consumer Goods,Jewelry,transactional,4384,3763,621,0,0,aandmdiscountfurniture4,,0.0,11.0,11255.0
+mustangnorth,Industrial,Material Handling Equipment,quote_driven,2500,0,2485,15,0,mustangnorth,40.0,0.0,8.0,1021.0
+pma13,Consumer Goods,Jewelry,quote_driven,16365,2567,4073,3721,6004,pma13,,725.0,23.0,18348.0
+energycurve,Retail,Retail/General,quote_driven,2278,0,461,0,1817,energycurve,,,,7601.0
+ebamethod,Industrial,Power Tools/Drilling Equipment,transactional,10009,5321,103,0,4585,ebamethod,340.0,,,9998.0
+flooringrva,Construction & Building,Flooring,crm_pipeline,11508,0,0,1333,10175,flooringrva,416.0,,,11341.0
+halosilinternationalnxtllc,Other,Unclassified,quote_driven,134,0,134,0,0,halosilinternationalnxtllc,,,,4696.0
+area51sportsltd,Consumer Goods,Jewelry,transactional,1682,362,343,49,928,area51sportsltd,,,,6802.0
+championproducts2,Industrial,Industrial Supplies,transactional,1352,1110,242,0,0,championproducts2,,,,1800.0
+atlanticindustrialcorp,Industrial,Industrial Distribution,transactional,1113,890,223,0,0,atlanticindustrialcorp,,,,1350.0
+nationalfiltersupply,Industrial,Filtration,crm_pipeline,30,0,0,30,0,nationalfiltersupply,,,,8669.0
+jemmcollc,Other,Unclassified,quote_driven,104,0,104,0,0,jemmcollc,,,,3321.0
+goldnerdockconstruction,Consumer Goods,Jewelry,quote_driven,3431,0,954,67,2410,goldnerdockconstruction,379.0,,,5799.0
+limbbusterllc,Industrial,Tree Trimming Equipment,crm_pipeline,5179,565,290,724,3600,limbbusterllc,,,,1754.0
+pghorticulturelimited,Consumer Goods,Jewelry,quote_driven,853,0,165,0,688,pghorticulturelimited,,,,5764.5
+wearingwilliamsltd2,Consumer Goods,Jewelry,transactional,6131,2288,393,148,3302,wearingwilliamsltd2,403.0,,,8710.2
+tandssalesinc,Food & Beverage,Craft Beer,quote_driven,67,0,67,0,0,tandssalesinc,,,,1872.0
+commfitness3,Construction & Building,Flooring,crm_pipeline,704,0,126,578,0,commfitness3,471.0,,,12528.9
+transmetroninc3,Industrial,Distribution/Shipping,transactional,1217,357,101,0,759,transmetroninc3,,,,6228.0
+whiteherrinmetals,Manufacturing,Metal Fabrication,quote_driven,426,0,262,164,0,whiteherrinmetals,,,,2921.2
+hongkongmarket,Other,Unclassified,crm_pipeline,44,0,0,44,0,hongkongmarket,,,,1421.0
+luxuryair,Construction & Building,HVAC,transactional,176,119,57,0,0,luxuryair,,,,2140.0
+dalmatianfireequipment,Safety Equipment,Fire Safety,mixed,1533,0,0,0,1533,dalmatianfireequipment,,,,3240.0
+jdshouseoftrophies,Consumer Goods,Awards/Trophies,transactional,8943,2842,924,0,5177,jdshouseoftrophies,196.0,,,5243.0
+autorescuetools,Industrial,Tools/Hardware,transactional,2591,1731,0,0,860,autorescuetools,,,,3166.0
+jafedecorating,Food & Beverage,Spirits,quote_driven,57,0,41,16,0,jafedecorating,604.0,0.0,12.0,19763.0
+acheerfulgiver,Consumer Goods,Home Fragrance/Candles,mixed,16164,0,0,0,16164,acheerfulgiver,120.0,,,3958.0
+informedag3,Food & Beverage,Spirits,quote_driven,127,0,111,16,0,informedag3,,,,4320.9
+americanlithiumenergy2,Food & Beverage,Spirits,quote_driven,72,0,72,0,0,americanlithiumenergy2,,,,3912.0
+baconmail,Consumer Goods,Pet/Garden Supplies,transactional,1973,1973,0,0,0,baconmail,,,,6624.0
+prionesource,Construction & Building,Doors & Windows,quote_driven,903,127,136,0,640,prionesource,,,,4138.0
+enzusainc,Industrial,Sewer Cleaning Equipment,crm_pipeline,2316,0,0,71,2245,enzusainc,687.0,0.0,15.0,19905.0
+buddyventuresinternationalltd2,Other,Unclassified,transactional,187,94,0,93,0,buddyventuresinternationalltd2,,,,2423.7
+americanbackcountry,Consumer Goods,Apparel,quote_driven,1444,0,135,0,1309,americanbackcountry,309.0,,,7391.0
+fencetrac2,Construction & Building,Fencing/Decking,crm_pipeline,994,0,0,994,0,fencetrac2,,,,7141.0
+accurateforklift3,Industrial,Material Handling Equipment,transactional,21156,6941,0,0,14215,accurateforklift3,1732.0,890.0,37.0,48134.0
+cappadociarugsllc,Food & Beverage,Spirits,transactional,57,57,0,0,0,cappadociarugsllc,,,,6164.0
+muleresophonicguitars,Other,Unclassified,transactional,140,140,0,0,0,muleresophonicguitars,,,,1470.0
+wktrincdbafloridadocks,Other,Unclassified,crm_pipeline,102,0,36,66,0,wktrincdbafloridadocks,,,,3487.2
+halderinc,Other,Unclassified,crm_pipeline,226,0,0,226,0,halderinc,,,,9045.4
+flowmeasurementservices,Other,Unclassified,quote_driven,262,0,262,0,0,flowmeasurementservices,,,,4022.0
+ambessenterprisesinc3,Other,Unclassified,mixed,631,0,0,0,631,ambessenterprisesinc3,245.0,,,6691.0
+spatialgenomics3,Other,Unclassified,crm_pipeline,62,0,0,62,0,spatialgenomics3,,,,1554.25
+qualityflooring,Construction & Building,Flooring,quote_driven,1179,133,392,22,632,qualityflooring,,0.0,6.0,2058.0
+southwestenvirotxpartnersllc,Other,Unclassified,quote_driven,956,432,524,0,0,southwestenvirotxpartnersllc,,,,8100.0
+hattrickdistributioninc,Construction & Building,Doors & Windows,mixed,2340,0,0,0,2340,hattrickdistributioninc,404.0,,,11173.0
+kinetictoolsinc,Industrial,Tools/Hardware,crm_pipeline,687,0,0,687,0,kinetictoolsinc,343.0,,,8694.0
+steerintrailersales,Food & Beverage,Craft Beer,quote_driven,99,0,99,0,0,steerintrailersales,,,,3952.8
+vipsupplyco,Industrial,Safety Supplies,mixed,2031,0,0,0,2031,vipsupplyco,,,,5108.0
+cggschmidt2,Industrial,Woodworking Tools,quote_driven,3385,0,3385,0,0,cggschmidt2,208.0,,,9382.6
+topsecretcustoms,Other,Unclassified,quote_driven,598,291,307,0,0,topsecretcustoms,,,,4989.0
+getbold,Consumer Goods,Apparel,quote_driven,2391,332,455,0,1604,getbold,,,,2058.0
+smokinggoose2,Food & Beverage,Artisan Meats/Charcuterie,crm_pipeline,3324,0,0,212,3112,smokinggoose2,,,,6272.0
+saveonlaser,Technology,Printer Supplies/Toner,quote_driven,2965,0,2965,0,0,saveonlaser,,,,3872.0
+aplpg3,Other,Unclassified,quote_driven,92,0,92,0,0,aplpg3,,,,3897.0
+cumsausa,Other,Unclassified,mixed,1055,0,0,0,1055,cumsausa,,,,1656.0
+vintagemakesllc,Food & Beverage,Wine,transactional,2373,539,0,67,1767,vintagemakesllc,378.0,,,14379.0
+kearfabrication,Construction & Building,Doors & Windows,quote_driven,2328,0,904,198,1226,kearfabrication,494.0,0.0,10.0,13603.0
+tripdrip,Consumer Goods,Hemp/Cannabis Products,transactional,14027,1724,95,0,12208,tripdrip,,,,8016.0
+elysianlabsllc3,Healthcare & Medical,Lab Equipment,transactional,108,108,0,0,0,elysianlabsllc3,398.0,,,13240.5
+vcssalesanddistribution,Food & Beverage,Craft Beer,transactional,336,336,0,0,0,vcssalesanddistribution,,,,5286.0
+siquesttechnologysdnbhd,Technology,Software/Technology,crm_pipeline,165,0,0,165,0,siquesttechnologysdnbhd,,,,7220.0
+foodsalive,Food & Beverage,Food Distribution,mixed,3854,0,0,0,3854,foodsalive,,,,4594.8
+adkfragrancefarm,Consumer Goods,Home Fragrance,transactional,70,70,0,0,0,adkfragrancefarm,,,,1924.0
+iceworksbathco,Manufacturing,Cold Therapy Equipment,quote_driven,1091,96,135,104,756,iceworksbathco,379.0,,,8263.0
+welshhottubs2,Other,Unclassified,crm_pipeline,32,0,0,32,0,welshhottubs2,,,,2875.0
+blueridgescreenproducts,Industrial,Screen Printing Equipment,transactional,7600,222,152,34,7192,blueridgescreenproducts,,,,5584.0
+delmarvadesigncenter,Construction & Building,Flooring,transactional,7824,1075,1054,882,4813,delmarvadesigncenter,891.0,0.0,17.0,25471.0
+lumienlighting,Electrical,Lighting,quote_driven,136,0,136,0,0,lumienlighting,436.0,,,12022.0
+millibar,Food & Beverage,Spirits,crm_pipeline,120,0,0,120,0,millibar,,,,4101.0
+lafittesseafood,Food & Beverage,Seafood,transactional,7642,502,0,0,7140,lafittesseafood,,,,3305.0
+sterlinghardwareltd,Industrial,Tools/Hardware,transactional,3327,2411,898,18,0,sterlinghardwareltd,318.0,0.0,7.0,11189.0
+sawsolutionsinc,Other,Unclassified,crm_pipeline,16,0,0,16,0,sawsolutionsinc,,,,7520.75
+actionlighting,Construction & Building,Doors & Windows,quote_driven,2301,0,2301,0,0,actionlighting,224.0,,,7082.1
+endlessfunllc,Consumer Goods,Novelty Products,quote_driven,1635,0,350,0,1285,endlessfunllc,467.0,0.0,11.0,13833.0
+fibonaccillc,Food & Beverage,Spirits,mixed,1734,0,0,0,1734,fibonaccillc,,,,4189.0
+victorcastilloincdbatortilleriatemecula,Food & Beverage,Tortilla Manufacturing,transactional,3865,3865,0,0,0,victorcastilloincdbatortilleriatemecula,,,,4449.6
+surfaceteccorp3,Other,Unclassified,transactional,676,522,154,0,0,surfaceteccorp3,,,,6716.0
+rhinoskintoughusainc,Consumer Goods,Beauty/Personal Care,transactional,2846,719,0,0,2127,rhinoskintoughusainc,136.0,,,5101.0
+traxandmore,Other,Unclassified,crm_pipeline,19,0,0,19,0,traxandmore,,,,2528.0
+holdit,Retail Fixtures & Display,POS Display Solutions,quote_driven,57216,7117,8821,0,41278,holdit,404.0,1110.0,17.0,14945.29
+permarkbadges2,Consumer Goods,Promotional Products,transactional,5241,1896,0,0,3345,permarkbadges2,245.0,,,10894.5
+northamericamattresscorp,Furniture,Furniture,mixed,2143,0,0,0,2143,northamericamattresscorp,,,,13989.0
+multiseal2,Automotive,Tire Sealants,quote_driven,30177,136,1417,44,28580,multiseal2,427.0,,,15572.0
+netzerousa2,Other,Unclassified,quote_driven,534,0,534,0,0,netzerousa2,325.0,,,12279.0
+unicellsupply2,Healthcare & Medical,Medical Equipment,transactional,2672,1863,122,0,687,unicellsupply2,,,,7203.0
+dolphinheatexchangerusa,Manufacturing,Radiators/Heat Exchangers,mixed,2374,0,0,0,2374,dolphinheatexchangerusa,,,,7735.4
+procurementequipment,Industrial,Industrial Supplies Distribution,quote_driven,32314,0,12204,0,20110,procurementequipment,424.0,0.0,10.0,13519.0
+nationalkitchensbathsandmore1,Construction & Building,Doors & Windows,transactional,172,88,84,0,0,nationalkitchensbathsandmore1,325.0,,,11799.0
+bodegatile,Construction & Building,Flooring,quote_driven,18713,2077,3257,0,13379,bodegatile,710.0,0.0,10.0,39296.45
+repssinc,Food & Beverage,Spirits,mixed,1819,0,0,0,1819,repssinc,360.0,0.0,9.0,13320.0
+mobilitycityofomaha,Other,Unclassified,transactional,1006,197,0,0,809,mobilitycityofomaha,,,,1618.0
+thewristbandcompany,Construction & Building,Flooring,mixed,821,0,0,0,821,thewristbandcompany,169.0,,,5359.0
+jouffreinc2,Other,Unclassified,quote_driven,756,0,756,0,0,jouffreinc2,423.0,0.0,9.0,16549.0
+botanaway,Healthcare & Medical,Contract Manufacturing (cGMP),transactional,51439,7427,4390,65,39557,botanaway,1052.0,1200.0,22.0,41874.0
+sierraloghomes,Construction & Building,Log Homes,quote_driven,846,293,553,0,0,sierraloghomes,,,,5681.0
+paladinpower2,Other,Unclassified,quote_driven,311,149,162,0,0,paladinpower2,,,,21652.0
+hccigarsdaytonallc2,Other,Unclassified,quote_driven,774,0,774,0,0,hccigarsdaytonallc2,,,,7552.0
+johnmarksre2,Food & Beverage,Spirits,crm_pipeline,18,0,0,18,0,johnmarksre2,444.0,,,10790.0
+kingoillubricantsllc,Food & Beverage,Spirits,quote_driven,2916,0,31,0,2885,kingoillubricantsllc,,,,4361.0
+theattachmentcompanyllc,Other,Unclassified,crm_pipeline,68,0,0,68,0,theattachmentcompanyllc,,,,2586.0
+privatelabelsupport,Healthcare & Medical,Lab Equipment,transactional,5579,907,47,0,4625,privatelabelsupport,,,,8860.0
+bignotemusic,Food & Beverage,Spirits,transactional,5511,2845,240,0,2426,bignotemusic,382.0,,,13010.0
+kandbfloorcoveringllc,Construction & Building,Flooring,quote_driven,2561,390,436,44,1691,kandbfloorcoveringllc,,,,4239.0
+imperialprivacysystemsllc,Healthcare & Medical,Privacy Systems,quote_driven,17966,0,7136,0,10830,imperialprivacysystemsllc,381.0,0.0,9.0,15388.0
+roadrunner2,Industrial,Sanitary Supplies,transactional,21284,9844,115,11,11314,roadrunner2,264.0,,,10170.0
+cathxmedicalinc2,Food & Beverage,Spirits,crm_pipeline,54,0,0,54,0,cathxmedicalinc2,,,,21389.0
+georgiastage,Food & Beverage,Spirits,quote_driven,3831,0,2070,0,1761,georgiastage,304.0,,,12259.0
+doozlandllc,Other,Unclassified,quote_driven,449,0,449,0,0,doozlandllc,,,,3536.0
+maxinesniderinc,Other,Unclassified,quote_driven,73,0,73,0,0,maxinesniderinc,,,,3707.0
+camachocoffee,Food & Beverage,Coffee,transactional,2906,1030,0,95,1781,camachocoffee,513.0,0.0,9.0,21169.0
+impulseradarusainc,Other,Unclassified,quote_driven,192,0,144,48,0,impulseradarusainc,,,,9460.0
+profwhytekratom,Food & Beverage,Kratom Products,quote_driven,6423,3182,3241,0,0,profwhytekratom,658.0,0.0,9.0,27275.0
+hsabearings,Consumer Goods,Jewelry,transactional,5136,3477,1659,0,0,hsabearings,,,,3677.0
+durabikelocker,Security Equipment,Safes/Security,quote_driven,87,0,87,0,0,durabikelocker,,,,13296.0
+heritagesheds,Other,Unclassified,quote_driven,607,271,336,0,0,heritagesheds,,,,5834.0
+hydeparkpartners,Other,Unclassified,quote_driven,220,0,220,0,0,hydeparkpartners,289.0,,,15033.0
+animalhospitalsupplyinc2,Healthcare & Medical,Medical Equipment,quote_driven,1271,0,477,19,775,animalhospitalsupplyinc2,410.0,0.0,9.0,25685.07
+colorantic,Construction & Building,Paint/Coatings,mixed,1934,0,0,0,1934,colorantic,,,,5448.0
+access2mobilityinc,Healthcare & Medical,Mobility Equipment,transactional,6059,1815,606,25,3613,access2mobilityinc,583.0,0.0,11.0,25766.0
+goodchemistry,Healthcare & Medical,Medical Equipment,transactional,219,219,0,0,0,goodchemistry,,,,16700.0
+perine2,Other,Unclassified,mixed,15988,0,0,0,15988,perine2,,,,4600.0
+inspiredsciencesllc,Healthcare & Medical,Spa/Wellness Products,quote_driven,8306,0,524,0,7782,inspiredsciencesllc,,0.0,10.0,21951.0
+cashionfishingrods2,Food & Beverage,Seafood,mixed,1006,0,0,0,1006,cashionfishingrods2,,,,5214.0
+lampnutra2,Electrical,Lighting,transactional,18666,1276,210,0,17180,lampnutra2,273.0,,,15515.0
+rlhindustriesinc2,Technology,Fiber Optic Equipment,quote_driven,23692,0,6041,0,17651,rlhindustriesinc2,,1445.0,24.0,40214.39
+prestigeislandexports,Construction & Building,Doors & Windows,transactional,550,354,196,0,0,prestigeislandexports,,,,12355.0
+lancoacquisitionllc,Retail,E-commerce Reseller,quote_driven,1876,0,801,0,1075,lancoacquisitionllc,,,,10242.1
+wholelogreclaimed3,Food & Beverage,Spirits,quote_driven,421,127,220,74,0,wholelogreclaimed3,,,,4557.0
+ameritechfacilitysupplyllc,Construction & Building,Doors & Windows,quote_driven,2166,0,1091,1075,0,ameritechfacilitysupplyllc,,,,6428.54
+cpffloorsllc,Construction & Building,Flooring,transactional,41324,12858,0,0,28466,cpffloorsllc,992.0,,,39758.32
+jpmdistributors,Other,Unclassified,transactional,82,82,0,0,0,jpmdistributors,,,,3392.0
+vtechnicaltextiles,Construction & Building,Flooring,crm_pipeline,221,0,0,221,0,vtechnicaltextiles,,,,5962.0
+trioniccorp2,Manufacturing,Marine/RV Products,crm_pipeline,4213,0,0,156,4057,trioniccorp2,,,,4704.0
+furnitureprocorp,Furniture,Furniture,crm_pipeline,1494,0,0,60,1434,furnitureprocorp,,,,2618.0
+centricityvisioninc3,Other,Unclassified,crm_pipeline,58,0,0,58,0,centricityvisioninc3,,,,28860.0
+universalpowerconversion,Food & Beverage,Spirits,quote_driven,342,0,342,0,0,universalpowerconversion,,,,5604.0
+firstmedicalinternationalcorp2,Food & Beverage,Spirits,crm_pipeline,27,0,0,27,0,firstmedicalinternationalcorp2,,,,11489.0
+ThePianoPlaceMichigan,Retail,Musical Instruments/Pianos,mixed,1195,0,0,0,1195,thepianoplacemichigan,,,,3952.0
+Wilco,Other,Unclassified,quote_driven,3044,0,913,789,1342,wilco,,0.0,12.0,7823.0
+metkonusainc,Consumer Goods,Jewelry,quote_driven,3292,511,650,237,1894,metkonusainc,421.0,,,10164.0
+healthcarestoragesolutionscorporation,Healthcare & Medical,Medical Equipment,quote_driven,2663,861,922,0,880,healthcarestoragesolutionscorporation,,,,10747.0
+alliedmachinerysalesllc,Food & Beverage,Craft Beer,quote_driven,1710,0,1710,0,0,alliedmachinerysalesllc,,,,4576.0
+appliedwatertechnologies,Technology,Software/Technology,transactional,133,133,0,0,0,appliedwatertechnologies,,,,9649.0
+lancevalves2,Construction & Building,Plumbing,transactional,1203,1203,0,0,0,lancevalves2,,,,5769.0
+lowrymanufacturingcompany2,Consumer Goods,Jewelry,quote_driven,1125,323,802,0,0,lowrymanufacturingcompany2,,,,8995.0
+huntercattlecompany2,Food & Beverage,Coffee,crm_pipeline,17,0,0,17,0,huntercattlecompany2,,,,9103.0
+snoozies,Consumer Goods,Footwear/Slippers,mixed,6413,0,0,0,6413,snoozies,,,,7493.0
+medicalz2,Healthcare & Medical,Medical Equipment,mixed,4828,0,0,0,4828,medicalz2,249.0,,,10744.0
+pattechnology2,Technology,Software/Technology,crm_pipeline,1838,0,375,535,928,pattechnology2,331.0,,,9999.0
+officefirstsolutions,Other,Unclassified,crm_pipeline,9,0,0,9,0,officefirstsolutions,,,,21240.0
+iconusa,Other,Unclassified,quote_driven,42,0,42,0,0,iconusa,,0.0,16.0,13199.0
+dcooperworksllc,Other,Unclassified,quote_driven,509,0,460,49,0,dcooperworksllc,,,,22300.8
+daiwahealthdevelopment,Healthcare & Medical,Medical Equipment,transactional,1621,703,0,0,918,daiwahealthdevelopment,,,,8554.0
+aswnorth,Other,Unclassified,transactional,991,991,0,0,0,aswnorth,289.0,,,22708.0
+penusa,Other,Unclassified,crm_pipeline,97,0,0,97,0,penusa,,,,3880.0
+ReuningMcKim,Other,Unclassified,crm_pipeline,130,0,0,130,0,reuningmckim,306.0,,,16018.2
+WonkyConfections,Other,Unclassified,transactional,81,81,0,0,0,wonkyconfections,,,,23635.0
+stellalightingincCo1,Food & Beverage,Spirits,transactional,3679,264,0,0,3415,stellalightingincco1,,,,11068.0
+kuumbamadeCo2,Consumer Goods,Fragrances/Body Products,mixed,12598,0,0,0,12598,kuumbamadeco2,268.0,0.0,9.0,23647.0
+aosolutions,Other,Unclassified,quote_driven,391,0,391,0,0,aosolutions,,,,7802.0
+intellbioCo3,Healthcare & Medical,Biotech/Laboratory,crm_pipeline,1422,0,0,771,651,intellbioco3,,,,5537.0
+namusa,Manufacturing,Architectural Metals,quote_driven,3859,1047,1698,0,1114,namusa,415.0,,,21241.0
+bardianivalves,Construction & Building,Plumbing,quote_driven,535,0,507,28,0,bardianivalves,,,,8488.0
+liquimedlock,Food & Beverage,Spirits,transactional,1982,969,67,147,799,liquimedlock,,0.0,7.0,18963.86
+caribbeandiagnosticsltdCo1,Food & Beverage,Coffee,transactional,5362,2172,718,0,2472,caribbeandiagnosticsltdco1,315.0,0.0,7.0,27636.5
+enerfusioninc,Food & Beverage,Spirits,quote_driven,270,0,270,0,0,enerfusioninc,,,,2793.0
+mfmh,Consumer Goods,Jewelry,quote_driven,8540,0,4828,1196,2516,mfmh,785.0,0.0,20.0,38906.0
+promotionalproductsfulfillmentdistributionltdCo1,Food & Beverage,Spirits,quote_driven,2196,0,2196,0,0,promotionalproductsfulfillmentdistributionltdco1,,,,15815.0
+Legitshipcbd06,Other,Unclassified,transactional,179,179,0,0,0,legitshipcbd06,,,,18248.0
+jobena,Consumer Goods,Jewelry,quote_driven,5171,0,788,0,4383,jobena,,,,8355.0
+burly,Other,Unclassified,quote_driven,174,0,101,73,0,burly,,,,3448.0
+MPDmedical,Healthcare & Medical,Medical Equipment,transactional,5230,1099,656,0,3475,mpdmedical,,,,17538.0
+MYOSCORP,Other,Unclassified,transactional,608,608,0,0,0,myoscorp,464.0,,,25687.0
+perlistenaudiollc,Consumer Goods,Jewelry,transactional,307,162,145,0,0,perlistenaudiollc,,,,2596.0
+equipmentlockCo,Security Equipment,Equipment Locks,transactional,10745,2844,257,0,7644,equipmentlockco,427.0,,,15817.0
+firestationfurniture,Furniture,Fire Station Furniture,quote_driven,28452,1831,3647,3000,19974,firestationfurniture,365.0,,,34259.57
+DMM21,Other,Unclassified,quote_driven,39,0,39,0,0,dmm21,,,,4360.0
+FLH,Industrial,Fiberglass/Line Hardware,quote_driven,7815,3805,4010,0,0,flh,1336.0,1805.0,26.0,57556.8
+happydayflower,Retail,Florist/Flowers,transactional,8590,1930,0,0,6660,happydayflower,,,,8332.0
+DMS2021,Other,Unclassified,quote_driven,196,0,196,0,0,dms2021,,,,40.0
+premierCo1,Other,Unclassified,transactional,88,71,0,17,0,premierco1,,,,5880.0
+knexMethod,Other,Unclassified,crm_pipeline,668,230,144,294,0,knexmethod,,,,11870.0
+antares,Healthcare & Medical,Supplements/Nutraceuticals,crm_pipeline,369,0,41,328,0,antares,294.0,,,20738.0
+coolbluedistribution,Other,Unclassified,crm_pipeline,1035,0,0,97,938,coolbluedistribution,,,,13635.65
+ngalatrading,Electrical,Lighting,mixed,2617,0,0,0,2617,ngalatrading,,,,9525.0
+biggameusaCo2,Sports & Recreation,Football Equipment,quote_driven,9767,0,9767,0,0,biggameusaco2,,0.0,19.0,60645.75
+labelsplusCo1,Healthcare & Medical,Lab Equipment,transactional,3031,85,0,0,2946,labelsplusco1,120.0,,,7298.0
+anytimebarsuppliesllcCo1,Food & Beverage,Wine,mixed,3469,0,0,0,3469,anytimebarsuppliesllcco1,,,,6220.3
+haygor,Other,Unclassified,crm_pipeline,24,0,0,24,0,haygor,419.0,,,10861.3
+CryturUSA,Other,Unclassified,transactional,581,318,215,48,0,cryturusa,232.0,,,12051.0
+stwsincCo1,Consumer Goods,Apparel,transactional,1890,1124,0,0,766,stwsincco1,,,,10219.0
+trunniontable,Furniture,Furniture,quote_driven,965,0,711,254,0,trunniontable,,,,7596.0
+LappStructures,Construction & Building,Sheds/Outdoor Structures,quote_driven,13962,0,3262,3116,7584,lappstructures,1323.0,1915.0,29.0,72051.0
+sonoranprocess,Other,Unclassified,crm_pipeline,296,0,0,296,0,sonoranprocess,147.0,,,9244.0
+paradigmlabs,Healthcare & Medical,Lab Equipment,mixed,2709,0,0,0,2709,paradigmlabs,,,,13558.0
+TexStar,Electrical,LED Lighting,transactional,2145,887,0,0,1258,texstar,120.0,,,12240.0
+safetnose,Security Equipment,Safes/Security,transactional,218,218,0,0,0,safetnose,,,,5947.0
+lihua,Food & Beverage,Spirits,quote_driven,98,0,56,42,0,lihua,,,,7229.0
+nukitchens132,Construction & Building,Kitchen Remodeling,transactional,4616,568,235,131,3682,nukitchens132,,0.0,10.0,36763.0
+americanwholesaledistributors,Food & Beverage,Craft Beer,transactional,75,75,0,0,0,americanwholesaledistributors,,,,23851.0
+bertelsonprecast,Construction & Building,Precast Concrete,quote_driven,1756,0,661,481,614,bertelsonprecast,,,,9611.0
+j2medicalsupplyinc,Healthcare & Medical,Medical Equipment,quote_driven,170,0,170,0,0,j2medicalsupplyinc,360.0,0.0,9.0,188291.0
+techtradeglobal,Technology,Software/Technology,quote_driven,883,48,153,0,682,techtradeglobal,,,,13528.93
+spkassociates,Manufacturing,Packaging & Display,quote_driven,10184,320,591,574,8699,spkassociates,451.0,,,54542.77
+yoderbilt,Construction & Building,Greenhouses,quote_driven,25905,1269,1643,1510,21483,yoderbilt,1126.0,2065.0,24.0,93911.0
+bindersincCo1,Consumer Goods,Promotional Products,quote_driven,20860,1252,5141,229,14238,bindersincco1,,,,25698.0
+artemisbiosolutions,Other,Unclassified,quote_driven,48,0,39,9,0,artemisbiosolutions,,,,20034.0
+loretech,Technology,Software/Technology,quote_driven,1046,0,563,483,0,loretech,440.0,0.0,14.0,26977.0
+gitchsportswearCo1,Consumer Goods,Apparel,transactional,7200,1360,0,0,5840,gitchsportswearco1,300.0,,,20732.0
+europenaingredientsCo2,Other,Unclassified,crm_pipeline,82,0,0,82,0,europenaingredientsco2,,,,13406.0
+bassbrushes,Consumer Goods,Beauty/Personal Care,quote_driven,2838,0,162,0,2676,bassbrushes,,,,5428.0
+highcottonCo2,Other,Unclassified,crm_pipeline,55,0,0,55,0,highcottonco2,,,,4682.0
+ipme,Other,Unclassified,crm_pipeline,835,0,0,127,708,ipme,,,,13481.0
+sommselection,Food & Beverage,Wine Distribution,transactional,6245,4006,0,0,2239,sommselection,240.0,,,12428.0
+ancientartsfibrecrafts,Other,Unclassified,quote_driven,235,0,235,0,0,ancientartsfibrecrafts,,,,4360.0
+wplastics,Manufacturing,Plastics,mixed,656,0,0,0,656,wplastics,,,,5964.0
+Surfaceco,Consumer Goods,Jewelry,quote_driven,1690,0,1690,0,0,surfaceco,348.0,0.0,9.0,48347.0
+BioAgEnergy,Industrial,Fuel Distribution,transactional,11786,5850,0,0,5936,bioagenergy,420.0,,,45531.5
+sylvacorp,Food & Beverage,Spirits,quote_driven,9440,0,1162,127,8151,sylvacorp,334.0,,,14801.68
+ptegolfCo1,Food & Beverage,Spirits,quote_driven,8625,1282,1554,103,5686,ptegolfco1,,,,18140.0
+NadalieUSA,Other,Unclassified,quote_driven,316,0,316,0,0,nadalieusa,530.0,,,22989.0
+tritterfeeferCo1,Construction & Building,Outdoor Furniture/Sheds,quote_driven,7385,0,851,0,6534,tritterfeeferco1,,,,25923.0
+agproinc,Other,Unclassified,quote_driven,574,0,510,64,0,agproinc,,,,18709.0
+tfriedl,Consumer Goods,Jewelry,quote_driven,92,0,65,27,0,tfriedl,,,,16366.0
+vantagemeasure,Consumer Goods,Jewelry,quote_driven,483,195,288,0,0,vantagemeasure,,,,6352.0
+urbanfrontltd,Construction & Building,Doors & Windows,crm_pipeline,1727,0,0,575,1152,urbanfrontltd,,,,14700.0
+FoamRubberFabricators,Healthcare & Medical,Medical Equipment,quote_driven,1457,548,909,0,0,foamrubberfabricators,,,,5831.0
+raybiotech,Technology,Software/Technology,quote_driven,2189,0,2189,0,0,raybiotech,,0.0,10.0,29174.0
+leichtseattle1,Services,Professional Services,transactional,143,98,0,45,0,leichtseattle1,,,,10086.0
+exergamefitness,Sports & Recreation,Sporting Goods,quote_driven,5004,0,286,0,4718,exergamefitness,,,,10320.82
+boeckeler,Food & Beverage,Spirits,crm_pipeline,1680,0,0,588,1092,boeckeler,,,,15233.0
+timberwolfforest,Construction & Building,Lumber,mixed,3850,0,0,0,3850,timberwolfforest,,,,8852.59
+lifetimeteallc,Services,Professional Services,crm_pipeline,101,0,0,101,0,lifetimeteallc,,,,4606.0
+redeagleinternational,Industrial,Agricultural Chemicals,transactional,7815,2623,0,0,5192,redeagleinternational,445.0,0.0,10.0,33132.0
+rapidindustriesqbd,Other,Unclassified,mixed,718,0,0,0,718,rapidindustriesqbd,,,,11547.0
+BonOpusSales,Food & Beverage,Craft Beer,quote_driven,2869,499,592,0,1778,bonopussales,,,,13954.0
+cfsusa1,Other,Unclassified,crm_pipeline,307,0,0,307,0,cfsusa1,485.0,0.0,12.0,35952.0
+stanwoodredimix,Construction & Building,Lumber,mixed,5118,0,0,0,5118,stanwoodredimix,,,,14705.0
+sumakenorthamericaMT,Industrial,Pneumatic Tools,quote_driven,10636,825,1648,1215,6948,sumakenorthamericamt,305.0,0.0,10.0,22843.0
+precisionsurgicalinc,Healthcare & Medical,Medical Equipment,quote_driven,2966,0,1813,0,1153,precisionsurgicalinc,467.0,0.0,8.0,39362.24
+theblastbagCo1,Industrial,Abrasives,mixed,3047,0,0,0,3047,theblastbagco1,,,,9044.0
+solsticeag,Industrial,Agricultural Products Distribution,crm_pipeline,17896,0,0,640,17256,solsticeag,599.0,0.0,14.0,42370.0
+akzanwholesale,Food & Beverage,Craft Beer,mixed,2274,0,0,0,2274,akzanwholesale,,,,8484.0
+pacificergonomics,Furniture,Furniture,quote_driven,4285,1042,1071,0,2172,pacificergonomics,284.0,,,24129.0
+bccrmed,Healthcare & Medical,Medical Equipment,transactional,553,553,0,0,0,bccrmed,,,,7307.0
+hollingbery,Other,Unclassified,quote_driven,370,0,370,0,0,hollingbery,400.0,0.0,7.0,33568.0
+back2internationalltd,Furniture,Furniture,transactional,9119,4796,4323,0,0,back2internationalltd,312.0,,,27924.0
+deltakits1,Automotive,Auto Glass Repair,transactional,15884,7089,0,0,8795,deltakits1,320.0,,,21466.0
+headnhome,Consumer Goods,Apparel/Hats,mixed,12275,0,0,0,12275,headnhome,366.0,0.0,8.0,18591.0
+USTestingEquipment,Other,Unclassified,quote_driven,815,0,739,76,0,ustestingequipment,,,,23432.0
+chapmanco,Food & Beverage,Spirits,transactional,21733,8128,0,0,13605,chapmanco,1144.0,2575.0,42.0,55574.69
+voltairesystems,Construction & Building,HVAC,quote_driven,386,0,275,111,0,voltairesystems,,,,22722.0
+podiatrycc,Healthcare & Medical,Medical Equipment,transactional,823,823,0,0,0,podiatrycc,,,,8625.0
+expressassembly1,Manufacturing,Contract Assembly,transactional,8374,2311,635,326,5102,expressassembly1,476.0,0.0,11.0,41881.0
+CunninghamPianoCo,Retail,Musical Instruments/Pianos,transactional,5424,867,0,106,4451,cunninghampianoco,741.0,0.0,18.0,49946.0
+atWork,Furniture,Office Furniture,quote_driven,3026,1437,1589,0,0,atwork,657.0,0.0,13.0,34273.0
+affinityr,Other,Unclassified,crm_pipeline,11,0,0,11,0,affinityr,,,,7719.0
+blkcorp,Food & Beverage,Spirits,quote_driven,5638,0,2480,0,3158,blkcorp,579.0,0.0,11.0,40152.0
+apexstone,Construction & Building,Concrete/Masonry,transactional,8457,3503,2291,502,2161,apexstone,,0.0,14.0,55271.0
+shedyard,Construction & Building,Sheds/Prefab Buildings,crm_pipeline,4377,0,0,1267,3110,shedyard,,,,29216.81
+abeep,Other,Unclassified,quote_driven,433,0,433,0,0,abeep,325.0,0.0,10.0,38868.0
+brownsafe,Security Equipment,Luxury Safes,quote_driven,33497,1910,3907,3386,24294,brownsafe,878.0,2665.0,20.0,84731.25
+equipmentguys,Consumer Goods,Jewelry,quote_driven,8245,0,1561,52,6632,equipmentguys,374.0,0.0,8.0,21355.0
+houhyd,Other,Unclassified,transactional,138,70,68,0,0,houhyd,,,,24599.0
+usafleetsolutions,Food & Beverage,Spirits,quote_driven,16428,1890,2152,0,12386,usafleetsolutions,,0.0,16.0,58546.0
+novamen,Consumer Goods,Apparel,quote_driven,9882,0,1339,728,7815,novamen,,0.0,18.0,30891.0
+fifoil,Construction & Building,Insulation,crm_pipeline,19712,0,564,567,18581,fifoil,760.0,0.0,15.0,54118.0
+fxpartnersusa1,Other,Unclassified,transactional,216,216,0,0,0,fxpartnersusa1,,,,8941.0
+AVAILForensicsCo1,Other,Unclassified,quote_driven,114,0,114,0,0,availforensicsco1,,,,5836.0
+officefurniturecentreglasgow,Furniture,Furniture,quote_driven,2420,0,2420,0,0,officefurniturecentreglasgow,,,,17186.0
+fujimats,Sports & Recreation,Martial Arts Equipment,quote_driven,33716,5311,6465,1231,20709,fujimats,1142.0,2795.0,20.0,105391.71
+classicrockfaceblock,Security Equipment,Safes/Security,quote_driven,628,271,324,33,0,classicrockfaceblock,,,,18186.0
+ascocarbondioxideinc,Automotive,Auto Parts,quote_driven,519,0,519,0,0,ascocarbondioxideinc,445.0,,,36148.0
+magnummarketing,Automotive,Shop Equipment,quote_driven,4274,0,1740,38,2496,magnummarketing,,,,22536.0
+theheartpinecompany,Other,Unclassified,crm_pipeline,72,0,0,72,0,theheartpinecompany,,,,10946.0
+celluma,Healthcare & Medical,LED Light Therapy,mixed,90126,0,0,0,90126,celluma,1122.0,2895.0,24.0,83440.0
+stagepolymers,Manufacturing,Plastics,quote_driven,1054,481,573,0,0,stagepolymers,,,,10782.0
+knf,Manufacturing,Pump Equipment,transactional,15914,1243,0,0,14671,knf,300.0,0.0,7.0,29112.0
+tippmannarmscompanyllc,Sports & Recreation,Sporting Goods/Airsoft,quote_driven,2003,0,2003,0,0,tippmannarmscompanyllc,394.0,0.0,10.0,33382.0
+ErazorBits2017,Other,Unclassified,transactional,311,311,0,0,0,erazorbits2017,,,,3840.0
+lenworth,Services,Equipment Service/Repair,quote_driven,3155,0,1009,981,1165,lenworth,,,,61936.0
+dmitriyco1,Services,Custom Services,crm_pipeline,2587,0,0,158,2429,dmitriyco1,,,,21479.0
+thesplashhottubspools,Services,Professional Services,transactional,14302,565,0,0,13737,thesplashhottubspools,326.0,0.0,11.0,39744.0
+ct,Food & Beverage,Pet Food/Feed,quote_driven,1412,0,49,0,1363,ct,,,,20240.0
+customturnings,Manufacturing,Wood Components,mixed,4051,0,0,0,4051,customturnings,,,,4320.0
+genprollc,Food & Beverage,Spirits,mixed,2186,0,0,0,2186,genprollc,456.0,,,22107.24
+grothouse,Furniture,Wood Countertops,mixed,8720,0,0,0,8720,grothouse,280.0,0.0,7.0,23770.0
+coolsealgaskets,Industrial,Gaskets/Seals,transactional,2127,155,67,0,1905,coolsealgaskets,,,,21072.0
+hidcorind,Other,Unclassified,transactional,568,568,0,0,0,hidcorind,,,,10372.0
+elmusa,Other,Unclassified,quote_driven,435,0,435,0,0,elmusa,360.0,0.0,9.0,36256.0
+pipefusionservicesinc,Construction & Building,Plumbing,mixed,632,0,0,0,632,pipefusionservicesinc,260.0,,,14986.5
+globalpackage,Manufacturing,Packaging,quote_driven,1692,0,267,26,1399,globalpackage,,,,12420.0
+exloc9,Other,Unclassified,crm_pipeline,807,0,403,404,0,exloc9,287.0,,,28143.0
+uatllc,Other,Unclassified,transactional,269,169,100,0,0,uatllc,,,,5727.5
+fjsproductionsllc,Services,Event Production,transactional,6739,2176,0,0,4563,fjsproductionsllc,180.0,,,6436.77
+cityfloral,Consumer Goods,Jewelry,transactional,16163,3709,0,0,12454,cityfloral,560.0,0.0,22.0,34744.5
+atlanticgraphics,Industrial,Printing Equipment,quote_driven,1403,0,1053,350,0,atlanticgraphics,400.0,0.0,9.0,24755.0
+elecraft7,Technology,Amateur Radio Equipment,mixed,2399,0,0,0,2399,elecraft7,,3435.0,19.0,50690.0
+vis2,Industrial,Janitorial Supplies,quote_driven,2434,0,328,89,2017,vis2,620.0,0.0,17.0,54695.0
+racecardynamicsofarizonainc,Furniture,Furniture,mixed,2250,0,0,0,2250,racecardynamicsofarizonainc,,,,12830.0
+modcycles,Automotive,Powersports Parts,mixed,21217,0,0,0,21217,modcycles,130.0,,,10195.0
+leontineserver,Consumer Goods,Jewelry,crm_pipeline,7104,0,34,201,6869,leontineserver,637.0,0.0,13.0,40157.0
+proav,Food & Beverage,Spirits,quote_driven,1113,0,962,151,0,proav,,,,13820.0
+brechtel,Services,Professional Services,quote_driven,437,0,331,106,0,brechtel,,,,9205.8
+vmgindustries,Food & Beverage,Spirits,crm_pipeline,48,0,0,48,0,vmgindustries,,,,9720.9
+methodmobility,Other,Unclassified,crm_pipeline,150,0,0,150,0,methodmobility,,,,20440.0
+aw,Construction & Building,Flooring,quote_driven,1046,0,42,16,988,aw,,,,12288.0
+idsheat,Other,Unclassified,quote_driven,459,0,346,113,0,idsheat,,,,6369.0
+ntgproducts,Industrial,Netting Products,quote_driven,4094,2010,2084,0,0,ntgproducts,,,,31132.0
+keybusinesssolutions,Technology,Office Equipment/Supplies,mixed,4638,0,0,0,4638,keybusinesssolutions,,0.0,12.0,45600.0
+bham,Food & Beverage,Craft Beer,transactional,2037,871,0,0,1166,bham,,,,3840.0
+msf,Other,Unclassified,crm_pipeline,869,0,0,25,844,msf,,,,4902.0
+weightechusa,Technology,Software/Technology,crm_pipeline,1664,0,124,396,1144,weightechusa,,,,8788.0
+microdairydesigns,Construction & Building,HVAC,transactional,1402,523,0,0,879,microdairydesigns,,,,7200.0
+americanstonecraft,Food & Beverage,Craft Beer,transactional,240,240,0,0,0,americanstonecraft,,,,3537.5
+dewesoft,Technology,Data Acquisition/Test Equipment,quote_driven,26706,0,7152,3196,16358,dewesoft,3332.0,4560.0,74.0,181976.0
+supplyshield,Services,Compliance/Certification,transactional,3325,948,738,0,1639,supplyshield,,,,25646.0
+skyproduct,Construction & Building,Roofing/Solar Mounting,quote_driven,6205,1043,1771,1135,2256,skyproduct,384.0,0.0,7.0,38720.0
+refreshdeal,Consumer Goods,Corporate Gifts/Deal Toys,quote_driven,22746,2439,3919,3146,13242,refreshdeal,590.0,0.0,14.0,47277.0

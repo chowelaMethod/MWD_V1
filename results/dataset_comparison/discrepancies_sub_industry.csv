@@ -1,0 +1,590 @@
+field,research_value,enriched_value,research_normalized,enriched_normalized,account,enriched_industry_research,enriched_vertical,note
+sub_industry,Craft Beverages (Kombucha),NOT_IN_ENRICHED,,,magicbreezekombucha,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,synova,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,ssisanitary,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Appliances,NOT_IN_ENRICHED,,,allmakeappliances,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,hyfloequipmentcompany3,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Signs/Labels,NOT_IN_ENRICHED,,,stickersandmore4,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,battlerattle,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Safes/Security,NOT_IN_ENRICHED,,,americansafetyandfirehouse,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,missionlaundryequipment3,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Furniture,NOT_IN_ENRICHED,,,cassinala2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Outdoor/Camping,NOT_IN_ENRICHED,,,peakperformancecampers,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,industrimax2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Food Packaging Equipment,NOT_IN_ENRICHED,,,formersinternational5,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Coffee Roasting,NOT_IN_ENRICHED,,,deansbeansorganiccoffee4,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,concealite,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,gsinks,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Lumber,NOT_IN_ENRICHED,,,norwooddeviceanddiagnostics,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,g3packaging2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,burnewiin2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,gorillahammers4,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Solar,NOT_IN_ENRICHED,,,lumerasolarinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Compressor Equipment,NOT_IN_ENRICHED,,,moderncompressorsales,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,acentel,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Doors & Windows,NOT_IN_ENRICHED,,,nxtchlng,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,radsuramerica,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,gothamlgt,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,hendersonenterprises,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,appenninofoodusa,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,sierracontainergroup,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Coffee Roasting,NOT_IN_ENRICHED,,,cuveecoffee,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Fiber Optics,NOT_IN_ENRICHED,,,fibercablesdirect,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Adaptive Fashion,NOT_IN_ENRICHED,,,koolwaysports,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,icustomlabel,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,audioconcepts,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Concrete/Masonry,NOT_IN_ENRICHED,,,blackstonesportsinc2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,industrialodorcontrol2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,wmuniformgroup,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,commonwealthindustrialinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Lumber,NOT_IN_ENRICHED,,,woodlabuae,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Tools/Hardware,NOT_IN_ENRICHED,,,geotoolsusa,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Fencing/Decking,NOT_IN_ENRICHED,,,socalfencesupply2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,diamondbladedistributorsllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Aerospace Safety Equipment,NOT_IN_ENRICHED,,,planesights,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Concrete/Masonry,NOT_IN_ENRICHED,,,questonedistributors,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Craft Beer,NOT_IN_ENRICHED,,,namesakebrewing,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,stevenenterprises2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Wine,NOT_IN_ENRICHED,,,smakdab,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Powder Coating Services,NOT_IN_ENRICHED,,,georgiapowdercoating3,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Casters & Wheels,NOT_IN_ENRICHED,,,accesscasters3,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Industrial Hose,NOT_IN_ENRICHED,,,davishoseinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Abrasives,NOT_IN_ENRICHED,,,capitalabrasivesllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Machining & Repair,NOT_IN_ENRICHED,,,harbertcastingrepair,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,gulfharvest2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,categorycreations,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Promotional Products,NOT_IN_ENRICHED,,,ezbrandsllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Portable Sanitation,NOT_IN_ENRICHED,,,armal,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,heavisideindustriesinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Ammunition Components,NOT_IN_ENRICHED,,,steelecomponents,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Outdoor Site Furnishings,NOT_IN_ENRICHED,,,sitepieces2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Metal Fabrication,NOT_IN_ENRICHED,,,tekkometals,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Filtration,NOT_IN_ENRICHED,,,catsfilters,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,stamfordtimeandco,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Tires,NOT_IN_ENRICHED,,,pneusquebecnet,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Fire Safety,NOT_IN_ENRICHED,,,ssifiresolutions,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,mycologicalnaturalproducts,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Religious Products,NOT_IN_ENRICHED,,,silverlinejudaica,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,bandtcommunicationsinc3,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Meat Processing,NOT_IN_ENRICHED,,,larryssausage,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,americansupplycompanyinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Furniture,NOT_IN_ENRICHED,,,big,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,helenarosejewelry,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Restaurant Supply,NOT_IN_ENRICHED,,,readyvista,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Professional Services,NOT_IN_ENRICHED,,,plasmaprocessgroup4,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,uselitegear,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,dtsdirect,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,candhaggregatesllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,africanchoicemarketltd,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,ultimax,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,emeryallen2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,rakit3,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Promotional Products,NOT_IN_ENRICHED,,,brandxmetalsinc2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Coffee,NOT_IN_ENRICHED,,,sacredstudiosinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,3D Printing Services,NOT_IN_ENRICHED,,,tangiblecreative2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Beauty/Personal Care,NOT_IN_ENRICHED,,,bioskinaestheticsinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,crimsonimaging,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,sheffieldsupplyandequipmentoftexasllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,sheffieldsupplyandequipment,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,solshinehair,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,icandyenergydrink,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,customindustrial2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,upstateanodizellc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Kitchen Appliances,NOT_IN_ENRICHED,,,fosterus,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,drinkade,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,topoffice,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,perryco,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Flooring,NOT_IN_ENRICHED,,,uniquewoodfloor,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Professional Services,NOT_IN_ENRICHED,,,thomashayesstudio3,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Baby Products,NOT_IN_ENRICHED,,,amtonllcbabyclubchic,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Doors & Windows,NOT_IN_ENRICHED,,,precisiondoors3,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Apparel,NOT_IN_ENRICHED,,,todaytomorrowapparel,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Software/Technology,NOT_IN_ENRICHED,,,bl2systemsllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,midwestbuildingsupply,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Promotional Products,NOT_IN_ENRICHED,,,artbrandsholdings,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Financial Services,NOT_IN_ENRICHED,,,abhasafinancialservices2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,strongwellness,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,howardcountymd,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Electronics Wholesale,NOT_IN_ENRICHED,,,donecdistributors,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Professional Services,NOT_IN_ENRICHED,,,miminternationalinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,ghentindustrialsupplyinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,byisbeveragellc2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Wine,NOT_IN_ENRICHED,,,pspglobalwines2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Fencing/Decking,NOT_IN_ENRICHED,,,medallionfence,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Apparel,NOT_IN_ENRICHED,,,nearymartin,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Electrical Supply,NOT_IN_ENRICHED,,,reaganwirelesscorp,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,kabsolution2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,HVAC,NOT_IN_ENRICHED,,,memiairellc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Communications Equipment,NOT_IN_ENRICHED,,,awcomm2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,amarenusa,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Professional Services,NOT_IN_ENRICHED,,,superiorcleaningequipmentinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Software/Technology,NOT_IN_ENRICHED,,,classicexhaustsystemsllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,mokanfastenerandsupply,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,picturethisframinginc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Aviation Supplies,NOT_IN_ENRICHED,,,militarypilotsupplyoftexasllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Electrical Supply,NOT_IN_ENRICHED,,,easternwireproducts,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Lighting,NOT_IN_ENRICHED,,,lightingxcorp,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Medical Equipment,NOT_IN_ENRICHED,,,revivehealthcaregroup,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Wine,NOT_IN_ENRICHED,,,miabsgpteltd,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Auto Parts,NOT_IN_ENRICHED,,,thecarekioskptyltd,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,dosesteel2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Lab Equipment,NOT_IN_ENRICHED,,,labedahockeygear,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Packaging,NOT_IN_ENRICHED,,,lot49llcdbabox7imports,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Lab Equipment,NOT_IN_ENRICHED,,,clandestinelabz,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,nationcor,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,cyclallc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,pcparlor,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Coffee,NOT_IN_ENRICHED,,,maaribu,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,outriggerpads,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,greenandchapmanjv,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,premiumpb2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,insightsurgical,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Craft Beer,NOT_IN_ENRICHED,,,boschfamilybrewingcompanyllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Medical Equipment,NOT_IN_ENRICHED,,,sabradental,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Coffee,NOT_IN_ENRICHED,,,coffeebeancorral2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Lumber,NOT_IN_ENRICHED,,,woodforminteriorsltd,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Software/Technology,NOT_IN_ENRICHED,,,nupointsystems2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Roofing,NOT_IN_ENRICHED,,,holeintheroof2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,HVAC,NOT_IN_ENRICHED,,,chairstuff3,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Concrete/Masonry,NOT_IN_ENRICHED,,,rainbowconcreteindustrieslimited,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,HVAC,NOT_IN_ENRICHED,,,automatedatticstair,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Apparel,NOT_IN_ENRICHED,,,red88eyewearinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,hddsupply,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,poochiepets2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,greenmoab,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,osupplies,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Specialty Food Distribution,NOT_IN_ENRICHED,,,sobremesamanagement2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Thermal Management,NOT_IN_ENRICHED,,,norenthermal,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Medical Training Simulators,NOT_IN_ENRICHED,,,gtsimulators,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,gsova,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Metal Fabrication,NOT_IN_ENRICHED,,,elevatedmetalscorp2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,dubgifcollc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,cooksmart2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Lighting,NOT_IN_ENRICHED,,,rayhil2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Professional Services,NOT_IN_ENRICHED,,,progressivewestman3,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Furniture,NOT_IN_ENRICHED,,,flipoffice4,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Furniture,NOT_IN_ENRICHED,,,wallbedsnmore,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,kennebeccabinetry,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,HVAC,NOT_IN_ENRICHED,,,vacairindustries,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Apparel/Hosiery,NOT_IN_ENRICHED,,,experthosiery,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Heat Transfer Equipment,NOT_IN_ENRICHED,,,southgateprocessequipmentinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Water Management,NOT_IN_ENRICHED,,,rainwatermanagmentsolutions,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Industrial Equipment,NOT_IN_ENRICHED,,,pneumaticplus,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Pallets/Packaging,NOT_IN_ENRICHED,,,fullcirclesolutionsllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Lighting,NOT_IN_ENRICHED,,,carolinalightinggroup,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Food Distribution,NOT_IN_ENRICHED,,,deccanfoods4,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,mobilitycityoflasvegas2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,fivehundredandfiftyfivedistribution,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,theatticdepot2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,HVAC,NOT_IN_ENRICHED,,,betterbuychairsinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Professional Services,NOT_IN_ENRICHED,,,montanamixers,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,vogona,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,treatmenttechnology,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Mechanical Services,NOT_IN_ENRICHED,,,duecksmechanicalinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Paper Distribution,NOT_IN_ENRICHED,,,randolphpaper2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Auto Parts,NOT_IN_ENRICHED,,,carlsondockandbarge,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Seafood,NOT_IN_ENRICHED,,,fishfoodies,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Agricultural Chemicals,NOT_IN_ENRICHED,,,egeproducts,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Sealants/Building Materials,NOT_IN_ENRICHED,,,dddirect,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Concrete/Masonry,NOT_IN_ENRICHED,,,sherbistone,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Metal Fabrication,NOT_IN_ENRICHED,,,publicmetal,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Wine,NOT_IN_ENRICHED,,,sonomachampagnesabres,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Lab Equipment,NOT_IN_ENRICHED,,,summitlaboratories2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Flooring,NOT_IN_ENRICHED,,,summitflooring,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,HVAC,NOT_IN_ENRICHED,,,ozenairtechnology2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Home Fragrance,NOT_IN_ENRICHED,,,aromaticfragrancetechnologies,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Chai & Coffee Equipment,NOT_IN_ENRICHED,,,rexdistributioninc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Signs/Labels,NOT_IN_ENRICHED,,,hisigns,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,edreedcompany,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,mjjdassociatesllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,davinciandtesla,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Metal Fabrication,NOT_IN_ENRICHED,,,genesismachineandfabricationinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Medical Equipment,NOT_IN_ENRICHED,,,bieldentalcabinetsrebielcompanyinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,chalmersford,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,kandedistributing2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Wine,NOT_IN_ENRICHED,,,petitvin2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Cooking Oils/Shortening,NOT_IN_ENRICHED,,,cpvusanew,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,callanindustrial2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,underhillinternational,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,hawkvalve,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,canadalab,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Cleaning Supplies,NOT_IN_ENRICHED,,,coastalwipers,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,bairespackusa2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,protechequipment,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Coffee,NOT_IN_ENRICHED,,,papajifoods3,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Doors & Windows,NOT_IN_ENRICHED,,,cooksdoorsandmouldingsinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Professional Services,NOT_IN_ENRICHED,,,callanindustrial,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,hucksterinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Kratom Products,NOT_IN_ENRICHED,,,mnjenterprisellc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,totalfeedsinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,opcdistributionllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Professional Services,NOT_IN_ENRICHED,,,arboragri,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,automatedroomcontrolsinc2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Concrete/Masonry,NOT_IN_ENRICHED,,,redstonetechnical,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,lesgerstionsdmanagementlin,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Mobility Equipment,NOT_IN_ENRICHED,,,mobilitycityofworcestermassachusetts,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,highpowerproducts,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Metal Fabrication,NOT_IN_ENRICHED,,,southweststeelfabrication,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,staplesenterprises4,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,norcada3,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,vikingcommunicationsinc2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,mobilitycityofgreatercincinnati,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,ajco,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Doors & Windows,NOT_IN_ENRICHED,,,smindustries3,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Commercial Textiles,NOT_IN_ENRICHED,,,reidwitlinltd,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Safety Equipment,NOT_IN_ENRICHED,,,protectconstruction,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Marine/Boating,NOT_IN_ENRICHED,,,marineinnovations2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Stone/Masonry,NOT_IN_ENRICHED,,,ceramicainc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Software/Technology,NOT_IN_ENRICHED,,,hydrospraywashsystemsinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Software/Technology,NOT_IN_ENRICHED,,,evolutiontrailertechnologies,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Apparel,NOT_IN_ENRICHED,,,apparelstuffrus2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,mobilitycityofcoloradosprings,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Distribution,NOT_IN_ENRICHED,,,lmhdistribution,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,sylcadesigns2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,dsagllc2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Doors & Windows,NOT_IN_ENRICHED,,,boswellwindows3,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Import/Distribution,NOT_IN_ENRICHED,,,trimports,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,roimetalbuildings,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,pacificlink,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,crowncreationsinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,boxgangmanufacturing2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Furniture,NOT_IN_ENRICHED,,,equustockopcollc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Medical Equipment,NOT_IN_ENRICHED,,,anchorsupply2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Craft Beer,NOT_IN_ENRICHED,,,leadingedgesales2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,brinksmfgco,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,hdindustriesinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Craft Cocktails,NOT_IN_ENRICHED,,,mpactbeverage2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Tools/Hardware,NOT_IN_ENRICHED,,,abbeyhardware,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,cbsolutionslp,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,vortex2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,galaxy2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,atlanticrestaurantandsupermarketequipment,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,perlite,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Coffee,NOT_IN_ENRICHED,,,planetarydesign2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Air Filtration,NOT_IN_ENRICHED,,,pfpspokane2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Coffee,NOT_IN_ENRICHED,,,sixdegreesnorthbeveragegroup,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Craft Beer,NOT_IN_ENRICHED,,,brewersicecompanyllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,yudoinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Software/Technology,NOT_IN_ENRICHED,,,quipementsvegtech,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Mouldings/Millwork,NOT_IN_ENRICHED,,,periodmouldings2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,fuelinjectorclinic2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,aandmdiscountfurniture4,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Material Handling Equipment,NOT_IN_ENRICHED,,,mustangnorth,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,pma13,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Retail/General,NOT_IN_ENRICHED,,,energycurve,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Power Tools/Drilling Equipment,NOT_IN_ENRICHED,,,ebamethod,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Flooring,NOT_IN_ENRICHED,,,flooringrva,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,halosilinternationalnxtllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,area51sportsltd,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Industrial Supplies,NOT_IN_ENRICHED,,,championproducts2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Industrial Distribution,NOT_IN_ENRICHED,,,atlanticindustrialcorp,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Filtration,NOT_IN_ENRICHED,,,nationalfiltersupply,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,jemmcollc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,goldnerdockconstruction,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Tree Trimming Equipment,NOT_IN_ENRICHED,,,limbbusterllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,pghorticulturelimited,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,wearingwilliamsltd2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Craft Beer,NOT_IN_ENRICHED,,,tandssalesinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Flooring,NOT_IN_ENRICHED,,,commfitness3,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Distribution/Shipping,NOT_IN_ENRICHED,,,transmetroninc3,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Metal Fabrication,NOT_IN_ENRICHED,,,whiteherrinmetals,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,hongkongmarket,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,HVAC,NOT_IN_ENRICHED,,,luxuryair,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Fire Safety,NOT_IN_ENRICHED,,,dalmatianfireequipment,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Awards/Trophies,NOT_IN_ENRICHED,,,jdshouseoftrophies,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Tools/Hardware,NOT_IN_ENRICHED,,,autorescuetools,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,jafedecorating,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Home Fragrance/Candles,NOT_IN_ENRICHED,,,acheerfulgiver,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,informedag3,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,americanlithiumenergy2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Pet/Garden Supplies,NOT_IN_ENRICHED,,,baconmail,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Doors & Windows,NOT_IN_ENRICHED,,,prionesource,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Sewer Cleaning Equipment,NOT_IN_ENRICHED,,,enzusainc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,buddyventuresinternationalltd2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Apparel,NOT_IN_ENRICHED,,,americanbackcountry,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Fencing/Decking,NOT_IN_ENRICHED,,,fencetrac2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Material Handling Equipment,NOT_IN_ENRICHED,,,accurateforklift3,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,cappadociarugsllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,muleresophonicguitars,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,wktrincdbafloridadocks,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,halderinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,flowmeasurementservices,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,ambessenterprisesinc3,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,spatialgenomics3,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Flooring,NOT_IN_ENRICHED,,,qualityflooring,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,southwestenvirotxpartnersllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Doors & Windows,NOT_IN_ENRICHED,,,hattrickdistributioninc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Tools/Hardware,NOT_IN_ENRICHED,,,kinetictoolsinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Craft Beer,NOT_IN_ENRICHED,,,steerintrailersales,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Safety Supplies,NOT_IN_ENRICHED,,,vipsupplyco,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Woodworking Tools,NOT_IN_ENRICHED,,,cggschmidt2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,topsecretcustoms,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Apparel,NOT_IN_ENRICHED,,,getbold,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Artisan Meats/Charcuterie,NOT_IN_ENRICHED,,,smokinggoose2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Printer Supplies/Toner,NOT_IN_ENRICHED,,,saveonlaser,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,aplpg3,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,cumsausa,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Wine,NOT_IN_ENRICHED,,,vintagemakesllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Doors & Windows,NOT_IN_ENRICHED,,,kearfabrication,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Hemp/Cannabis Products,NOT_IN_ENRICHED,,,tripdrip,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Lab Equipment,NOT_IN_ENRICHED,,,elysianlabsllc3,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Craft Beer,NOT_IN_ENRICHED,,,vcssalesanddistribution,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Software/Technology,NOT_IN_ENRICHED,,,siquesttechnologysdnbhd,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Food Distribution,NOT_IN_ENRICHED,,,foodsalive,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Home Fragrance,NOT_IN_ENRICHED,,,adkfragrancefarm,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Cold Therapy Equipment,NOT_IN_ENRICHED,,,iceworksbathco,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,welshhottubs2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Screen Printing Equipment,NOT_IN_ENRICHED,,,blueridgescreenproducts,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Flooring,NOT_IN_ENRICHED,,,delmarvadesigncenter,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Lighting,NOT_IN_ENRICHED,,,lumienlighting,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,millibar,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Seafood,NOT_IN_ENRICHED,,,lafittesseafood,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Tools/Hardware,NOT_IN_ENRICHED,,,sterlinghardwareltd,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,sawsolutionsinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Doors & Windows,NOT_IN_ENRICHED,,,actionlighting,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Novelty Products,NOT_IN_ENRICHED,,,endlessfunllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,fibonaccillc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Tortilla Manufacturing,NOT_IN_ENRICHED,,,victorcastilloincdbatortilleriatemecula,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,surfaceteccorp3,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Beauty/Personal Care,NOT_IN_ENRICHED,,,rhinoskintoughusainc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,traxandmore,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,POS Display Solutions,NOT_IN_ENRICHED,,,holdit,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Promotional Products,NOT_IN_ENRICHED,,,permarkbadges2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Furniture,NOT_IN_ENRICHED,,,northamericamattresscorp,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Tire Sealants,NOT_IN_ENRICHED,,,multiseal2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,netzerousa2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Medical Equipment,NOT_IN_ENRICHED,,,unicellsupply2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Radiators/Heat Exchangers,NOT_IN_ENRICHED,,,dolphinheatexchangerusa,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Industrial Supplies Distribution,NOT_IN_ENRICHED,,,procurementequipment,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Doors & Windows,NOT_IN_ENRICHED,,,nationalkitchensbathsandmore1,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Flooring,NOT_IN_ENRICHED,,,bodegatile,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,repssinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,mobilitycityofomaha,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Flooring,NOT_IN_ENRICHED,,,thewristbandcompany,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,jouffreinc2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Contract Manufacturing (cGMP),NOT_IN_ENRICHED,,,botanaway,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Log Homes,NOT_IN_ENRICHED,,,sierraloghomes,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,paladinpower2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,hccigarsdaytonallc2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,johnmarksre2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,kingoillubricantsllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,theattachmentcompanyllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Lab Equipment,NOT_IN_ENRICHED,,,privatelabelsupport,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,bignotemusic,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Flooring,NOT_IN_ENRICHED,,,kandbfloorcoveringllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Privacy Systems,NOT_IN_ENRICHED,,,imperialprivacysystemsllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Sanitary Supplies,NOT_IN_ENRICHED,,,roadrunner2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,cathxmedicalinc2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,georgiastage,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,doozlandllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,maxinesniderinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Coffee,NOT_IN_ENRICHED,,,camachocoffee,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,impulseradarusainc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Kratom Products,NOT_IN_ENRICHED,,,profwhytekratom,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,hsabearings,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Safes/Security,NOT_IN_ENRICHED,,,durabikelocker,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,heritagesheds,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,hydeparkpartners,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Medical Equipment,NOT_IN_ENRICHED,,,animalhospitalsupplyinc2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Paint/Coatings,NOT_IN_ENRICHED,,,colorantic,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Mobility Equipment,NOT_IN_ENRICHED,,,access2mobilityinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Medical Equipment,NOT_IN_ENRICHED,,,goodchemistry,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,perine2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spa/Wellness Products,NOT_IN_ENRICHED,,,inspiredsciencesllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Seafood,NOT_IN_ENRICHED,,,cashionfishingrods2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Lighting,NOT_IN_ENRICHED,,,lampnutra2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Fiber Optic Equipment,NOT_IN_ENRICHED,,,rlhindustriesinc2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Doors & Windows,NOT_IN_ENRICHED,,,prestigeislandexports,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,E-commerce Reseller,NOT_IN_ENRICHED,,,lancoacquisitionllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,wholelogreclaimed3,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Doors & Windows,NOT_IN_ENRICHED,,,ameritechfacilitysupplyllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Flooring,NOT_IN_ENRICHED,,,cpffloorsllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,jpmdistributors,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Flooring,NOT_IN_ENRICHED,,,vtechnicaltextiles,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Marine/RV Products,NOT_IN_ENRICHED,,,trioniccorp2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Furniture,NOT_IN_ENRICHED,,,furnitureprocorp,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,centricityvisioninc3,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,universalpowerconversion,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,firstmedicalinternationalcorp2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Musical Instruments/Pianos,NOT_IN_ENRICHED,,,ThePianoPlaceMichigan,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,Wilco,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,metkonusainc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Medical Equipment,NOT_IN_ENRICHED,,,healthcarestoragesolutionscorporation,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Craft Beer,NOT_IN_ENRICHED,,,alliedmachinerysalesllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Software/Technology,NOT_IN_ENRICHED,,,appliedwatertechnologies,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Plumbing,NOT_IN_ENRICHED,,,lancevalves2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,lowrymanufacturingcompany2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Coffee,NOT_IN_ENRICHED,,,huntercattlecompany2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Footwear/Slippers,NOT_IN_ENRICHED,,,snoozies,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Medical Equipment,NOT_IN_ENRICHED,,,medicalz2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Software/Technology,NOT_IN_ENRICHED,,,pattechnology2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,officefirstsolutions,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,iconusa,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,dcooperworksllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Medical Equipment,NOT_IN_ENRICHED,,,daiwahealthdevelopment,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,aswnorth,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,penusa,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,ReuningMcKim,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,WonkyConfections,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,stellalightingincCo1,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Fragrances/Body Products,NOT_IN_ENRICHED,,,kuumbamadeCo2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,aosolutions,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Biotech/Laboratory,NOT_IN_ENRICHED,,,intellbioCo3,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Architectural Metals,NOT_IN_ENRICHED,,,namusa,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Plumbing,NOT_IN_ENRICHED,,,bardianivalves,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,liquimedlock,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Coffee,NOT_IN_ENRICHED,,,caribbeandiagnosticsltdCo1,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,enerfusioninc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,mfmh,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,promotionalproductsfulfillmentdistributionltdCo1,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,Legitshipcbd06,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,jobena,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,burly,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Medical Equipment,NOT_IN_ENRICHED,,,MPDmedical,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,MYOSCORP,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,perlistenaudiollc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Equipment Locks,NOT_IN_ENRICHED,,,equipmentlockCo,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Fire Station Furniture,NOT_IN_ENRICHED,,,firestationfurniture,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,DMM21,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Fiberglass/Line Hardware,NOT_IN_ENRICHED,,,FLH,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Florist/Flowers,NOT_IN_ENRICHED,,,happydayflower,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,DMS2021,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,premierCo1,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,knexMethod,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Supplements/Nutraceuticals,NOT_IN_ENRICHED,,,antares,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,coolbluedistribution,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Lighting,NOT_IN_ENRICHED,,,ngalatrading,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Football Equipment,NOT_IN_ENRICHED,,,biggameusaCo2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Lab Equipment,NOT_IN_ENRICHED,,,labelsplusCo1,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Wine,NOT_IN_ENRICHED,,,anytimebarsuppliesllcCo1,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,haygor,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,CryturUSA,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Apparel,NOT_IN_ENRICHED,,,stwsincCo1,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Furniture,NOT_IN_ENRICHED,,,trunniontable,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Sheds/Outdoor Structures,NOT_IN_ENRICHED,,,LappStructures,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,sonoranprocess,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Lab Equipment,NOT_IN_ENRICHED,,,paradigmlabs,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,LED Lighting,NOT_IN_ENRICHED,,,TexStar,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Safes/Security,NOT_IN_ENRICHED,,,safetnose,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,lihua,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Kitchen Remodeling,NOT_IN_ENRICHED,,,nukitchens132,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Craft Beer,NOT_IN_ENRICHED,,,americanwholesaledistributors,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Precast Concrete,NOT_IN_ENRICHED,,,bertelsonprecast,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Medical Equipment,NOT_IN_ENRICHED,,,j2medicalsupplyinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Software/Technology,NOT_IN_ENRICHED,,,techtradeglobal,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Packaging & Display,NOT_IN_ENRICHED,,,spkassociates,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Greenhouses,NOT_IN_ENRICHED,,,yoderbilt,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Promotional Products,NOT_IN_ENRICHED,,,bindersincCo1,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,artemisbiosolutions,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Software/Technology,NOT_IN_ENRICHED,,,loretech,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Apparel,NOT_IN_ENRICHED,,,gitchsportswearCo1,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,europenaingredientsCo2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Beauty/Personal Care,NOT_IN_ENRICHED,,,bassbrushes,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,highcottonCo2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,ipme,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Wine Distribution,NOT_IN_ENRICHED,,,sommselection,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,ancientartsfibrecrafts,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Plastics,NOT_IN_ENRICHED,,,wplastics,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,Surfaceco,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Fuel Distribution,NOT_IN_ENRICHED,,,BioAgEnergy,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,sylvacorp,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,ptegolfCo1,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,NadalieUSA,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Outdoor Furniture/Sheds,NOT_IN_ENRICHED,,,tritterfeeferCo1,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,agproinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,tfriedl,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,vantagemeasure,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Doors & Windows,NOT_IN_ENRICHED,,,urbanfrontltd,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Medical Equipment,NOT_IN_ENRICHED,,,FoamRubberFabricators,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Software/Technology,NOT_IN_ENRICHED,,,raybiotech,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Professional Services,NOT_IN_ENRICHED,,,leichtseattle1,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Sporting Goods,NOT_IN_ENRICHED,,,exergamefitness,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,boeckeler,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Lumber,NOT_IN_ENRICHED,,,timberwolfforest,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Professional Services,NOT_IN_ENRICHED,,,lifetimeteallc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Agricultural Chemicals,NOT_IN_ENRICHED,,,redeagleinternational,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,rapidindustriesqbd,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Craft Beer,NOT_IN_ENRICHED,,,BonOpusSales,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,cfsusa1,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Lumber,NOT_IN_ENRICHED,,,stanwoodredimix,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Pneumatic Tools,NOT_IN_ENRICHED,,,sumakenorthamericaMT,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Medical Equipment,NOT_IN_ENRICHED,,,precisionsurgicalinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Abrasives,NOT_IN_ENRICHED,,,theblastbagCo1,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Agricultural Products Distribution,NOT_IN_ENRICHED,,,solsticeag,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Craft Beer,NOT_IN_ENRICHED,,,akzanwholesale,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Furniture,NOT_IN_ENRICHED,,,pacificergonomics,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Medical Equipment,NOT_IN_ENRICHED,,,bccrmed,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,hollingbery,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Furniture,NOT_IN_ENRICHED,,,back2internationalltd,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Auto Glass Repair,NOT_IN_ENRICHED,,,deltakits1,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Apparel/Hats,NOT_IN_ENRICHED,,,headnhome,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,USTestingEquipment,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,chapmanco,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,HVAC,NOT_IN_ENRICHED,,,voltairesystems,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Medical Equipment,NOT_IN_ENRICHED,,,podiatrycc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Contract Assembly,NOT_IN_ENRICHED,,,expressassembly1,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Musical Instruments/Pianos,NOT_IN_ENRICHED,,,CunninghamPianoCo,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Office Furniture,NOT_IN_ENRICHED,,,atWork,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,affinityr,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,blkcorp,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Concrete/Masonry,NOT_IN_ENRICHED,,,apexstone,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Sheds/Prefab Buildings,NOT_IN_ENRICHED,,,shedyard,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,abeep,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Luxury Safes,NOT_IN_ENRICHED,,,brownsafe,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,equipmentguys,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,houhyd,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,usafleetsolutions,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Apparel,NOT_IN_ENRICHED,,,novamen,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Insulation,NOT_IN_ENRICHED,,,fifoil,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,fxpartnersusa1,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,AVAILForensicsCo1,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Furniture,NOT_IN_ENRICHED,,,officefurniturecentreglasgow,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Martial Arts Equipment,NOT_IN_ENRICHED,,,fujimats,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Safes/Security,NOT_IN_ENRICHED,,,classicrockfaceblock,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Auto Parts,NOT_IN_ENRICHED,,,ascocarbondioxideinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Shop Equipment,NOT_IN_ENRICHED,,,magnummarketing,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,theheartpinecompany,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,LED Light Therapy,NOT_IN_ENRICHED,,,celluma,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Plastics,NOT_IN_ENRICHED,,,stagepolymers,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Pump Equipment,NOT_IN_ENRICHED,,,knf,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Sporting Goods/Airsoft,NOT_IN_ENRICHED,,,tippmannarmscompanyllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,ErazorBits2017,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Equipment Service/Repair,NOT_IN_ENRICHED,,,lenworth,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Custom Services,NOT_IN_ENRICHED,,,dmitriyco1,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Professional Services,NOT_IN_ENRICHED,,,thesplashhottubspools,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Pet Food/Feed,NOT_IN_ENRICHED,,,ct,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Wood Components,NOT_IN_ENRICHED,,,customturnings,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,genprollc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Wood Countertops,NOT_IN_ENRICHED,,,grothouse,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Gaskets/Seals,NOT_IN_ENRICHED,,,coolsealgaskets,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,hidcorind,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,elmusa,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Plumbing,NOT_IN_ENRICHED,,,pipefusionservicesinc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Packaging,NOT_IN_ENRICHED,,,globalpackage,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,exloc9,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,uatllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Event Production,NOT_IN_ENRICHED,,,fjsproductionsllc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,cityfloral,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Printing Equipment,NOT_IN_ENRICHED,,,atlanticgraphics,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Amateur Radio Equipment,NOT_IN_ENRICHED,,,elecraft7,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Janitorial Supplies,NOT_IN_ENRICHED,,,vis2,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Furniture,NOT_IN_ENRICHED,,,racecardynamicsofarizonainc,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Powersports Parts,NOT_IN_ENRICHED,,,modcycles,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Jewelry,NOT_IN_ENRICHED,,,leontineserver,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,proav,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Professional Services,NOT_IN_ENRICHED,,,brechtel,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Spirits,NOT_IN_ENRICHED,,,vmgindustries,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,methodmobility,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Flooring,NOT_IN_ENRICHED,,,aw,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,idsheat,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Netting Products,NOT_IN_ENRICHED,,,ntgproducts,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Office Equipment/Supplies,NOT_IN_ENRICHED,,,keybusinesssolutions,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Craft Beer,NOT_IN_ENRICHED,,,bham,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Unclassified,NOT_IN_ENRICHED,,,msf,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Software/Technology,NOT_IN_ENRICHED,,,weightechusa,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,HVAC,NOT_IN_ENRICHED,,,microdairydesigns,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Craft Beer,NOT_IN_ENRICHED,,,americanstonecraft,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Data Acquisition/Test Equipment,NOT_IN_ENRICHED,,,dewesoft,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Compliance/Certification,NOT_IN_ENRICHED,,,supplyshield,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Roofing/Solar Mounting,NOT_IN_ENRICHED,,,skyproduct,,,Sub-industry detail exists in research but not tracked in enriched
+sub_industry,Corporate Gifts/Deal Toys,NOT_IN_ENRICHED,,,refreshdeal,,,Sub-industry detail exists in research but not tracked in enriched

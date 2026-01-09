@@ -1,0 +1,170 @@
+====================================================================================================
+SIDE-BY-SIDE COMPARISON: RESEARCH vs ENRICHED
+Selected Examples Showing Different Discrepancy Patterns
+====================================================================================================
+
+====================================================================================================
+ACCOUNT: deansbeansorganiccoffee4
+====================================================================================================
+
+RESEARCH FILE                                      | ENRICHED FILE                                  
+-------------------------------------------------- | -----------------------------------------------
+Industry: Food & Beverage                          | Vertical: Wholesale and distribution services (MWD) ✗
+                                                   | Industry (Research): PENDING RESEARCH          
+Sub-Industry: Coffee Roasting                      | (field does not exist)                         
+Workflow: crm_pipeline                             | Workflow Type: PENDING RESEARCH          ✗
+Total Events: 18                                   | (field does not exist)                         
+Source: manual_verification                        | (field does not exist)                         
+Confidence: high                                   | (field does not exist)                         
+Website: deansbeans.com                            | Website: deansbeans.com                  ✓
+Annual Sales: $3,665,019                           | Annual Sales: $3,665,019                       
+
+====================================================================================================
+ACCOUNT: moderncompressorsales
+====================================================================================================
+
+RESEARCH FILE                                      | ENRICHED FILE                                  
+-------------------------------------------------- | -----------------------------------------------
+Industry: Industrial                               | Vertical: Manufacturing (MWD)            ✗
+                                                   | Industry (Research): PENDING RESEARCH          
+Sub-Industry: Compressor Equipment                 | (field does not exist)                         
+Workflow: quote_driven                             | Workflow Type: PENDING RESEARCH          ✗
+Total Events: 2752                                 | (field does not exist)                         
+Source: manual_verification                        | (field does not exist)                         
+Confidence: high                                   | (field does not exist)                         
+Annual Sales: $2,410,967                           | Annual Sales: $2,410,967                       
+
+====================================================================================================
+ACCOUNT: helenarosejewelry
+====================================================================================================
+
+RESEARCH FILE                                      | ENRICHED FILE                                  
+-------------------------------------------------- | -----------------------------------------------
+Industry: Consumer Goods                           | Vertical: Wholesale and distribution services (MWD) ✗
+                                                   | Industry (Research): PENDING RESEARCH          
+Sub-Industry: Jewelry                              | (field does not exist)                         
+Workflow: quote_driven                             | Workflow Type: PENDING RESEARCH          ✗
+Total Events: 422                                  | (field does not exist)                         
+Source: manual_verification                        | (field does not exist)                         
+Confidence: high                                   | (field does not exist)                         
+Annual Sales: $2,949,164                           | Annual Sales: $2,949,164                       
+
+====================================================================================================
+ACCOUNT: fibercablesdirect
+====================================================================================================
+
+RESEARCH FILE                                      | ENRICHED FILE                                  
+-------------------------------------------------- | -----------------------------------------------
+Industry: Technology                               | Vertical: Manufacturing (MWD)            ✗
+                                                   | Industry (Research): PENDING RESEARCH          
+Sub-Industry: Fiber Optics                         | (field does not exist)                         
+Workflow: quote_driven                             | Workflow Type: PENDING RESEARCH          ✗
+Total Events: 230                                  | (field does not exist)                         
+Source: manual_verification                        | (field does not exist)                         
+Confidence: high                                   | (field does not exist)                         
+Annual Sales: $2,797,681                           | Annual Sales: $2,797,681                       
+
+====================================================================================================
+ACCOUNT: davishoseinc
+====================================================================================================
+
+RESEARCH FILE                                      | ENRICHED FILE                                  
+-------------------------------------------------- | -----------------------------------------------
+Industry: Industrial                               | Vertical: Retail                         ✗
+                                                   | Industry (Research): PENDING RESEARCH          
+Sub-Industry: Industrial Hose                      | (field does not exist)                         
+Workflow: transactional                            | Workflow Type: PENDING RESEARCH          ✗
+Total Events: 1996                                 | (field does not exist)                         
+Source: manual_verification                        | (field does not exist)                         
+Confidence: high                                   | (field does not exist)                         
+Annual Sales: $2,197,710                           | Annual Sales: $2,197,710                       
+
+====================================================================================================
+ACCOUNT: celluma
+====================================================================================================
+
+RESEARCH FILE                                      | ENRICHED FILE                                  
+-------------------------------------------------- | -----------------------------------------------
+Industry: Healthcare & Medical                     | Vertical: Manufacturing (MWD)            ✗
+                                                   | Industry (Research): Medical Device Manufacturing - LED Light Therapy
+Sub-Industry: LED Light Therapy                    | (field does not exist)                         
+Workflow: mixed                                    | Workflow Type: Manufacturing - FDA Regulated Medical Devices ✗
+Total Events: 90126                                | (field does not exist)                         
+Source: manual_verification                        | (field does not exist)                         
+Confidence: high                                   | (field does not exist)                         
+Annual Sales: $50,953,150                          | Annual Sales: $50,953,150                      
+
+====================================================================================================
+ACCOUNT: brownsafe
+====================================================================================================
+
+RESEARCH FILE                                      | ENRICHED FILE                                  
+-------------------------------------------------- | -----------------------------------------------
+Industry: Security Equipment                       | Vertical: Manufacturing (MWD)            ✗
+                                                   | Industry (Research): Security Equipment Manufacturing - High-Security Safes & Vaults
+Sub-Industry: Luxury Safes                         | (field does not exist)                         
+Workflow: quote_driven                             | Workflow Type: Custom Manufacturing - High-Security Products ✗
+Total Events: 33497                                | (field does not exist)                         
+Source: manual_verification                        | (field does not exist)                         
+Confidence: high                                   | (field does not exist)                         
+Annual Sales: $21,600,258                          | Annual Sales: $21,600,258                      
+
+====================================================================================================
+ACCOUNT: holdit
+====================================================================================================
+
+RESEARCH FILE                                      | ENRICHED FILE                                  
+-------------------------------------------------- | -----------------------------------------------
+Industry: Retail Fixtures & Display                | Vertical: Manufacturing (MWD)            ✗
+                                                   | Industry (Research): Point of Sale Displays & Shelf Edge Systems - South Africa
+Sub-Industry: POS Display Solutions                | (field does not exist)                         
+Workflow: quote_driven                             | Workflow Type: Manufacturing - Retail Signage Inventor ✗
+Total Events: 57216                                | (field does not exist)                         
+Source: manual_verification                        | (field does not exist)                         
+Confidence: high                                   | (field does not exist)                         
+Website: holdit.co.za                              | Website: holdit.co.za                    ✓
+Annual Sales: $24,661,439                          | Annual Sales: $24,661,439                      
+
+====================================================================================================
+ACCOUNT: synova
+====================================================================================================
+
+RESEARCH FILE                                      | ENRICHED FILE                                  
+-------------------------------------------------- | -----------------------------------------------
+Industry: Other                                    | Vertical: Wholesale and distribution services (MWD) ✗
+                                                   | Industry (Research): PENDING RESEARCH          
+Sub-Industry: Unclassified                         | (field does not exist)                         
+Workflow: crm_pipeline                             | Workflow Type: PENDING RESEARCH          ✗
+Total Events: 41                                   | (field does not exist)                         
+Source: unclassified                               | (field does not exist)                         
+Confidence: nan                                    | (field does not exist)                         
+Annual Sales: $543,720                             | Annual Sales: $543,720                         
+
+====================================================================================================
+ACCOUNT: gorillahammers4
+====================================================================================================
+
+RESEARCH FILE                                      | ENRICHED FILE                                  
+-------------------------------------------------- | -----------------------------------------------
+Industry: Other                                    | Vertical: Wholesale and distribution services (MWD) ✗
+                                                   | Industry (Research): PENDING RESEARCH          
+Sub-Industry: Unclassified                         | (field does not exist)                         
+Workflow: crm_pipeline                             | Workflow Type: PENDING RESEARCH          ✗
+Total Events: 261                                  | (field does not exist)                         
+Source: unclassified                               | (field does not exist)                         
+Confidence: nan                                    | (field does not exist)                         
+Annual Sales: $91,679                              | Annual Sales: $91,679                          
+
+====================================================================================================
+LEGEND: ✓ = Match | ✗ = Discrepancy
+====================================================================================================
+
+KEY OBSERVATIONS:
+1. All accounts show 'PENDING RESEARCH' in enriched Industry (Research) field
+2. Sub-industry detail exists in research but field doesn't exist in enriched
+3. Classification metadata (source, confidence, events) missing from enriched
+4. Workflow patterns differ between the two datasets
+5. Some high-activity accounts (celluma: 90K events, holdit: 57K events)
+6. Annual Sales match between datasets (good data consistency)
+7. Websites match where present (good data consistency)
+====================================================================================================

@@ -1,0 +1,136 @@
+account,industry,sub_industry,workflow_pattern,total_events,classification_source,confidence,website,annual_sales,qbo_industry
+magicbreezekombucha,Food & Beverage,Craft Beverages (Kombucha),crm_pipeline,8,manual_verification,high,,"378,232",Breweries
+deansbeansorganiccoffee4,Food & Beverage,Coffee Roasting,crm_pipeline,18,manual_verification,high,deansbeans.com,"3,665,019",accounting_bookkeeping
+moderncompressorsales,Industrial,Compressor Equipment,quote_driven,2752,manual_verification,high,,"2,410,967",
+cuveecoffee,Food & Beverage,Coffee Roasting,crm_pipeline,47,manual_verification,high,,"4,855,049",
+fibercablesdirect,Technology,Fiber Optics,quote_driven,230,manual_verification,high,,"2,797,681",
+koolwaysports,Consumer Goods,Adaptive Fashion,crm_pipeline,8,manual_verification,high,,"133,080",
+namesakebrewing,Food & Beverage,Craft Beer,crm_pipeline,9,manual_verification,high,,"182,801",
+accesscasters3,Industrial,Casters & Wheels,crm_pipeline,102,manual_verification,high,accesscasters.com,0,wholesale_distribution
+davishoseinc,Industrial,Industrial Hose,transactional,1996,manual_verification,high,,"2,197,710",Industrial supplies merchant wholesalers
+pneusquebecnet,Automotive,Tires,crm_pipeline,1745,manual_verification,high,,"284,712",
+silverlinejudaica,Consumer Goods,Religious Products,transactional,1498,manual_verification,high,,"873,769",
+helenarosejewelry,Consumer Goods,Jewelry,quote_driven,422,manual_verification,high,,"2,949,164","Jewelry, watch, precious stone, and precious metal merchant wholesalers"
+fosterus,Consumer Goods,Kitchen Appliances,mixed,13773,manual_verification,high,foster-us.com,"2,245,737","Household appliances, electric housewares, and con"
+amtonllcbabyclubchic,Consumer Goods,Baby Products,mixed,1842,manual_verification,high,,"75,632",
+abhasafinancialservices2,Services,Financial Services,mixed,1230,manual_verification,medium,,"1,190,400",
+donecdistributors,Technology,Electronics Wholesale,crm_pipeline,1736,manual_verification,high,,"14,949,767",
+awcomm2,Technology,Communications Equipment,quote_driven,3303,manual_verification,medium,,"8,683,324",other
+militarypilotsupplyoftexasllc,Consumer Goods,Aviation Supplies,crm_pipeline,4006,manual_verification,medium,,"33,089,788",
+sobremesamanagement2,Food & Beverage,Specialty Food Distribution,transactional,3190,manual_verification,high,sobremesamanagement.com,"3,074,318",
+norenthermal,Industrial,Thermal Management,quote_driven,19907,manual_verification,high,,"3,076,620",
+gtsimulators,Healthcare & Medical,Medical Training Simulators,quote_driven,16047,manual_verification,high,www.ibtcusa.com,"9,761,424",
+experthosiery,Consumer Goods,Apparel/Hosiery,crm_pipeline,1185,manual_verification,high,experthosiery.com,"419,733",
+southgateprocessequipmentinc,Industrial,Heat Transfer Equipment,quote_driven,3497,manual_verification,high,southgatepe.com,"7,117,328",
+rainwatermanagmentsolutions,Construction & Building,Water Management,crm_pipeline,1893,manual_verification,high,rainwatermanagement.com,"12,696,332",other
+fullcirclesolutionsllc,Manufacturing,Pallets/Packaging,transactional,1230,manual_verification,high,gmail.com,"6,884,401",
+duecksmechanicalinc,Services,Mechanical Services,quote_driven,2055,manual_verification,medium,diamondshelters.net,"991,565",
+randolphpaper2,Manufacturing,Paper Distribution,transactional,13893,manual_verification,high,nextdaypaper.com,"1,580,391",wholesale_distribution
+egeproducts,Industrial,Agricultural Chemicals,transactional,2141,manual_verification,high,egebio.com,"19,650,785",
+dddirect,Construction & Building,Sealants/Building Materials,quote_driven,1594,manual_verification,high,dddirect.us,"283,357",
+rexdistributioninc,Food & Beverage,Chai & Coffee Equipment,mixed,33541,manual_verification,high,chaihai.ca,"3,213,497",
+cpvusanew,Food & Beverage,Cooking Oils/Shortening,crm_pipeline,4357,manual_verification,high,cpvusa.com,"13,796,858",WholesaleDistributionandSales
+coastalwipers,Industrial,Cleaning Supplies,quote_driven,8611,manual_verification,high,coastalwipers.com,"3,945,971",(No Type)
+mnjenterprisellc,Food & Beverage,Kratom Products,transactional,7084,manual_verification,high,icloud.com,"32,192,595",
+mobilitycityofworcestermassachusetts,Healthcare & Medical,Mobility Equipment,transactional,1936,manual_verification,high,www.mobilitycity.com,"656,870",All other health and personal care stores
+reidwitlinltd,Manufacturing,Commercial Textiles,crm_pipeline,2182,manual_verification,high,rwltd.com,"2,520,920",wholesale_distribution
+ceramicainc,Construction & Building,Stone/Masonry,transactional,16781,manual_verification,high,ceramicainc.com,"747,520",
+lmhdistribution,Industrial,Distribution,transactional,1288,manual_verification,low,lmhdist.com,"1,574,150",WholesaleDistributionandSales
+trimports,Industrial,Import/Distribution,mixed,1424,manual_verification,low,trimports.com,"1,020,894",
+mpactbeverage2,Food & Beverage,Craft Cocktails,transactional,5698,manual_verification,high,mpactbeverage.com,"12,714,336",GeneralProductbasedBusiness
+pfpspokane2,Industrial,Air Filtration,transactional,13251,manual_verification,high,pfpspokane.com,"3,065,439",wholesale_distribution
+periodmouldings2,Construction & Building,Mouldings/Millwork,mixed,1501,manual_verification,high,periodmouldings.co.uk,"330,575",
+mustangnorth,Industrial,Material Handling Equipment,quote_driven,2500,manual_verification,high,mustangmh.com,"6,031,579",WholesaleDistributionandSales
+energycurve,Retail,Retail/General,quote_driven,2278,manual_verification,low,energycurve.com,0,AgricultureRanchingorFarming
+ebamethod,Industrial,Power Tools/Drilling Equipment,transactional,10009,manual_verification,high,euroboor.com,"3,769,720",
+flooringrva,Construction & Building,Flooring,crm_pipeline,11508,manual_verification,high,flooringrva.com,"2,947,351",
+championproducts2,Industrial,Industrial Supplies,transactional,1352,manual_verification,low,championproductsusa.com,"5,084,980",WholesaleDistributionandSales
+atlanticindustrialcorp,Industrial,Industrial Distribution,transactional,1113,manual_verification,high,atlanticindustrialcorp.com,"1,490,479",GeneralProductbasedBusiness
+limbbusterllc,Industrial,Tree Trimming Equipment,crm_pipeline,5179,manual_verification,high,limbbuster.com,"6,111,300",
+transmetroninc3,Industrial,Distribution/Shipping,transactional,1217,manual_verification,medium,gmail.com,"734,341",retail
+jdshouseoftrophies,Consumer Goods,Awards/Trophies,transactional,8943,manual_verification,high,jdshot.com,"701,116",
+acheerfulgiver,Consumer Goods,Home Fragrance/Candles,mixed,16164,manual_verification,high,acheerfulgiver.com,"3,748,792",OtherNone
+baconmail,Consumer Goods,Pet/Garden Supplies,transactional,1973,manual_verification,medium,baconproducts.com,"2,923,191",Manufacturing
+enzusainc,Industrial,Sewer Cleaning Equipment,crm_pipeline,2316,manual_verification,high,enz.com,"10,127,687",GeneralProductbasedBusiness
+accurateforklift3,Industrial,Material Handling Equipment,transactional,21156,manual_verification,high,accurateforklift.net,"15,898,987",Manufacturing
+vipsupplyco,Industrial,Safety Supplies,mixed,2031,manual_verification,medium,vipsupplyco.com,"2,575,955",
+cggschmidt2,Industrial,Woodworking Tools,quote_driven,3385,manual_verification,high,sbsassociates.com,"2,033,072",AccountingorBookkeeping
+smokinggoose2,Food & Beverage,Artisan Meats/Charcuterie,crm_pipeline,3324,manual_verification,high,smokinggoose.com,"6,751,903",Manufacturing
+saveonlaser,Technology,Printer Supplies/Toner,quote_driven,2965,manual_verification,high,saveonlaser.ca,"702,010",
+tripdrip,Consumer Goods,Hemp/Cannabis Products,transactional,14027,manual_verification,high,trip-drip.com,"4,742,790",
+iceworksbathco,Manufacturing,Cold Therapy Equipment,quote_driven,1091,manual_verification,high,outlook.com,"1,355,787",
+blueridgescreenproducts,Industrial,Screen Printing Equipment,transactional,7600,manual_verification,high,blueridgescreenproducts.com,"6,507,690",
+endlessfunllc,Consumer Goods,Novelty Products,quote_driven,1635,manual_verification,medium,,"2,774,086",ManufacturerRepresentativeorAgent
+victorcastilloincdbatortilleriatemecula,Food & Beverage,Tortilla Manufacturing,transactional,3865,manual_verification,high,gmail.com,"407,897",
+holdit,Retail Fixtures & Display,POS Display Solutions,quote_driven,57216,manual_verification,high,holdit.co.za,"24,661,439",8
+permarkbadges2,Consumer Goods,Promotional Products,transactional,5241,manual_verification,high,permarkbadges.com,"653,560",General Product-based Business
+multiseal2,Automotive,Tire Sealants,quote_driven,30177,manual_verification,high,multiseal.us,"3,951,985",
+dolphinheatexchangerusa,Manufacturing,Radiators/Heat Exchangers,mixed,2374,manual_verification,high,dolphinradiator.com,"11,145,897",
+procurementequipment,Industrial,Industrial Supplies Distribution,quote_driven,32314,manual_verification,high,www.pe-energy.com,"14,393,508",WholesaleDistributionandSales
+botanaway,Healthcare & Medical,Contract Manufacturing (cGMP),transactional,51439,manual_verification,high,botanaway.com,"34,341,260",
+sierraloghomes,Construction & Building,Log Homes,quote_driven,846,manual_verification,high,sierraloghomes.com,"2,366,505",
+imperialprivacysystemsllc,Healthcare & Medical,Privacy Systems,quote_driven,17966,manual_verification,high,imperialprivacy.com,"4,156,174",
+roadrunner2,Industrial,Sanitary Supplies,transactional,21284,manual_verification,medium,gmail.com,"1,947,479",wholesale_distribution
+profwhytekratom,Food & Beverage,Kratom Products,quote_driven,6423,manual_verification,high,,"5,319,771",
+colorantic,Construction & Building,Paint/Coatings,mixed,1934,manual_verification,high,colorantic.com,0,
+access2mobilityinc,Healthcare & Medical,Mobility Equipment,transactional,6059,manual_verification,high,access2mobility.com,"8,617,750",other
+inspiredsciencesllc,Healthcare & Medical,Spa/Wellness Products,quote_driven,8306,manual_verification,high,www.thermablisswellness.com,"1,451,085",
+rlhindustriesinc2,Technology,Fiber Optic Equipment,quote_driven,23692,manual_verification,high,fiberopticlink.com,"11,981,957",Manufacturing
+lancoacquisitionllc,Retail,E-commerce Reseller,quote_driven,1876,manual_verification,medium,lanco-corp.com,"6,549,749",
+cpffloorsllc,Construction & Building,Flooring,transactional,41324,manual_verification,high,cpffloors.com,"13,332,885",
+trioniccorp2,Manufacturing,Marine/RV Products,crm_pipeline,4213,manual_verification,high,trioniccorp.com,0,Manufacturing
+ThePianoPlaceMichigan,Retail,Musical Instruments/Pianos,mixed,1195,manual_verification,high,gmail.com,0,Musical instrument and supplies stores
+snoozies,Consumer Goods,Footwear/Slippers,mixed,6413,manual_verification,high,deltaforce.net,0,WholesaleDistributionandSales
+kuumbamadeCo2,Consumer Goods,Fragrances/Body Products,mixed,12598,manual_verification,high,kuumbamade.com,"24,308",
+intellbioCo3,Healthcare & Medical,Biotech/Laboratory,crm_pipeline,1422,manual_verification,medium,intellbio.com,"5,301,510",OtherNone
+namusa,Manufacturing,Architectural Metals,quote_driven,3859,manual_verification,high,namusa.com,"11,171,994",
+equipmentlockCo,Security Equipment,Equipment Locks,transactional,10745,manual_verification,high,equipmentlock.com,"3,354,965",Manufacturing
+firestationfurniture,Furniture,Fire Station Furniture,quote_driven,28452,manual_verification,high,firestationfurniture.com,"8,281,961",
+FLH,Industrial,Fiberglass/Line Hardware,quote_driven,7815,manual_verification,medium,sbsassociates.com,"25,894,725",GeneralProductbasedBusiness
+happydayflower,Retail,Florist/Flowers,transactional,8590,manual_verification,medium,msn.com,"6,100,852",
+biggameusaCo2,Sports & Recreation,Football Equipment,quote_driven,9767,manual_verification,high,biggameusa.com,"15,094,597",Manufacturing
+LappStructures,Construction & Building,Sheds/Outdoor Structures,quote_driven,13962,manual_verification,high,mycbsadvisor.com,0,ConstructionGeneralContractor
+TexStar,Electrical,LED Lighting,transactional,2145,manual_verification,high,txstarpro.com,"1,807,510",
+nukitchens132,Construction & Building,Kitchen Remodeling,transactional,4616,manual_verification,high,nukitchens.com,"2,287,223",wholesale_distribution
+bertelsonprecast,Construction & Building,Precast Concrete,quote_driven,1756,manual_verification,high,bertelsonprecast.com,"1,228,905",manufacturing
+spkassociates,Manufacturing,Packaging & Display,quote_driven,10184,manual_verification,high,spkassociates.com,"1,695,610",WholesaleDistributionandSales
+yoderbilt,Construction & Building,Greenhouses,quote_driven,25905,manual_verification,high,yoderbilt.com,"11,356,174",Manufacturing
+bindersincCo1,Consumer Goods,Promotional Products,quote_driven,20860,manual_verification,high,bindersinc.com,"2,455,699",Manufacturing
+bassbrushes,Consumer Goods,Beauty/Personal Care,quote_driven,2838,manual_verification,high,bassbrushes.com,"3,043,658",WholesaleDistributionandSales
+sommselection,Food & Beverage,Wine Distribution,transactional,6245,manual_verification,high,sommselectionmiami.com,"12,011,451",WholesaleDistributionandSales
+BioAgEnergy,Industrial,Fuel Distribution,transactional,11786,manual_verification,high,staplesoil.com,"8,434,532",WholesaleDistributionandSales
+tritterfeeferCo1,Construction & Building,Outdoor Furniture/Sheds,quote_driven,7385,manual_verification,medium,,"1,939,491",manufacturing
+urbanfrontltd,Construction & Building,Doors & Windows,crm_pipeline,1727,manual_verification,high,,"1,640,756",
+redeagleinternational,Industrial,Agricultural Chemicals,transactional,7815,manual_verification,high,,"66,506,175",Manufacturing
+sumakenorthamericaMT,Industrial,Pneumatic Tools,quote_driven,10636,manual_verification,high,,"4,040,416",Manufacturing
+solsticeag,Industrial,Agricultural Products Distribution,crm_pipeline,17896,manual_verification,high,,"10,931,849",WholesaleDistributionandSales
+deltakits1,Automotive,Auto Glass Repair,transactional,15884,manual_verification,high,,"2,167,103",Manufacturing
+headnhome,Consumer Goods,Apparel/Hats,mixed,12275,manual_verification,high,,0,Manufacturing
+expressassembly1,Manufacturing,Contract Assembly,transactional,8374,manual_verification,medium,,"3,536,078",manufacturing
+CunninghamPianoCo,Retail,Musical Instruments/Pianos,transactional,5424,manual_verification,high,,"7,294,298",
+atWork,Furniture,Office Furniture,quote_driven,3026,manual_verification,medium,,"10,436,637",RetailShoporOnlineCommerce
+shedyard,Construction & Building,Sheds/Prefab Buildings,crm_pipeline,4377,manual_verification,medium,,0,RetailSummary
+brownsafe,Security Equipment,Luxury Safes,quote_driven,33497,manual_verification,high,,"21,600,258",manufacturing
+fifoil,Construction & Building,Insulation,crm_pipeline,19712,manual_verification,high,,"16,166,730",
+fujimats,Sports & Recreation,Martial Arts Equipment,quote_driven,33716,manual_verification,high,,"14,253,009",ManufacturerRepresentativeorAgent
+magnummarketing,Automotive,Shop Equipment,quote_driven,4274,manual_verification,high,,"1,003,480",ManufacturerRepresentativeorAgent
+celluma,Healthcare & Medical,LED Light Therapy,mixed,90126,manual_verification,high,,"50,953,150",manufacturing
+knf,Manufacturing,Pump Equipment,transactional,15914,manual_verification,high,,"1,282,915",Manufacturing
+tippmannarmscompanyllc,Sports & Recreation,Sporting Goods/Airsoft,quote_driven,2003,manual_verification,high,,"7,506,383",
+lenworth,Services,Equipment Service/Repair,quote_driven,3155,manual_verification,medium,,0,OtherNone
+dmitriyco1,Services,Custom Services,crm_pipeline,2587,manual_verification,low,,"6,271,001",Furniture and Home Furnishings Stores
+ct,Food & Beverage,Pet Food/Feed,quote_driven,1412,manual_verification,medium,,"1,847,580",Wholesale/Distribution
+customturnings,Manufacturing,Wood Components,mixed,4051,manual_verification,high,,"2,869,542",Manufacturing
+grothouse,Furniture,Wood Countertops,mixed,8720,manual_verification,high,,"5,828,472",Manufacturing
+coolsealgaskets,Industrial,Gaskets/Seals,transactional,2127,manual_verification,high,,0,Refrigeration equipment and supplies merchant wholesalers
+fjsproductionsllc,Services,Event Production,transactional,6739,manual_verification,medium,,"2,109,264",
+atlanticgraphics,Industrial,Printing Equipment,quote_driven,1403,manual_verification,high,,"5,850,015",
+elecraft7,Technology,Amateur Radio Equipment,mixed,2399,manual_verification,high,,"1,941,267",manufacturing
+vis2,Industrial,Janitorial Supplies,quote_driven,2434,manual_verification,medium,,"1,852,686",Manufacturing
+modcycles,Automotive,Powersports Parts,mixed,21217,manual_verification,high,,"1,121,649",Wholesale/Distribution
+ntgproducts,Industrial,Netting Products,quote_driven,4094,manual_verification,high,,"6,973,055",Manufacturing
+keybusinesssolutions,Technology,Office Equipment/Supplies,mixed,4638,manual_verification,medium,,"1,386,084",OtherNone
+dewesoft,Technology,Data Acquisition/Test Equipment,quote_driven,26706,manual_verification,high,,"49,962,844",
+supplyshield,Services,Compliance/Certification,transactional,3325,manual_verification,medium,,"3,934,698",WholesaleDistributionandSales
+skyproduct,Construction & Building,Roofing/Solar Mounting,quote_driven,6205,manual_verification,medium,,"1,877,849",WholesaleDistributionandSales
+refreshdeal,Consumer Goods,Corporate Gifts/Deal Toys,quote_driven,22746,manual_verification,medium,,"4,441,627",
